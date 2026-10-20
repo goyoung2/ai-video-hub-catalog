@@ -1,0 +1,11 @@
+{
+  "name": "ai-video-hub-public-catalog",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/publish-inbox.mjs --check",
+    "publish": "node scripts/publish-inbox.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
