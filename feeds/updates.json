@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T01:00:00Z",
+  "entries": [
+    {
+      "key": "20261020-kavel-free",
+      "kind": "new",
+      "summary": "새 무료 생성 경로 후보. Kavel 공식 사이트에 가입 20크레딧, 출석으로 주 100크레딧과 짧은 영상 생성 안내가 확인됩니다. 외부 모델별 무료 이용 범위는 별도 확인이 필요합니다.",
+      "observedAt": "2026-10-20",
+      "evidence": [
+        "https://www.kavel.ai/video",
+        "https://www.kavel.ai/video/storm-ii-ai-video"
+      ],
+      "site": {
+        "name": "Kavel AI (신규 발견)",
+        "url": "https://www.kavel.ai/video",
+        "grade": "B",
+        "models": "기본 무료 영상 엔진 / Seedance·Veo 등 외부 모델은 이용 가능 여부 확인",
+        "grant": "가입 시 20크레딧 + 출석으로 주간 100크레딧 안내 (사이트 자체 발표)",
+        "cycle": "가입+출석",
+        "notes": "사이트 운영사 표시 기준. 짧은 480p 클립 무료 안내; 특정 외부 고급 모델까지 무료라고 확정할 수 없음. 워터마크 미포함 주장, 실제 다운로드 확인 필요.",
+        "sources": [
+          "https://www.kavel.ai/video",
+          "https://www.kavel.ai/video/storm-ii-ai-video"
+        ],
+        "checked": "2026-10-20",
+        "current": true,
+        "priority": 18
+      }
+    },
+    {
+      "key": "20261020-seedance-tv-bonus",
+      "kind": "resumed",
+      "summary": "과거 검사에서 가입 크레딧을 미확인으로 표시했던 seedance.tv 가격표에 현재 신규 무료 12크레딧 안내가 보입니다. 과거 4크레딧보다 변경됐을 가능성이 있어 검토가 필요합니다.",
+      "observedAt": "2026-10-20",
+      "evidence": [
+        "https://www.seedance.tv/pricing"
+      ],
+      "site": {
+        "id": "seed_6",
+        "name": "seedance.tv",
+        "url": "https://www.seedance.tv/pricing",
+        "grade": "A",
+        "models": "Seedance 2 Mini 480p 5초, 기타 모델은 각 크레딧 비용 확인",
+        "grant": "가입 12크레딧 (운영사 표시, 480p 5초 약 3개)",
+        "cycle": "일회성",
+        "notes": "2026-10-20 가격표에는 가입 12크레딧, Seedance 2 Mini 480p 5초 4크레딧 안내. 운영사 주장 기준이며 실제 가입 계정 다운로드 검증 전. 비공식·독립 운영.",
+        "sources": [
+          "https://www.seedance.tv/pricing"
+        ],
+        "checked": "2026-10-20",
+        "current": true,
+        "priority": 36
+      }
+    },
+    {
+      "key": "20261020-viggle-watermark",
+      "kind": "changed",
+      "summary": "Viggle는 H3 하루 5회 무료·5초·480/768/1080p를 안내합니다. 다만 무료 내보내기에는 가시적 워터마크가 붙는다고 별도 도움 페이지에 명시해 이를 카탈로그에 기록할 필요가 있습니다.",
+      "observedAt": "2026-10-20",
+      "evidence": [
+        "https://viggle.ai/models/minimax-h3",
+        "https://viggle.ai/tools/image-to-video-ai",
+        "https://viggle.ai/pricing"
+      ],
+      "site": {
+        "id": "seed_103",
+        "name": "Viggle — MiniMax H3",
+        "url": "https://viggle.ai/models/minimax-h3",
+        "grade": "A",
+        "models": "MiniMax H3 · 5초 · T2V/I2V · 음성",
+        "grant": "하루 5회 무료 (무료 출력에 워터마크)",
+        "cycle": "매일",
+        "notes": "모델 페이지는 5초 480/768/1080p 무료라고 안내. 일반 I2V FAQ는 무료 출력 워터마크를 명시. 모델·해상도 잠금은 계정 화면에서 확인 권장. 동일 Viggle 무료 생성 5회 공유 가능성을 고려해 중복 합산하지 않음.",
+        "sources": [
+          "https://viggle.ai/models/minimax-h3",
+          "https://viggle.ai/tools/image-to-video-ai",
+          "https://viggle.ai/pricing"
+        ],
+        "checked": "2026-10-20",
+        "current": true,
+        "priority": 3
+      }
+    }
+  ]
+}
