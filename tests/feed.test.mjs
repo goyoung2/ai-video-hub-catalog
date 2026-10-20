@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {validate, merge} from '../scripts/publish-inbox.mjs';
+const item={key:'20261020-example',kind:'changed',observedAt:'2026-10-20',summary:'Example',evidence:['https://example.org/terms'],site:{id:'seed_1',name:'Example',url:'https://example.org',grade:'A',grant:'one/day'}};
+const doc={schemaVersion:1,generatedAt:'2026-10-20T00:00:00Z',entries:[item]};
+test('accepts sourced changes',()=>assert.equal(validate(doc).entries.length,1));
+test('rejects insecure links',()=>assert.throws(()=>validate({...doc,entries:[{...item,evidence:['http://example.org']}]})));
+test('rejects duplicate keys',()=>assert.throws(()=>validate({...doc,entries:[item,item]})));
+test('publishes new unique change',()=>assert.equal(merge({...doc,entries:[]},[doc]).output.entries.length,1));
+test('does not republish same change',()=>assert.equal(merge(doc,[doc]).changed,false));
+test('rejects conflicting key contents',()=>assert.throws(()=>merge(doc,[{...doc,entries:[{...item,summary:'Different'}]}])));
