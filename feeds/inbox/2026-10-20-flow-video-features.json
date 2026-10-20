@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T05:00:00Z",
+  "entries": [
+    {
+      "key": "20261020-flow-video-features",
+      "kind": "changed",
+      "summary": "Google Flow 무료 플랜의 매일 50크레딧은 그대로이며, 공식 페이지에 Video Extension·Video-to-video editing·Frames to Video·Ingredients to Video 기능이 무료 사용자에게도 제공된다고 안내되어 모델 접근 정보에 기능 범위를 보완합니다. 실제 계정의 세부 제한은 별도 검증이 필요합니다.",
+      "observedAt": "2026-10-20",
+      "evidence": [
+        "https://labs.google/fx/tools/flow"
+      ],
+      "site": {
+        "id": "seed_7",
+        "name": "Google Flow",
+        "url": "https://labs.google/fx/tools/flow",
+        "grade": "A",
+        "models": "Veo 3.1 Lite/Fast, Gemini Omni Flash · Frames to Video, Ingredients to Video, 영상 연장·V2V 편집",
+        "grant": "매일 50 Flow 크레딧",
+        "cycle": "매일",
+        "sources": [
+          "https://labs.google/fx/tools/flow"
+        ],
+        "checked": "2026-10-20"
+      }
+    }
+  ]
+}
