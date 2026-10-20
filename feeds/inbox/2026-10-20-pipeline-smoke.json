@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T01:00:00Z",
+  "entries": [
+    {
+      "key": "20261020-viggle-watermark",
+      "kind": "changed",
+      "summary": "Viggle는 H3 하루 5회 무료·5초·480/768/1080p를 안내합니다. 다만 무료 내보내기에는 가시적 워터마크가 붙는다고 별도 도움 페이지에 명시해 이를 카탈로그에 기록할 필요가 있습니다.",
+      "observedAt": "2026-10-20",
+      "evidence": [
+        "https://viggle.ai/models/minimax-h3",
+        "https://viggle.ai/tools/image-to-video-ai",
+        "https://viggle.ai/pricing"
+      ],
+      "site": {
+        "id": "seed_103",
+        "name": "Viggle — MiniMax H3",
+        "url": "https://viggle.ai/models/minimax-h3",
+        "grade": "A",
+        "models": "MiniMax H3 · 5초 · T2V/I2V · 음성",
+        "grant": "하루 5회 무료 (무료 출력에 워터마크)",
+        "cycle": "매일",
+        "notes": "모델 페이지는 5초 480/768/1080p 무료라고 안내. 일반 I2V FAQ는 무료 출력 워터마크를 명시. 모델·해상도 잠금은 계정 화면에서 확인 권장. 동일 Viggle 무료 생성 5회 공유 가능성을 고려해 중복 합산하지 않음.",
+        "sources": [
+          "https://viggle.ai/models/minimax-h3",
+          "https://viggle.ai/tools/image-to-video-ai",
+          "https://viggle.ai/pricing"
+        ],
+        "checked": "2026-10-20",
+        "current": true,
+        "priority": 3
+      }
+    }
+  ]
+}
