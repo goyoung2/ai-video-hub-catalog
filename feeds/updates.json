@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T04:47:27.832Z",
+  "generatedAt": "2026-10-21T00:57:29.397Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -102,6 +102,30 @@
           "https://labs.google/fx/tools/flow"
         ],
         "checked": "2026-10-20"
+      }
+    },
+    {
+      "key": "20261021-pixverse-free-resolution-reset",
+      "kind": "changed",
+      "summary": "PixVerse Basic의 기존 가입 60·매일 30크레딧 조건에 공식 무료 해상도 540p, 워터마크 제거 미지원, UTC 00:00 일일 재설정과 미사용분 소멸 정보를 보완합니다.",
+      "observedAt": "2026-10-21",
+      "evidence": [
+        "https://app.pixverse.ai/subscribe"
+      ],
+      "site": {
+        "id": "seed_45",
+        "name": "PixVerse",
+        "url": "https://app.pixverse.ai/subscribe",
+        "grade": "A",
+        "models": "Basic에서는 PixVerse 자체 영상 모델만 무료. 외부 영상 모델은 상위 요금제 적용.",
+        "grant": "가입 60크레딧 + 매일 30크레딧 (00:00 UTC 갱신, 당일 소멸)",
+        "cycle": "매일",
+        "notes": "2026-10-21 공식 요금표 열람. 무료 영상은 최대 540p, 워터마크 없는 출력은 유료. 실제 영상 생성과 다운로드는 수행하지 않음.",
+        "sources": [
+          "https://app.pixverse.ai/subscribe"
+        ],
+        "checked": "2026-10-21",
+        "current": true
       }
     }
   ]
