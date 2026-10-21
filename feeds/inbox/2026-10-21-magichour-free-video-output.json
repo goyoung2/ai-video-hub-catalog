@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T00:57:36.012Z",
+  "entries": [
+    {
+      "key": "20261021-magichour-free-video-output",
+      "kind": "changed",
+      "summary": "Magic Hour 공식 FAQ에서 하루 총 3회 무료 영상 생성이 텍스트·이미지·AI 편집 모드에 공유되고, 결과는 3초 480p·워터마크 포함·음성 가능함을 확인했습니다. 지급량 자체의 신규 증감으로 단정하지 않습니다.",
+      "observedAt": "2026-10-21",
+      "evidence": [
+        "https://magichour.ai/products/ai-video-generator",
+        "https://magichour.ai/products/image-to-video"
+      ],
+      "site": {
+        "id": "seed_20",
+        "name": "Magic Hour",
+        "url": "https://magichour.ai/products/ai-video-generator",
+        "grade": "A",
+        "models": "무료 영상은 LTX-2.5, Kling·Veo 등 고급 영상 모델은 유료",
+        "grant": "텍스트→영상·이미지→영상·AI 편집 합산 3회/일 (3초·480p·워터마크)",
+        "cycle": "매일",
+        "notes": "공식 홈페이지 FAQ와 I2V FAQ 열람 확인. 로그인 없이 3회 무료 생성 가능하다고 안내하며 MP4 다운로드 지원. 무료 영상은 개인·비상업적 용도만 사용 가능하다는 운영사 안내. 실제 생성·다운로드·계정별 한도는 검증하지 않음.",
+        "sources": [
+          "https://magichour.ai/products/ai-video-generator",
+          "https://magichour.ai/products/image-to-video"
+        ],
+        "checked": "2026-10-21",
+        "current": true,
+        "priority": 19
+      }
+    }
+  ]
+}
