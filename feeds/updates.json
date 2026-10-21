@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T00:57:44.547Z",
+  "generatedAt": "2026-10-21T00:58:02.431Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -153,6 +153,30 @@
         "checked": "2026-10-21",
         "current": true,
         "priority": 19
+      }
+    },
+    {
+      "key": "20261021-videogen-model1-selective-credits",
+      "kind": "new",
+      "summary": "VideoGen Model 1이 10월 20일 제한적 비공개 공개를 시작하며 프로젝트 심사형 무료 크레딧 신청을 열었습니다. 일반 사용자에게 자동 지급되는 무료 계층이 아니라 선정 시에만 혜택을 받는 조건부 체험입니다.",
+      "observedAt": "2026-10-21",
+      "evidence": [
+        "https://videogen.io/model-1"
+      ],
+      "site": {
+        "name": "VideoGen Model 1 — 선발형 무료 체험",
+        "url": "https://videogen.io/model-1",
+        "grade": "C",
+        "models": "VideoGen Model 1: 텍스트·이미지 입력으로 다중 장면 영상과 음성 생성, 최대 10분(운영사 설명)",
+        "grant": "2026-10-20 신청 개시. 총 미화 100만 달러 무료 크레딧 지원 프로그램에서 선정 프로젝트에 개별 배정",
+        "cycle": "선정형·기간 한정",
+        "notes": "공식 웹페이지 열람 확인. 2026년 말까지 창작 프로젝트별 심사 배분 예정. 일반적인 가입 보너스가 아니며 승인 전 사용 불가. 무료분량·결제카드 요구 여부는 미공개. 로그인·신청·실제 생성·다운로드는 검증하지 않음.",
+        "sources": [
+          "https://videogen.io/model-1"
+        ],
+        "checked": "2026-10-21",
+        "current": true,
+        "priority": 88
       }
     }
   ]
