@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-22T01:02:43Z",
+  "entries": [
+    {
+      "key": "20261022-runway-free-watermark-topup",
+      "kind": "changed",
+      "summary": "Runway 공식 Free 안내에서 영상 출력 전부에 가시적 워터마크가 붙고 무료 플랜에서는 추가 크레딧 구매가 불가함을 확인했습니다. 기존 125크레딧은 일회성·무기한·재충전 없음이며 저장공간 5GB도 명시돼 무료 이용 제한 정보를 보완합니다. 실제 정책 변경 시점은 확인되지 않았습니다.",
+      "observedAt": "2026-10-22",
+      "evidence": [
+        "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details"
+      ],
+      "site": {
+        "id": "seed_24",
+        "name": "Runway",
+        "url": "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details",
+        "grade": "B",
+        "models": "무료 이용 가능 모델은 유동적이며 무료 계정 로그인 화면에서 확인 필요",
+        "grant": "125 크레딧 일회성(만료·갱신 없음); 무료 생성 영상 전체 워터마크; Free에서 추가 크레딧 구매 불가",
+        "cycle": "일회성",
+        "notes": "공식 Free 도움말에 에셋 저장 5GB와 영상 워터마크, 무료 플랜 추가 크레딧 구매 불가 명시. 홈페이지·도움말만 열람; 로그인·실제 생성·다운로드·크레딧 차감은 검증하지 않음. 기존 지급량 변동을 주장하지 않는 정책 정보 보완.",
+        "sources": [
+          "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details"
+        ],
+        "checked": "2026-10-22",
+        "current": true
+      }
+    },
+    {
+      "key": "20261022-heygen-free-watermark-nocard",
+      "kind": "changed",
+      "summary": "HeyGen 공식 요금표·FAQ에서 무료 월 3영상(최대 1분), 가시적 워터마크 강제, 결제카드 없이 시작 가능, Avatar IV·Video Agent 제한 체험을 확인했습니다. Seedance 2.0은 Pro 혜택으로 구분돼 무료 플랜에 포함된다고 볼 수 없습니다.",
+      "observedAt": "2026-10-22",
+      "evidence": [
+        "https://www.heygen.com/pricing",
+        "https://help.heygen.com/en/articles/11057301-how-to-remove-the-heygen-watermark"
+      ],
+      "site": {
+        "id": "seed_112",
+        "name": "HeyGen — Avatar IV",
+        "url": "https://www.heygen.com/pricing",
+        "grade": "A",
+        "models": "무료: Avatar IV·Video Agent 제한 체험; Seedance 2.0은 Pro 전용으로 안내",
+        "grant": "무료 월 3영상·각 최대 1분; 출력에 HeyGen 워터마크; 카드 등록 불필요",
+        "cycle": "매월",
+        "notes": "공식 요금표에서 무료 워터마크와 카드 불필요 확인. 공식 도움말은 무료 사용자 워터마크 제거 불가라고 명시. 기존 월 3영상 자체의 증감은 확인되지 않음. 사이트 열람만 확인, 가입·영상 생성·MP4 다운로드 검증은 미실시.",
+        "sources": [
+          "https://www.heygen.com/pricing",
+          "https://help.heygen.com/en/articles/11057301-how-to-remove-the-heygen-watermark"
+        ],
+        "checked": "2026-10-22",
+        "current": true
+      }
+    },
+    {
+      "key": "20261022-capturable-rolling-seven-day-bandwidth",
+      "kind": "changed",
+      "summary": "Capturable 공식 FAQ에 무료 60초 영상/이미지 20장 할당량이 고정 요일 초기화가 아니라 사용 시점 기준 7일이 지나며 순차 복구되는 방식이라고 명시됐습니다. 무료 영상은 1클립 최대 19초, 월 다운로드·재생 트래픽 500MB, 저장 100MB, 카드 불필요로 안내됩니다.",
+      "observedAt": "2026-10-22",
+      "evidence": [
+        "https://capturable.ai/pricing",
+        "https://capturable.ai/press"
+      ],
+      "site": {
+        "id": "seed_104",
+        "name": "Capturable Gen 2",
+        "url": "https://capturable.ai/pricing",
+        "grade": "A",
+        "models": "Capturable Gen 2 자체 영상·이미지·AI 음성",
+        "grant": "무료 7일 이동 창 기준 Gen 2 영상 60초 + 이미지 20장; 클립당 최대 19초, 월 전송량 500MB",
+        "cycle": "이동식 7일(사용분이 7일 경과 시 회복)",
+        "notes": "무료 5프로젝트, 100MB 저장공간, 원본 100MB 이하 Quick Clips/Instant Edits, 카드 불필요, 일반 대기열. 다운로드/재생은 전송량을 차감하므로 500MB/월 제한 유의. 공식 페이지 열람 확인, 가입·실제 생성·다운로드 미검증. 기존 주 60초의 변경 일자는 미확인, 세부 규칙 보완.",
+        "sources": [
+          "https://capturable.ai/pricing",
+          "https://capturable.ai/press"
+        ],
+        "checked": "2026-10-22",
+        "current": true
+      }
+    },
+    {
+      "key": "20261022-leonardo-video-models-free-token-clarity",
+      "kind": "changed",
+      "summary": "Leonardo.Ai 공식 T2V/FAQ가 무료 사용자에게 매일 150 Fast 토큰을 지급해 텍스트→영상 생성 실험이 가능하다고 명시하고, 모델 카탈로그에 Seedance 2.5·MiniMax H3·Kling 3.0 Turbo·FLUX 3 Video의 동기화 음성을 소개합니다. 다만 이들 고급 모델 각각이 무료 150토큰으로 실행 가능한지는 확인되지 않았습니다.",
+      "observedAt": "2026-10-22",
+      "evidence": [
+        "https://leonardo.ai/text-to-video",
+        "https://leonardo.ai/news/how-to-add-ai-music-to-videos",
+        "https://leonardo.ai/pricing"
+      ],
+      "site": {
+        "id": "seed_25",
+        "name": "Leonardo.Ai",
+        "url": "https://leonardo.ai/text-to-video",
+        "grade": "B",
+        "models": "영상 카탈로그: Seedance 2.5, MiniMax H3, Kling 3.0 Turbo, FLUX 3 Video, Hailuo 2.3 등. 개별 모델의 무료 토큰 충족 여부는 미검증",
+        "grant": "무료 계정 매일 Fast 토큰 150개; T2V 체험에 사용 가능하다고 공식 설명(고급 모델별 생성 가격 별도)",
+        "cycle": "매일(24시간 갱신 상세는 도움말 기준)",
+        "notes": "공식 설명상 무료 생성물은 공개 및 Leonardo 소유, 사용자에게 상업 이용 가능한 로열티 프리 라이선스 제공(별도 이용약관 적용). 신규 고급 영상 모델은 API 기반일 수 있어 토큰 150개로 실제 생성 가능한지 로그인 검증 필요. 홈페이지·요금표·공식 기사 열람만 수행, 실제 생성·다운로드 미검증.",
+        "sources": [
+          "https://leonardo.ai/text-to-video",
+          "https://leonardo.ai/news/how-to-add-ai-music-to-videos",
+          "https://leonardo.ai/pricing",
+          "https://www.leonardo.ai/news/can-you-use-ai-generated-images-commercially"
+        ],
+        "checked": "2026-10-22",
+        "current": true
+      }
+    },
+    {
+      "key": "20261022-ltx-free-personal-license",
+      "kind": "changed",
+      "summary": "LTX Studio 공식 요금표에서 무료 800크레딧은 일회성이며 Free 사용권이 개인적 사용으로 제한된다고 확인했습니다. 무워터마크 기능은 유료 Lite 혜택으로 표시되며 무료 2.5 모델 접근·영상 다운로드 워터마크를 직접 확인하지는 못했습니다.",
+      "observedAt": "2026-10-22",
+      "evidence": [
+        "https://ltx.io/studio/pricing"
+      ],
+      "site": {
+        "id": "seed_21",
+        "name": "LTX Studio / Playground",
+        "url": "https://ltx.io/studio/pricing",
+        "grade": "A",
+        "models": "LTX Studio 무료 표기: LTX-2·LTX-2.3; 플랫폼 LTX-2.5 제공 사실과 무료 접근 여부는 구분 필요",
+        "grant": "Free 800 크레딧 일회성(월별 재충전 없음); 개인 용도 라이선스",
+        "cycle": "일회성",
+        "notes": "공식 요금표는 Free를 Personal use license 및 비상업적 사용으로 설명; 카드 청구 없는 Free 플랜. 유료 Lite에서 No watermarking 제공. 무료 출력의 구체적인 워터마크 상태·LTX-2.5 무료 사용·실제 다운로드는 로그인 전 검증 못함. 공식 페이지 열람에 기반한 누락 정보 보완.",
+        "sources": [
+          "https://ltx.io/studio/pricing"
+        ],
+        "checked": "2026-10-22",
+        "current": true
+      }
+    }
+  ]
+}
