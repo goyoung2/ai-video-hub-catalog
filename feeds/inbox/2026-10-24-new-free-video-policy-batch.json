@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T00:22:54.209Z",
+  "entries": [
+    {
+      "key": "20261023-visionstory-free-weekly-avatar",
+      "kind": "new",
+      "summary": "VisionStory 공식 Free는 가입 10크레딧, 가입 다음 주부터 방문 주간 4크레딧, V-Character 4.0 토킹 아바타 최대 30초·720p를 안내합니다. Seedance 2.5 및 무워터마크는 유료 혜택입니다.",
+      "observedAt": "2026-10-23",
+      "evidence": [
+        "https://www.visionstory.ai/pricing"
+      ],
+      "site": {
+        "name": "VisionStory — V-Character 4.0",
+        "url": "https://www.visionstory.ai/pricing",
+        "grade": "A",
+        "models": "무료 V-Character 4.0 토킹 아바타(720p). Seedance 2.5는 유료 Pro.",
+        "grant": "가입 10크레딧 + 주간 방문 보너스 4크레딧(가입 다음 주부터); 최대 30초/영상",
+        "cycle": "가입+매주 방문",
+        "notes": "공식 무료 요금표와 FAQ 열람 확인. V-Character 720p 기본 4초마다 1크레딧. 월 자동 리필과 혼동하지 말 것. 계정 가입·생성·다운로드 검증 없음.",
+        "sources": [
+          "https://www.visionstory.ai/pricing"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261023-puppetry-free-talking-head",
+      "kind": "new",
+      "summary": "Puppetry 공식 무료 요금표에 사진 기반 토킹 영상 월 3회 creations, 워터마크 포함 영상 내보내기, 카드 불필요가 명시됩니다. 별도 안내의 월 1회 표기는 상충합니다.",
+      "observedAt": "2026-10-23",
+      "evidence": [
+        "https://www.puppetry.com/pricing",
+        "https://www.puppetry.com/free-ai-video-generator"
+      ],
+      "site": {
+        "name": "Puppetry — Talking Photo",
+        "url": "https://www.puppetry.com/pricing",
+        "grade": "B",
+        "models": "사진+텍스트/음성으로 말하는 인물 영상, 65개 이상 언어",
+        "grant": "무료 3 creations/월; 워터마크 포함 출력; 신용카드 불필요",
+        "cycle": "매월",
+        "notes": "월 3회는 공식 요금표 기준. 일부 다른 FAQ에 1회 표기가 있어 실제 지급량 확인 필요. 실제 가입·생성·다운로드 검증 없음.",
+        "sources": [
+          "https://www.puppetry.com/pricing",
+          "https://www.puppetry.com/free-ai-video-generator"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261023-creatify-free-monthly-video-ads",
+      "kind": "new",
+      "summary": "Creatify 공식 요금표·도움말에 월 10무료 크레딧, 최대 15초 광고·아바타 영상 약 2개, 무료 다운로드 및 워터마크 조건이 기재돼 있습니다.",
+      "observedAt": "2026-10-23",
+      "evidence": [
+        "https://creatify.ai/pricing",
+        "https://help.creatify.ai/en/articles/9945986-free-plan",
+        "https://help.creatify.ai/en/articles/10468243-faqs"
+      ],
+      "site": {
+        "name": "Creatify AI — Video Ad / Avatar",
+        "url": "https://creatify.ai/pricing",
+        "grade": "A",
+        "models": "Free: Avatar Video, Video Ad, Image Ads; 고급 모델별 무료 한도 별도",
+        "grant": "10크레딧/월(15초 광고·아바타 영상 약 2개); 워터마크 포함 다운로드",
+        "cycle": "매월",
+        "notes": "2026-10-24 공식 요금표와 8월 19일 업데이트된 도움말에서 월 10크레딧 일치 확인. 그보다 오래된 FAQ의 월 5크레딧 표기와 상충 가능성 있음. 계정·생성·다운로드 검증 없음.",
+        "sources": [
+          "https://creatify.ai/pricing",
+          "https://help.creatify.ai/en/articles/9945986-free-plan",
+          "https://help.creatify.ai/en/articles/10468243-faqs"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261023-synthesia-syren-basic-export-window",
+      "kind": "changed",
+      "summary": "Synthesia Syren 베타 무료 Basic은 영상 최대 3분, 워터마크 부착, 다운로드 및 공유 첫 2주 허용으로 안내됩니다. 기존 일반 Basic의 다운로드 제한과 구분해야 합니다.",
+      "observedAt": "2026-10-23",
+      "evidence": [
+        "https://help.synthesia.io/en/articles/17441336-how-do-i-create-a-video-with-syren",
+        "https://help.synthesia.io/en/articles/9317524-how-do-i-download-my-synthesia-video",
+        "https://www.synthesia.io/pricing"
+      ],
+      "site": {
+        "id": "seed_113",
+        "name": "Synthesia — Basic / Syren",
+        "url": "https://www.synthesia.io/pricing",
+        "grade": "B",
+        "models": "Basic 아바타 영상 + Syren AI 영상 에이전트 베타(Free 영상 최대 3분)",
+        "grant": "Basic 무료 기능 내 Syren 최대 3분/영상, 워터마크; 다운로드·공유 첫 2주만 지원",
+        "cycle": "Basic 월간 한도 및 Syren 첫 2주 제한",
+        "notes": "공식 Syren 도움말은 2026-10-23 갱신 확인. 첫 2주가 계정 가입 기준인지 기능 접근 기준인지 불명확. 모든 무료 계정의 현재 다운로드 가능을 보장하지 않음. 로그인·생성·다운로드 미검증.",
+        "sources": [
+          "https://help.synthesia.io/en/articles/17441336-how-do-i-create-a-video-with-syren",
+          "https://help.synthesia.io/en/articles/9317524-how-do-i-download-my-synthesia-video",
+          "https://www.synthesia.io/pricing"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261023-seedance-tv-free-watermark-access",
+      "kind": "changed",
+      "summary": "기존 게시된 seedance.tv 가입 12크레딧 정보에 카드 불필요, 무료 계정 전체 모델 메뉴 접근, 무료 Seedance·Veo 결과 워터마크 정책을 보완합니다.",
+      "observedAt": "2026-10-23",
+      "evidence": [
+        "https://www.seedance.tv/pricing"
+      ],
+      "site": {
+        "id": "seed_6",
+        "name": "seedance.tv",
+        "url": "https://www.seedance.tv/pricing",
+        "grade": "A",
+        "models": "무료 계정 모든 모델 접근 안내. 가입 12크레딧으로는 4크레딧인 Seedance 2 Mini 480p·5초 등이 현실적.",
+        "grant": "가입 12크레딧(일회성), 카드 불필요. Seedance·Veo 무료 영상 워터마크.",
+        "cycle": "일회성",
+        "notes": "기존 20261020-seedance-tv-bonus(12크레딧)와 수량 중복 제안이 아니라 모델 접근과 워터마크 조건 보완. ByteDance 직영이 아닌 독립 서비스. 생성·다운로드 실측 없음.",
+        "sources": [
+          "https://www.seedance.tv/pricing"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261024-animatic-free-100-once-watermark",
+      "kind": "new",
+      "summary": "Animatic 신규 무료 영상 제작 경로: 카드 없이 일회성 100크레딧, 영상 애니메이션 장면 생성 가능, 무료 프로젝트 최대 10분·출력 720p 워터마크. 10분은 크레딧으로 보장되는 제작 분량이 아닙니다.",
+      "observedAt": "2026-10-24",
+      "evidence": [
+        "https://animatic.ai/pricing",
+        "https://animatic.ai/"
+      ],
+      "site": {
+        "name": "Animatic — Animate Scene",
+        "url": "https://animatic.ai/pricing",
+        "grade": "A",
+        "models": "Animate Scene: AI 장면 영상 생성 + 이미지·스크립트·내레이션 통합 제작",
+        "grant": "가입 무료 100크레딧 1회; 720p 워터마크 포함 출력; 최대 10분 프로젝트",
+        "cycle": "일회성",
+        "notes": "공식 요금표·FAQ 직접 열람. 프로젝트 길이 10분은 최대치일 뿐 무료 100크레딧으로 10분 완성 보장 없음. 장면 사진/내레이션/동영상 생성 시 공용 크레딧 차감. 무료 프로젝트 30일 보관 안내. 카드 필요 없음. 가입·생성·다운로드 미검증.",
+        "sources": [
+          "https://animatic.ai/pricing",
+          "https://animatic.ai/"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261024-huko-desktop-free-100-no-watermark",
+      "kind": "new",
+      "summary": "Huko 신규 데스크톱 AI 애니메이션 영상 제작 경로: Windows·macOS 앱 Free에서 최초 100 AI크레딧, 워터마크 없는 출력, 최대 4K 내보내기와 무료 편집 기능을 안내합니다.",
+      "observedAt": "2026-10-24",
+      "evidence": [
+        "https://huko.ai/"
+      ],
+      "site": {
+        "name": "Huko — AI Animated Video Editor",
+        "url": "https://huko.ai/",
+        "grade": "B",
+        "models": "프롬프트/스크립트 → 애니메이션 장면·모션그래픽·음성·자막 생성 후 편집(데스크톱)",
+        "grant": "시작 시 AI 크레딧 100, 워터마크 없는 최대 4K 출력; 편집·내보내기 무료",
+        "cycle": "시작 지급 1회, 무료 갱신 미표기",
+        "notes": "일반 클라우드 T2V 모델 사이트와 다른 데스크톱 영상 제작 도구로 별도 분류 필요. 공식 홈페이지 직접 열람. 카드 필요 없음. 소프트웨어 설치·크레딧 사용·실제 영상 렌더링·다운로드는 검증하지 않음.",
+        "sources": [
+          "https://huko.ai/"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    },
+    {
+      "key": "20261024-redvideo-core-i2v-daily-claims",
+      "kind": "new",
+      "summary": "RedVideo 신규 조건부 무료 I2V 경로: 신규 적격 계정에 시작 크레딧, 가입 24시간 후부터 일일 크레딧 청구. 무료 범위는 5초 Core 이미지 기반 영상이며 T2V 모델은 모두 유료 Pro/Ultra 전용입니다.",
+      "observedAt": "2026-10-24",
+      "evidence": [
+        "https://redvideo.ai/free-ai-video-generator",
+        "https://redvideo.ai/pricing"
+      ],
+      "site": {
+        "name": "RedVideo — Core Image to Video",
+        "url": "https://redvideo.ai/free-ai-video-generator",
+        "grade": "C",
+        "models": "RedVideo Core 이미지→영상·시작/끝 프레임 5초(무료 적격 설정); T2V는 Pro/Ultra 필요",
+        "grant": "적격 신규 계정 가입 크레딧 + 가입 24시간 후 일일 청구 가능, 정확한 수량 미공개",
+        "cycle": "가입+매일 청구(첫 24시간 후, UTC 일자/네트워크 제한)",
+        "notes": "운영사 공식 홈페이지와 가격표 열람. 모든 무료 계정에 무제한 Core 권한이 있는 것이 아니며, 청구량/모델 별 요금은 로그인 화면에 따라 다름. 계정 등록·생성·다운로드·결제 검증 없음.",
+        "sources": [
+          "https://redvideo.ai/free-ai-video-generator",
+          "https://redvideo.ai/pricing"
+        ],
+        "checked": "2026-10-24",
+        "current": true
+      }
+    }
+  ]
+}
