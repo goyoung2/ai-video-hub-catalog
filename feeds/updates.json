@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T00:23:16.438Z",
+  "generatedAt": "2026-10-25T00:42:13.320Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -507,6 +507,189 @@
         "checked": "2026-10-24",
         "current": true
       }
+    },
+    {
+      "key": "20261025-krikey-3d-free-onetime-20",
+      "kind": "new",
+      "summary": "Krikey AI 공식 요금표에서 무료 3D 애니메이션 제작 플랜의 일회성 20크레딧과 기본 내보내기가 확인됩니다. 월 자동 충전이 아니며 워터마크 제거는 유료 혜택입니다.",
+      "evidence": [
+        "https://www.krikey.ai/pricing"
+      ],
+      "site": {
+        "name": "Krikey AI — 3D Animation",
+        "url": "https://www.krikey.ai/pricing",
+        "grade": "B",
+        "models": "AI Text-to-Animation / 3D 캐릭터 애니메이션 / 음성·스크립트 기반 영상 편집",
+        "grant": "무료 가입 20크레딧(일회성), 표준 포맷 출력",
+        "cycle": "일회성",
+        "notes": "월 $0 Free 요금제라도 크레딧은 월 반복 지급 아님. Pro부터 워터마크 제거·FBX 등 고급 출력이 명시됨. 일반적인 실사 T2V/I2V 모델 서비스와 달리 3D 애니메이션 중심. 홈페이지·요금표 열람만 확인, 가입·생성·크레딧 차감·다운로드 미검증.",
+        "sources": [
+          "https://www.krikey.ai/pricing"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 22
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-veed-playground-regionfree-12s",
+      "kind": "new",
+      "summary": "VEED AI Playground는 Veo·Kling·Seedance를 통한 텍스트/이미지→영상 생성을 제공하지만 무료 AI크레딧은 지역별로 제공 여부가 달라집니다. 해당 지역 무료 계정은 최대 12초이며 한국 지급 여부는 미확인입니다.",
+      "evidence": [
+        "https://support.veed.io/en/articles/11712887-how-to-use-veed-s-ai-playground",
+        "https://support.veed.io/en/articles/11579825-how-to-use-ai-video-generator"
+      ],
+      "site": {
+        "name": "VEED AI Playground — 지역 제한 무료",
+        "url": "https://www.veed.io/ai-playground",
+        "grade": "U",
+        "models": "Veo 3 / Kling / Seedance 계열 T2V·I2V (모델별 비용 표시)",
+        "grant": "일부 지역의 무료 계정에 AI크레딧 지급. 지급량 미공개, 최대 12초 영상; 미지원 지역 지급 0",
+        "cycle": "지역·계정에 따라 미확인",
+        "notes": "공식 고객센터 2026-08-21 안내. 한국 무료 계정에도 크레딧을 준다는 보장 없음. 사이트 무료 편집 기능과 AI 영상 생성 가능 여부를 구분. 크레딧·워터마크·다운로드 실측 없음.",
+        "sources": [
+          "https://support.veed.io/en/articles/11712887-how-to-use-veed-s-ai-playground",
+          "https://support.veed.io/en/articles/11579825-how-to-use-ai-video-generator"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 18
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-renderforest-free-test-not-unlimited",
+      "kind": "new",
+      "summary": "Renderforest 공식 안내에 무료 가입자의 워터마크 포함 영상 체험과 자체 Fast/Pro 모델 체험용 크레딧이 있습니다. 'Fast 무제한 무료 생성'은 실제로 Pro·Business 유료 가입자에게만 적용됨을 공식 도움말에서 확인했습니다.",
+      "evidence": [
+        "https://www.renderforest.com/subscription/",
+        "https://www.renderforest.com/renderforest-ai-models",
+        "https://help.renderforest.com/support/solutions/articles/72000662238--unlimited-free-ai-video-generation-a-step-by-step-guide-"
+      ],
+      "site": {
+        "name": "Renderforest — AI Video Free Trial",
+        "url": "https://www.renderforest.com/renderforest-ai-models",
+        "grade": "B",
+        "models": "Renderforest Fast·Pro 자체 모델(T2V/I2V) 무료 테스트 크레딧. Kling·Veo·Seedance 등 외부 모델은 별도 크레딧",
+        "grant": "무료 시험 크레딧·워터마크 포함 출력 안내. 가입 기본 크레딧 수량은 미공개",
+        "cycle": "무료 체험(반복 충전 미확인)",
+        "notes": "공식 요금표 Free: HD 워터마크. Fast 모델 '무제한 크레딧 불차감'은 무료 $0 플랜이 아닌 Pro·Business 구독 한정이라고 공식 도움말 명시. 프로모션·지역에 따라 지급량 차이 가능. 홈페이지/공식 도움말 열람만 수행. 실제 생성·다운로드 미검증.",
+        "sources": [
+          "https://www.renderforest.com/subscription/",
+          "https://www.renderforest.com/renderforest-ai-models",
+          "https://help.renderforest.com/support/solutions/articles/72000662238--unlimited-free-ai-video-generation-a-step-by-step-guide-"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 25
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-mangoai-free-avatar-no-t2v-i2v",
+      "kind": "new",
+      "summary": "Mango AI 무료 요금제는 180크레딧을 토킹 사진·아바타 등 기타 영상 도구에 제공하지만 T2V·I2V·참조 영상·AI 광고·효과에는 무료 크레딧 0을 명시합니다. 무료 출력 워터마크와 개인 이용 제한이 있습니다.",
+      "evidence": [
+        "https://mangoanimate.com/store/app/ai"
+      ],
+      "site": {
+        "name": "Mango AI — 무료 토킹 아바타 한정",
+        "url": "https://mangoanimate.com/store/app/ai",
+        "grade": "C",
+        "models": "Free: Talking Photo / Talking Animals / Talking Avatar 등 일부 아바타·립싱크; Text-to-Video·Image-to-Video·Reference-to-Video 및 AI Ad는 무료 할당 0",
+        "grant": "Free 180크레딧(기타 도구용). T2V·I2V·효과·AI 광고 무료 크레딧 0; 영상 워터마크",
+        "cycle": "무료 180크레딧의 갱신 주기 불명(월 요금제 표기만으로 매월 재충전 단정 불가)",
+        "notes": "공식 가격표에 '0 Credit for Effects, Text to Video, Image to Video, Reference to Video, and AI Ad Generator' 명시. 상위 유료 요금제와 혼동 금지. 무료 개인 이용 라이선스·오디오 업로드/녹음 총 2회(최대 1분/오디오). 사이트 열람만 확인; 가입·생성·다운로드 미검증.",
+        "sources": [
+          "https://mangoanimate.com/store/app/ai"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 20
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-steveai-free-preview-limited-hd-exports",
+      "kind": "new",
+      "summary": "Steve AI 공식 FAQ는 무료 계정에서 AI 기반 만화·애니메이션 영상 프로젝트를 무제한 생성·미리보기할 수 있고 HD 다운로드는 제한된 횟수만 제공한다고 설명합니다. 실제 Generative AI 모델 영상 크레딧 수량은 별도 확인이 필요합니다.",
+      "evidence": [
+        "https://www.steve.ai/faq/en/articles/8294271-does-steve-ai-offer-a-free-trial",
+        "https://www.steve.ai/ai-2d-animation-generator"
+      ],
+      "site": {
+        "name": "Steve AI — Animated Video Free",
+        "url": "https://www.steve.ai/ai-2d-animation-generator",
+        "grade": "C",
+        "models": "스크립트→2D 애니메이션/카툰 비디오·템플릿 및 스톡 활용형 AI 영상 제작. 생성형 모션 크레딧은 유료표와 구분",
+        "grant": "무료 프로젝트 생성·미리보기 무제한, HD 출력 제한 횟수(공식 수량 미공개)",
+        "cycle": "무료 플랜 지속, 다운로드 갱신 주기 미공개",
+        "notes": "공식 FAQ(2026-04-30 작성) 근거. 무제한 'projects & previews'는 무제한 완성 영상 다운로드나 생성형 영상 렌더를 뜻하지 않음. Generative AI 크레딧 무료 수량 확정 불가. 사이트 확인만 수행하고 실제 계정 생성·출력 테스트 없음.",
+        "sources": [
+          "https://www.steve.ai/faq/en/articles/8294271-does-steve-ai-offer-a-free-trial",
+          "https://www.steve.ai/ai-2d-animation-generator"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 12
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-animaker-free-credits-not-generative-seconds",
+      "kind": "new",
+      "summary": "Animaker 무료 계정은 AI 영상 관련 크레딧과 워터마크 포함 애니메이션 다운로드를 제공하지만, 공식 비교표에서 독립 생성형 영상(Generative Video Credits)은 무료 0초/미포함으로 구분돼 있습니다.",
+      "evidence": [
+        "https://app.animaker.com/pricing/",
+        "https://www.animaker.com/video-maker"
+      ],
+      "site": {
+        "name": "Animaker — 무료 애니메이션(생성형 모션 제외)",
+        "url": "https://app.animaker.com/pricing/",
+        "grade": "C",
+        "models": "Free: AI 보조 애니메이션·템플릿 조립 및 일부 AI 도구. 독립 Gen Video 시간은 유료 Starter/Pro에서 제공",
+        "grant": "Free AI Video Credits 300/월 표기, 영상 다운로드 3개/월 표기; 별도 Generative Video Credit 무료 미제공",
+        "cycle": "AI Video credits·다운로드 월간(요금표 기준)",
+        "notes": "AI Video Credits와 Generative Video Seconds는 서로 다른 지표. 무료로 Veo/Kling 같은 독립 T2V 모델 영상을 생성할 수 있다는 뜻이 아님. 공식 Free 출력 워터마크. 일부 구형 도메인 요금표와 수치 상충하므로 앱 요금표 우선. 가입·생성·다운로드 검증 없음.",
+        "sources": [
+          "https://app.animaker.com/pricing/",
+          "https://www.animaker.com/video-maker"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 9
+      },
+      "observedAt": "2026-10-25"
+    },
+    {
+      "key": "20261025-kapwing-free-10-below-video-20",
+      "kind": "changed",
+      "summary": "Kapwing(기존 seed_117)은 고급 T2V 지원 여부 미확인으로 기록됐지만, 공식 페이지에서 Kling·Seedance·Veo·MiniMax 등의 생성형 영상 모델 지원을 확인했습니다. 다만 무료 평생 10크레딧에 비해 일반 AI 영상은 20크레딧 이상이어서 별도 보너스 없이 기본 무료 영상 생성이 어렵습니다.",
+      "evidence": [
+        "https://www.kapwing.com/ai-video-generator",
+        "https://www.kapwing.com/pricing",
+        "https://www.kapwing.com/help/how-do-kapwing-credits-work/amp/"
+      ],
+      "site": {
+        "id": "seed_117",
+        "name": "Kapwing — AI 영상 생성/편집",
+        "url": "https://www.kapwing.com/pricing",
+        "grade": "C",
+        "models": "Kling·Seedance·Veo·MiniMax·Grok·Happy Horse 등 T2V/I2V 공식 지원; 기본 무료 크레딧으로 모델별 생성 비용 충당 여부 불확실",
+        "grant": "Free 평생 총 10 AI크레딧, 공식 도움말 일반 AI영상 비용 20크레딧 이상/개; 생성 전 견적 필수",
+        "cycle": "평생 일회성(월 갱신 없음)",
+        "notes": "무료 AI 영상 생성 '체험 가능' 마케팅 표기가 실제 기본 크레딧으로 영상 1편 보장한다는 뜻이 아님. 무료 출력 워터마크, 편집 영상 720p·4분 이하. 별도 프로모션 지급은 계정별 확인 필요. 공식 사이트/요금표/도움말 열람 확인, 생성·크레딧 차감·다운로드 미검증.",
+        "sources": [
+          "https://www.kapwing.com/ai-video-generator",
+          "https://www.kapwing.com/pricing",
+          "https://www.kapwing.com/help/how-do-kapwing-credits-work/amp/"
+        ],
+        "checked": "2026-10-25",
+        "current": true,
+        "priority": 35
+      },
+      "observedAt": "2026-10-25"
     }
   ]
 }
