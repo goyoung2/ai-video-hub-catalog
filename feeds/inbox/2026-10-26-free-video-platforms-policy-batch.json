@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T00:47:36.025Z",
+  "entries": [
+    {
+      "key": "20261026-movoa-h3-free-uncapped-480p",
+      "kind": "new",
+      "summary": "Movoa 신규 무료 MiniMax H3 T2V/I2V: 480p·4초·오디오 지원, 첫 클립 비로그인·무카드, 무료 계정은 생성 횟수 일일 상한 없이 공유 대기열에서 1건씩 생성한다고 안내. 무료 MP4 무워터마크 다운로드 가능 주장, 상업적 이용은 유료.",
+      "observedAt": "2026-10-26",
+      "evidence": [
+        "https://movoa.ai/video",
+        "https://movoa.ai/about",
+        "https://movoa.ai/pricing"
+      ],
+      "site": {
+        "name": "Movoa — MiniMax H3 Free Lane",
+        "url": "https://movoa.ai/video",
+        "grade": "B",
+        "models": "무료 MiniMax H3 T2V·I2V 480p 4초·오디오; Seedance 2.0/2.5, Veo 3.1 Fast, Grok Imagine 1.5는 유료 크레딧",
+        "grant": "첫 1클립 비로그인 무료; 이후 무료 계정 H3 480p 4초 생성 횟수 일일 상한 없음(운영사 주장)",
+        "cycle": "일일 횟수 제한 없음(무료 공유 큐, 동시 1건)",
+        "notes": "운영사 사이트·회사 소개·요금표에 무료 정책 일치. 무료분에 카드 불필요·다운로드 가능·워터마크 없음·개인 이용만 허용 안내. 유료에서 768p·최대15초·상업 이용. 운영사는 MiniMax 비공식 독립 서비스. 사이트 열람만 확인; 실제 첫/반복 생성·큐 지연·MP4 다운로드 미검증.",
+        "priority": 44,
+        "sources": [
+          "https://movoa.ai/video",
+          "https://movoa.ai/about",
+          "https://movoa.ai/pricing"
+        ],
+        "checked": "2026-10-26",
+        "current": true
+      }
+    },
+    {
+      "key": "20261026-jaiportal-10credit-lowcost-t2v",
+      "kind": "new",
+      "summary": "JAI Portal 신규 무료 영상 생성 경로: 가입 10크레딧, 카드·구독 불필요. 운영사 모델 표에 P-Video·Wan Video 2.2 T2V Fast·Kandinsky 5 T2V 10크레딧, Kandinsky 5 Distill·Grok Imagine T2V 5크레딧 표시. 일부 모델은 무료 지급량 안에서 1~2회 생성 후보. 추가 크레딧 구매 일시 중단 공지.",
+      "observedAt": "2026-10-26",
+      "evidence": [
+        "https://www.jaiportal.com/free/ai-video-generator",
+        "https://www.jaiportal.com/pricing"
+      ],
+      "site": {
+        "name": "JAI Portal — 무료 10크레딧 영상 모델",
+        "url": "https://www.jaiportal.com/free/ai-video-generator",
+        "grade": "B",
+        "models": "P-Video·Wan Video 2.2 T2V Fast·Kandinsky 5/Distill T2V·Grok Imagine T2V 등; 모델별 5~10크레딧",
+        "grant": "신규 가입 10크레딧(5크레딧 모델 2회 또는 10크레딧 모델 1회에 해당)",
+        "cycle": "가입 일회성(정기 무료 리필 미확인)",
+        "notes": "사이트는 카드·월 구독 불필요, 워터마크 없는 영상과 상업 이용 가능을 안내. 고급 모델 전체가 무료 제공은 아님. 2026-10-26 공식 가격 페이지상 추가 크레딧 구매가 기술 문제로 일시 중단, 기존 생성 기능 유지 안내. 웹페이지 열람만 확인, 가입·생성·차감·다운로드 검증 없음.",
+        "priority": 35,
+        "sources": [
+          "https://www.jaiportal.com/free/ai-video-generator",
+          "https://www.jaiportal.com/pricing"
+        ],
+        "checked": "2026-10-26",
+        "current": true
+      }
+    },
+    {
+      "key": "20261026-freeai-cogvideox-daily-conflict",
+      "kind": "new",
+      "summary": "Free.ai 신규 무료 CogVideoX T2V: 자체 GPU 영상 2~6초·무워터마크 MP4를 안내하나 실제 할당량에 모순. 공식 FAQ에서는 영상 1개 30,000토큰, 로그인 계정 30,000토큰/일, 비로그인 풀 6,000토큰으로 표시하면서 '2일마다 1개'라고도 기재. 비로그인으로 영상 생성 가능하다는 홍보는 확정할 수 없어 조건부로 기록.",
+      "observedAt": "2026-10-26",
+      "evidence": [
+        "https://free.ai/video/text-to-video/"
+      ],
+      "site": {
+        "name": "Free.ai — CogVideoX Text to Video",
+        "url": "https://free.ai/video/text-to-video/",
+        "grade": "U",
+        "models": "자체 호스팅 CogVideoX 2~6초 T2V; Kling·Veo·Luma 등 프리미엄 모델 유료",
+        "grant": "계정에 30,000토큰/일 표기, CogVideoX 영상 1건 30,000토큰. 비로그인 공유 풀 6,000토큰은 영상 1건 미달",
+        "cycle": "매일 30,000토큰 표기와 FAQ '2일마다 1편'이 상충—실제 가능 주기 미확정",
+        "notes": "공식 설명 내 무료 가입 불필요 주장과 FAQ의 익명 6,000토큰<영상비용 30,000토큰 상충. 신용카드 불필요, 무워터마크·MP4 다운로드 주장. 실제 무료 가입, 생성 성공, 차감량, 재충전 주기, 다운로드 미검증. 무료 비로그인 확정 표시 금지.",
+        "priority": 20,
+        "sources": [
+          "https://free.ai/video/text-to-video/"
+        ],
+        "checked": "2026-10-26",
+        "current": true
+      }
+    },
+    {
+      "key": "20261026-movart-free-preview-only-no-download",
+      "kind": "new",
+      "summary": "MovArt 신규 조건부 무료: 공식 요금표에 가입 10크레딧(영상 1개 또는 이미지 2개) 및 매일 출석으로 주간 최대 30크레딧 보너스가 안내되지만, 무료 영상은 미리보기만 가능하고 다운로드가 불가능함을 명시. 무료 결과물을 실제 파일로 확보하는 경로에서는 제외 필요.",
+      "observedAt": "2026-10-26",
+      "evidence": [
+        "https://movart.ai/pricing/"
+      ],
+      "site": {
+        "name": "MovArt — Free Video Preview Only",
+        "url": "https://movart.ai/pricing/",
+        "grade": "C",
+        "models": "무료 영상 1개 미리보기(실제 무료 모델 미공개); 유료 모델 메뉴 Seedance 2·Wan 2.7·Veo 3.1 등",
+        "grant": "가입 10크레딧(영상 미리보기 1개 또는 이미지 2개 안내) + 체크인 주간 최대 30크레딧",
+        "cycle": "가입 일회성+출석 보너스(주간 최대치)",
+        "notes": "공식 문구 'Video preview only, downloads not included'. 무료 이미지에는 워터마크 표시, 무료 영상 워터마크는 별도 미확인. 무료 완성 영상 다운로드 불가로 명시적으로 분류. 사이트 열람만 확인, 생성·미리보기·다운로드 미검증.",
+        "priority": 17,
+        "sources": [
+          "https://movart.ai/pricing/"
+        ],
+        "checked": "2026-10-26",
+        "current": true
+      }
+    },
+    {
+      "key": "20261026-crento-3000-once-500-monthly-slideshow",
+      "kind": "new",
+      "summary": "Crento 신규 무료 설명 영상 제작: 일본 PKSHA Infinity 운영. 글·PDF·녹음으로 1~3분짜리 나레이션·자막·BGM 영상과 PDF를 생성. Free는 첫 3,000pt + 매월 500pt, 1편 약 400pt, 카드 불필요·워터마크 포함. 범용 T2V 모션 모델이 아니라 슬라이드형 영상 생성기.",
+      "observedAt": "2026-10-26",
+      "evidence": [
+        "https://web.crento.ai/"
+      ],
+      "site": {
+        "name": "Crento — 문서 기반 설명 영상",
+        "url": "https://web.crento.ai/",
+        "grade": "C",
+        "models": "글·PDF·음성→AI 슬라이드/내레이션/자막/BGM 설명 영상 1~3분과 PDF 생성(실사 영상 T2V 아님)",
+        "grant": "최초 3,000pt(약 7편 안내), 이후 매월 500pt(약 1편); 통상 1편 약 400pt",
+        "cycle": "가입 일회성 3,000pt+매월 500pt",
+        "notes": "일본어 기업 커뮤니케이션 중심; 운영사 공식 요금표/FAQ에 무료 워터마크, 카드 불필요, 비디오와 PDF 다운로드 안내. 일반 창작형 T2V와 명확히 구분. 홈페이지 열람만 확인; 가입·생성·다운로드 미검증.",
+        "priority": 16,
+        "sources": [
+          "https://web.crento.ai/"
+        ],
+        "checked": "2026-10-26",
+        "current": true
+      }
+    }
+  ]
+}
