@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T00:47:46.380Z",
+  "generatedAt": "2026-10-27T00:13:22.153Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -814,6 +814,112 @@
           "https://web.crento.ai/"
         ],
         "checked": "2026-10-26",
+        "current": true
+      }
+    },
+    {
+      "key": "20261027-loremotion-free-ltx25-h3-unlimited",
+      "kind": "new",
+      "summary": "LoreMotion 공식 요금표·FAQ가 LTX-Video 2.5와 MiniMax H3의 광고 기반 무료 무제한 T2V/I2V 생성, 워터마크 없는 MP4 다운로드를 명시합니다. 비로그인 첫 1회, 무료 계정으로 반복 생성 가능. 10월 15일 V2 공지에 LTX 2.5 무료 V2V Extend도 명시돼 있습니다.",
+      "observedAt": "2026-10-27",
+      "evidence": [
+        "https://loremotion.com/",
+        "https://loremotion.com/pricing/",
+        "https://loremotion.com/blog/loremotion-v2/"
+      ],
+      "site": {
+        "name": "LoreMotion — LTX 2.5 / MiniMax H3 Free Lane",
+        "url": "https://loremotion.com/",
+        "grade": "B",
+        "models": "무료 LTX-Video 2.5 T2V/I2V 720p·오디오, MiniMax H3 T2V/I2V 무료 480p(FAQ 기본 최대5초; 일부 최신 페이지는 대기열에 따라 10초/720p 5초도 안내), LTX 무료 V2V Extend; Veo·Kling·Seedance·Grok 등은 유료 크레딧",
+        "grant": "익명 첫 1회 무료, 무료 가입 후 LTX 2.5·MiniMax H3 반복 생성 무제한(운영사 주장); 광고 시청·공유 GPU 큐",
+        "cycle": "정기 크레딧 소진 없음(광고 기반·무료 큐·운영사 주장)",
+        "notes": "공식 가격표·FAQ·2026-10-15 V2 공지 확인. 생성당 광고·대기열·서비스 용량 제약. 무료 모델별 최대 길이는 홈·생성·FAQ 페이지 설명에 차이가 있어 최소 보장값 480p 5초 중심으로 표기. MP4 무워터마크·상업 이용 허용을 자체 안내. 사이트 열람만 확인; 비로그인 생성·계정 반복 생성·실제 MP4 다운로드·크레딧 차감 검증하지 않음.",
+        "priority": 49,
+        "sources": [
+          "https://loremotion.com/",
+          "https://loremotion.com/pricing/",
+          "https://loremotion.com/blog/loremotion-v2/"
+        ],
+        "checked": "2026-10-27",
+        "current": true
+      }
+    },
+    {
+      "key": "20261027-rendastic-3-daily-shared-veo-fast",
+      "kind": "new",
+      "summary": "Rendastic 무료 T2V/I2V는 회원가입·카드 없이 매일 UTC 00:00 갱신되는 총 3회 생성(영상·이미지·음성 공용), 3~5초·480p·무워터마크 MP4로 안내됩니다. 무료 영상 엔진은 Veo Fast로 표기되고 용량·모델 가용성 제약이 있습니다.",
+      "observedAt": "2026-10-27",
+      "evidence": [
+        "https://rendastic.com/",
+        "https://rendastic.com/pricing",
+        "https://rendastic.com/image-to-video"
+      ],
+      "site": {
+        "name": "Rendastic — Guest Daily Free Video",
+        "url": "https://rendastic.com/",
+        "grade": "B",
+        "models": "T2V/I2V 무료 옵션 Veo Fast(운영사 명칭)·480p·3초/5초; 유료에서 다양한 영상 모델·긴 길이",
+        "grant": "UTC 하루 생성 3건 무료, 비회원 가능; 영상·이미지·음성 생성 합산 공유 한도",
+        "cycle": "매일 UTC 00:00 초기화, 미사용분 이월 없음",
+        "notes": "2026-10-25 갱신된 운영사 페이지·공식 요금표·I2V UI 확인. 카드 불필요·비로그인·무료 MP4 워터마크 없음 주장. 비정상 입력 정책 거부는 3번째부터 무료 시도 차감 가능(공식 I2V 페이지). 혼잡 시 생성 가능 여부 제한. 무료 출력 모델의 실제 공급자·생성·다운로드는 테스트하지 않음.",
+        "priority": 43,
+        "sources": [
+          "https://rendastic.com/",
+          "https://rendastic.com/pricing",
+          "https://rendastic.com/image-to-video"
+        ],
+        "checked": "2026-10-27",
+        "current": true
+      }
+    },
+    {
+      "key": "20261027-imgtovideolab-grok-daily-t2v-i2v",
+      "kind": "new",
+      "summary": "ImgToVideoLab은 Grok Video로 480p·6초 T2V 하루 1회와 I2V 하루 1회를 각각 무료로 제공하며, 비로그인 생성·무워터마크 MP4 다운로드와 매일 갱신을 공식 FAQ에 안내합니다. 기타 모델·고해상도는 유료 크레딧입니다.",
+      "observedAt": "2026-10-27",
+      "evidence": [
+        "https://imgtovideolab.com/",
+        "https://imgtovideolab.com/ai-text-to-video"
+      ],
+      "site": {
+        "name": "ImgToVideoLab — Grok Video Daily Free",
+        "url": "https://imgtovideolab.com/",
+        "grade": "C",
+        "models": "무료 Grok Video(사이트 UI에 Grok Video 1.5 Free 표기) T2V/I2V 480p·6초; Kling·Veo·Seedance 등은 유료",
+        "grant": "매일 T2V 1개 + I2V 1개 별도 무료, 비로그인 가능; 홈페이지에서 가입 추가 6크레딧 안내(지급·영상 비용 관계 불명)",
+        "cycle": "매일 갱신(정확한 리셋 시각 미공개)",
+        "notes": "운영사 T2V·I2V FAQ에서 하루 각 1개, 무워터마크 MP4 다운로드 안내. 페이지의 'unlimited'는 무제한 당일 생성이 아니라 매일 무료 할당량 복구 의미로 해석해야 함. 상업적 이용은 모델 제공사 조건 확인 필요. 사이트 열람만 확인; 실제 생성·다운로드·일일 초기화 검증 없음.",
+        "priority": 36,
+        "sources": [
+          "https://imgtovideolab.com/",
+          "https://imgtovideolab.com/ai-text-to-video"
+        ],
+        "checked": "2026-10-27",
+        "current": true
+      }
+    },
+    {
+      "key": "20261027-buddian-free-one-eight-second-video-daily",
+      "kind": "new",
+      "summary": "Buddian 공식 홈페이지의 무료 요금표에 계정당 최대 8초 AI 영상 1개/일, 매일 재설정, 카드 등록 불필요가 명시되어 있습니다. 무료 생성 모델·해상도·워터마크·다운로드 권한은 공개 페이지에서 확인되지 않았습니다.",
+      "observedAt": "2026-10-27",
+      "evidence": [
+        "https://buddian.com/"
+      ],
+      "site": {
+        "name": "Buddian — Daily AI Short Video",
+        "url": "https://buddian.com/",
+        "grade": "C",
+        "models": "짧은 AI 영상 생성(기반 생성 모델·해상도 미공개), 무료 영상 최대 8초",
+        "grant": "계정당 8초 이하 무료 영상 하루 1개(운영사 주장)",
+        "cycle": "매일 리셋, 미사용분 이월 없음(정확한 기준 시각 미공개)",
+        "notes": "공식 홈페이지에 무료 $0 플랜과 1 short video/day·no card 안내. 가입 필요. 무료 결과 워터마크·실제 MP4 다운로드 권한·한국 지역 가능 여부는 미확인. 공개 웹 검색으로 운영사 본문 확인; 개별 브라우저 직접 열람은 오류, 실제 가입/생성/다운로드 테스트하지 않음.",
+        "priority": 29,
+        "sources": [
+          "https://buddian.com/"
+        ],
+        "checked": "2026-10-27",
         "current": true
       }
     }
