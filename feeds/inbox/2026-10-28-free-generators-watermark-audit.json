@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T00:24:38.386Z",
+  "entries": [
+    {
+      "key": "20261028-voooai-free-1080p-watermark-contradiction",
+      "kind": "new",
+      "summary": "VoooAI 신규 무료 영상 경로지만 '무료 1080p·무워터마크' 홍보와 같은 운영사의 최신 일반 생성기 FAQ가 상충합니다. FAQ는 무료 480/720p·워터마크, 1080p와 워터마크 제거는 유료 상위 등급이라고 명시하므로 무료 1080p 무워터마크 서비스로 확정 등록하지 않습니다.",
+      "observedAt": "2026-10-28",
+      "evidence": [
+        "https://voooai.com/ai-video-generator",
+        "https://voooai.com/subscription",
+        "https://voooai.com/use-case/free-ai-video-generator-no-watermark"
+      ],
+      "site": {
+        "name": "VoooAI — 무료 출력 정책 상충",
+        "url": "https://voooai.com/ai-video-generator",
+        "grade": "U",
+        "models": "기본 무료 영상 생성 및 다중 모델 캔버스 주장; Seedance/Kling/Wan/MiniMax 등 고급 모델의 무료 접근은 미확인",
+        "grant": "공식 생성기 FAQ: 무료 일일 크레딧(정량 미공개). 다른 홍보 페이지의 하루 2~3개 주장과 직접 교차 검증되지 않음",
+        "cycle": "매일(운영사 FAQ 주장; 재설정 기준 시각 미공개)",
+        "notes": "2026-10-28 직접 열람한 VoooAI 생성기 FAQ에 Free 출력 작은 워터마크, 무료 입문 단계 480/720p, 1080p는 상위 멤버십, 무워터마크 유료 플랜이라고 명시. 별도 무워터마크 홍보 페이지 검색 색인에는 무료 1080p·무워터마크 주장 있어 충돌. 가격 페이지도 Pro에 watermark-free export 명시. 결제카드 없이 무료 시작 주장. 홈페이지·FAQ 열람만 수행, 회원가입/영상 생성/MP4 다운로드는 검증하지 않음. 무료 1080p 무워터마크는 확인 불가.",
+        "sources": [
+          "https://voooai.com/ai-video-generator",
+          "https://voooai.com/subscription",
+          "https://voooai.com/use-case/free-ai-video-generator-no-watermark"
+        ],
+        "checked": "2026-10-28",
+        "current": true,
+        "priority": 8
+      }
+    },
+    {
+      "key": "20261028-createaivideo-wan21-daily-free-480p",
+      "kind": "new",
+      "summary": "Create AI Video 신규 무료 Wan 2.1 T2V/I2V 경로: 운영사 홈페이지에 비로그인 약 480p, 워터마크 없는 다운로드, 일일 무료 크레딧, 가입 시 10크레딧을 안내합니다. 무료 상업적 사용권은 제공된다고 볼 수 없고 유료 플랜 권리로 명시됩니다.",
+      "observedAt": "2026-10-28",
+      "evidence": [
+        "https://www.createaivideo.org/",
+        "https://www.createaivideo.org/en/pricing"
+      ],
+      "site": {
+        "name": "Create AI Video — Wan 2.1 무료",
+        "url": "https://www.createaivideo.org/",
+        "grade": "B",
+        "models": "무료 Wan 2.1 텍스트→영상 / 이미지→영상 약 480p (페이지 표시)",
+        "grant": "비로그인 일일 무료 크레딧(수량 미표기), 가입 신규 보너스 +10크레딧(실제 영상 몇 건 가능한지는 미확인)",
+        "cycle": "매일(비로그인 무료), 신규 가입 10크레딧 일회성",
+        "notes": "자체 홈페이지·FAQ에 워터마크 없음, 카드/가입 없이 무료 생성·다운로드, 약 480p 표기. 최신 요금표는 유료 HD/4K 및 상업적 이용권을 별도 안내하므로 무료 결과의 상업적 사용권이 보장된다고 주장하지 않음. 홈페이지/가격표 직접 열람, 실제 비로그인 생성·영상 다운로드 검증하지 않음.",
+        "sources": [
+          "https://www.createaivideo.org/",
+          "https://www.createaivideo.org/en/pricing"
+        ],
+        "checked": "2026-10-28",
+        "current": true,
+        "priority": 17
+      }
+    },
+    {
+      "key": "20261028-hedrapro-independent-daily-gpu-no-watermark",
+      "kind": "new",
+      "summary": "Hedra Pro(hedra.pro, Hedra Inc.와 무관한 독립 사이트) 신규 광고 기반 무료 T2V/I2V·토킹포토: 계정·카드·크레딧 플랜 없이 공유 GPU를 일일 몇 분 이용 가능하고 무워터마크 영상 다운로드를 FAQ에 안내합니다. 해상도와 실제 GPU 가용성은 미검증입니다.",
+      "observedAt": "2026-10-28",
+      "evidence": [
+        "https://hedra.pro/",
+        "https://hedra.pro/faq"
+      ],
+      "site": {
+        "name": "Hedra Pro — 독립 무료 영상 스튜디오",
+        "url": "https://hedra.pro/",
+        "grade": "B",
+        "models": "공유 GPU 기반 T2V(음성 포함) / I2V / Talking Photo / Motion Swap (구체 엔진 버전 미공개)",
+        "grant": "방문자별 무료 GPU 시간 하루 수 분(정량 미표기); 가입·결제카드 불필요",
+        "cycle": "매일(GPU 시간, 기준 시각 미공개)",
+        "notes": "광고 기반 독립 사이트로 Hedra Inc.(hedra.com) 공식 서비스가 아님. 자체 FAQ에 일일 GPU 시간, 할당량 초과 가능성, 다운로드 아이콘, 워터마크 추가 없음 명시. 무료 HD/1080p 정확한 접근 범위·생성 성패는 미확인. 홈페이지·FAQ 직접 열람했으며 실제 생성·MP4 다운로드 테스트하지 않음.",
+        "sources": [
+          "https://hedra.pro/",
+          "https://hedra.pro/faq"
+        ],
+        "checked": "2026-10-28",
+        "current": true,
+        "priority": 22
+      }
+    },
+    {
+      "key": "20261028-jajavideo-five-watermarkfree-shorts-daily",
+      "kind": "new",
+      "summary": "jajavideo 신규 무료 완성형 Shorts 제작 경로: 매일 UTC 00:00에 무워터마크 영상 5개 갱신, 이후에도 작은 서비스 표기와 함께 무료 무제한 생성, 카드 불필요, 세로 MP4 다운로드를 안내합니다. 단일 샷 생성형 동영상이 아니라 음성·이미지/클립·자막 조합 영상 제작기이며 다운로드하려면 무료 계정이 필요합니다.",
+      "observedAt": "2026-10-28",
+      "evidence": [
+        "https://jajavideo.com/pricing",
+        "https://jajavideo.com/",
+        "https://jajavideo.com/free-text-to-video-no-watermark"
+      ],
+      "site": {
+        "name": "jajavideo — 무료 내레이션 Shorts",
+        "url": "https://jajavideo.com/",
+        "grade": "B",
+        "models": "대본·TTS·장면별 이미지/클립·자막/BGM 자동 조립; 생성형 인물 모션/애니메이션 T2V 아님",
+        "grant": "무워터마크 하루 5개, 초과분은 서비스 표기가 붙는 무료 영상 제한 없이 생성 주장; 무료 카드 불필요",
+        "cycle": "매일 UTC 00:00(무워터마크 무료 5회 재설정)",
+        "notes": "운영사 가격표는 9:16 Shorts, MP4 다운로드, 30~60초 일반적·약 3분 내레이션 최대, 실패/재생성 무료, 상업적 사용 포함이라고 안내. 홈페이지에는 생성 시작 비회원 가능하지만 다운로드 시 무료 계정 생성 요구가 표시. 정지 이미지·클립 기반 자동 편집이므로 미니맥스·Seedance처럼 단일 프롬프트 생성형 모션 모델과 혼동 금지. 가격표·홈페이지 열람했으며 실제 생성/다운로드는 미검증.",
+        "sources": [
+          "https://jajavideo.com/pricing",
+          "https://jajavideo.com/",
+          "https://jajavideo.com/free-text-to-video-no-watermark"
+        ],
+        "checked": "2026-10-28",
+        "current": true,
+        "priority": 28
+      }
+    }
+  ]
+}
