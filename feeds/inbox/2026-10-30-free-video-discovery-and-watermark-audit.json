@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-30T00:33:57.179Z",
+  "entries": [
+    {
+      "key": "20261030-imgveo-free20-monthly-basic480p",
+      "kind": "new",
+      "summary": "신규 Imgveo AI 공식 영어·한국어 요금표는 Free 월 20크레딧, 480p·4초 Basic T2V/I2V/시작·끝 프레임 기능을 표시합니다. 스페인어 요금표는 무료 720p·5초로 상충하므로 무료 해상도는 언어별 정보 불일치로 기록하며 1080p 무료 제공으로 분류하지 않습니다.",
+      "evidence": [
+        "https://imgveo.com/pricing",
+        "https://imgveo.com/ko/pricing",
+        "https://imgveo.com/es/pricing",
+        "https://imgveo.com/text-to-video"
+      ],
+      "site": {
+        "name": "Imgveo AI — 무료 월 20크레딧",
+        "url": "https://imgveo.com/",
+        "grade": "U",
+        "models": "무료 Basic 자체 영상 모델(정확한 명칭 미공개), T2V/I2V/Start-End Frame; Seedance 2·Kling 3.0·Veo 3.1 등 고급 모델은 유료 혜택",
+        "grant": "무료 월 20크레딧; 영어·한국어 480p/4초, 스페인어 720p/5초 표기 상충",
+        "cycle": "매월(정확한 초기화 시각·이월 여부 미공개)",
+        "notes": "2026-10-30 운영사 영어·한국어·스페인어 공식 요금표 열람. 운영사 생성기 설명의 무워터마크 홍보가 무료 요금제 출력에 그대로 적용되는지 불명확. 결제카드 요구·영상당 차감·1080p 생성·실제 MP4 다운로드 미검증. 공식 페이지 열람 완료, 계정 생성·영상 생성·다운로드 미실시.",
+        "priority": 14,
+        "current": true,
+        "sources": [
+          "https://imgveo.com/pricing",
+          "https://imgveo.com/ko/pricing",
+          "https://imgveo.com/es/pricing",
+          "https://imgveo.com/text-to-video"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-nemovideo-free100-twooutputs-watermark-conflict",
+      "kind": "new",
+      "summary": "NemoVideo 공식 요금표는 Free 100크레딧·최소 영상 출력 2개를 안내하지만 운영사 무료 소개글은 무료 월 15크레딧·영상 3개·무워터마크를 주장해 상충합니다. 요금표의 무워터마크 내보내기는 유료 Starter 혜택으로 표시됩니다.",
+      "evidence": [
+        "https://www.nemovideo.com/pricing",
+        "https://www.nemovideo.com/blog/is-nemo-editor-free-2026"
+      ],
+      "site": {
+        "name": "NemoVideo — 무료 영상·편집 100크레딧",
+        "url": "https://www.nemovideo.com/",
+        "grade": "U",
+        "models": "Nemo Agent 스크립트·영상 생성/편집/클립 조합; Seedance 2.5 고급 모델은 유료 Starter에 표기",
+        "grant": "Free 100크레딧·최소 영상 2개 출력(현재 가격표); 운영사 소개글에는 월 15크레딧·3회 출력으로 상충",
+        "cycle": "100크레딧 반복 충전 여부 및 정확한 주기 확인 불가",
+        "notes": "공식 가격표와 운영사 자체 블로그 간 지급량·무료 출력 수·워터마크 조건 불일치. 가격표에서 무워터마크 Export는 유료 Starter 혜택, 블로그는 무료 FHD 무워터마크 주장. 무료 출력의 실제 해상도, 반복 지급, 결제카드 요구, 영상 생성 및 다운로드 미검증. 공식 문서 열람 완료, 로그인·생성·다운로드 미실시.",
+        "priority": 20,
+        "current": true,
+        "sources": [
+          "https://www.nemovideo.com/pricing",
+          "https://www.nemovideo.com/blog/is-nemo-editor-free-2026"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-dreamlux-signup5-720p-watermark-conflict",
+      "kind": "new",
+      "summary": "Dreamlux 홈페이지는 신규 가입 5크레딧과 생성기 5초·720p·3크레딧 예시를 표시합니다. 홈페이지 무료 무워터마크 홍보와 달리 요금표는 무워터마크 출력을 유료 혜택으로도 표시해 실제 무과금 영상 다운로드 조건을 확정할 수 없습니다.",
+      "evidence": [
+        "https://dreamlux.ai/",
+        "https://dreamlux.ai/pricing"
+      ],
+      "site": {
+        "name": "Dreamlux — 가입 5크레딧",
+        "url": "https://dreamlux.ai/",
+        "grade": "U",
+        "models": "텍스트/이미지→영상(기본 엔진 명칭 미공개), 사이트 생성기 기본 선택은 5초·720p",
+        "grant": "가입 5 무료 크레딧; 기본 생성기 5초 720p에 3크레딧 UI 표시(무료 실생성 성공은 미검증)",
+        "cycle": "가입 혜택 일회성으로 보이나 리셋 조건은 공식 미공개",
+        "notes": "운영사 공식 홈페이지의 무료 무워터마크 홍보와 유료 플랜 혜택으로 적힌 No-watermark outputs가 상충. 유료 효과 템플릿은 무료 지급량으로 생성이 안 될 수 있음. 카드 필요 여부, 720p 무료 실제 생성, MP4 무워터마크 다운로드 모두 미검증. 홈페이지/가격표 열람 완료, 계정·생성·다운로드 미실시.",
+        "priority": 18,
+        "current": true,
+        "sources": [
+          "https://dreamlux.ai/",
+          "https://dreamlux.ai/pricing"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-capcut-ai-video-trial-daily-credit-watermark",
+      "kind": "new",
+      "summary": "기존 Dreamina/Pippit과 구별되는 CapCut 자체 AI Video Maker 경로의 Seedance 2.5 영상 생성·편집 기능과 무료 또는 체험 접근을 공식 문서에서 확인했습니다. 일일 크레딧·적격 신규 사용자 7일 체험은 범위가 다르며 무료 크레딧 수량·워터마크·1080p 출력은 보장되지 않습니다.",
+      "evidence": [
+        "https://www.capcut.com/tools/ai-video-generator",
+        "https://www.capcut.com/tools/free-ai-video-generator",
+        "https://www.capcut.com/resource/ai-video-generator-free",
+        "https://www.capcut.com/help/capcut-pro-free-trail"
+      ],
+      "site": {
+        "name": "CapCut AI Video Maker — 자체 무료·체험 경로",
+        "url": "https://www.capcut.com/tools/ai-video-generator",
+        "grade": "U",
+        "models": "Seedance 2.5를 이용한 텍스트/참조 이미지→AI 비디오 생성과 타임라인 편집·음성/자막 결합",
+        "grant": "무료 기본 편집 기능, 공식 안내상 AI 영상 일일 무료 크레딧 언급(수량 미확인); 조건부 신규 계정 7일 Pro 체험은 별도",
+        "cycle": "일일 무료 크레딧 주장(정량·리셋 시각 미확인), 7일 Pro 체험은 자격·국가·버전 제한",
+        "notes": "독립 CapCut AI Video Maker 진입점: 카탈로그의 Dreamina와 Pippit과 구별. CapCut 무료 편집 자산의 워터마크 없는 내보내기는 프리미엄 에셋·앱 버전·CapCut 종료 클립에 따라 달라 AI 영상 생성의 무워터마크/1080p 보장은 불가. 7일 체험은 모두에게 자동 제공되지 않음. 공식 안내문 열람, 실제 계정의 AI 모델 실행·카드·다운로드 미검증.",
+        "priority": 17,
+        "current": true,
+        "sources": [
+          "https://www.capcut.com/tools/ai-video-generator",
+          "https://www.capcut.com/tools/free-ai-video-generator",
+          "https://www.capcut.com/resource/ai-video-generator-free",
+          "https://www.capcut.com/help/capcut-pro-free-trail"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-clipaist-video-paused-provider-withdrawn",
+      "kind": "new",
+      "summary": "Clipaist는 공식 FAQ에서 가입·카드 없이 무료 HD T2V/I2V·무워터마크 MP4를 안내하지만 현재 운영사 생성기에서 공급자가 기존 영상 모델을 철회해 신규 렌더링을 일시 중단한다고 명시합니다. 공식 일시 중단으로 기록하며 영구 종료로 확정하지 않습니다.",
+      "evidence": [
+        "https://clipaist.com/free-video-generator/",
+        "https://clipaist.com/support/",
+        "https://clipaist.com/terms/"
+      ],
+      "site": {
+        "name": "Clipaist — 무료 영상 생성(일시 중단)",
+        "url": "https://clipaist.com/free-video-generator/",
+        "grade": "U",
+        "models": "T2V/I2V 공유 GPU 도구, 기존 공급 모델 철회·대체 모델 테스트로 신규 렌더링 현재 일시 중단",
+        "grant": "운영사 FAQ는 비가입 무료 HD 5·10·15·18초, 카드 불필요, 무워터마크 MP4를 안내하지만 현재 실제 생성 중단 표시",
+        "cycle": "정확한 무료 할당량·리셋 주기 미공개, 공유 GPU 공정이용 제한",
+        "notes": "운영사 공식 페이지의 'Temporarily paused ... provider'와 'paused new renders' 표시를 확인. 재개 예상 시간 표기는 실제 복구 보장 아님. 영구 서비스 종료·무료 종료 확정 판정 금지. 공식 홈페이지와 FAQ 열람 완료, 영상 생성 및 다운로드 미실시.",
+        "priority": 33,
+        "current": true,
+        "sources": [
+          "https://clipaist.com/free-video-generator/",
+          "https://clipaist.com/support/",
+          "https://clipaist.com/terms/"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-zsky-free-video-wordmark-hd-only",
+      "kind": "changed",
+      "summary": "기존 ZSky(seed_88)의 무료 무제한 생성 주장에 운영사 플랜별 공식 상세 조건을 보완합니다. Free는 5초 HD·오디오 포함·작은 'MADE WITH / zsky.ai' 워터마크·갤러리 7일이며, 1080p/8초·무워터마크는 유료 Pro부터입니다.",
+      "evidence": [
+        "https://zsky.ai/evidence",
+        "https://zsky.ai/",
+        "https://zsky.ai/text-to-video"
+      ],
+      "site": {
+        "id": "seed_88",
+        "name": "ZSky — 무료 무제한 5초 HD(워터마크)",
+        "url": "https://zsky.ai/",
+        "grade": "B",
+        "models": "T2V/I2V 오디오 동기화(기반 모델명 미공개); Free HD 5초, Pro 1080p 8초, Max 4K 30초",
+        "grant": "운영사 주장 무제한 무료 5초 HD 영상, 무료 출력 작은 'MADE WITH / zsky.ai' 워터마크 포함, 무료 갤러리 7일",
+        "cycle": "상시 무료 공유 대기열 주장(리셋 주기 없음)",
+        "notes": "2026-10-30 운영사 /evidence 플랜 비교 문서 열람(운영사 자체 검증 날짜는 2026-05-18): Free HD 5초, Pro 월 $19·1080p/8초·워터마크 제거, Max 4K/30초; 무료 카드 불필요·비로그인 체험 가능 주장. 다른 홍보 페이지의 No watermark 일반 문구보다 요금제별 상세 문서 우선. 지금 정책이 변경됐다는 근거는 없어 카탈로그 속성 보완으로 기록. 사이트 열람 완료, 실제 생성·다운로드 미실시.",
+        "priority": 10,
+        "current": true,
+        "sources": [
+          "https://zsky.ai/evidence",
+          "https://zsky.ai/",
+          "https://zsky.ai/text-to-video"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    },
+    {
+      "key": "20261030-dreamina-minimaxh3-model-watermark-paid",
+      "kind": "changed",
+      "summary": "기존 Dreamina(seed_1) 공식 T2V 페이지의 모델 목록에 Seedance 2.0/2.5와 MiniMax H3가 표시됩니다. 일일 무료 크레딧 약 150개는 지역별 상이하며 H3가 무료분으로 실행되는지는 미확인입니다. 무워터마크 다운로드 제거 기능은 유료 요금제 혜택으로 표기됩니다.",
+      "evidence": [
+        "https://dreamina.capcut.com/tools/text-to-video-ai",
+        "https://dreamina.capcut.com/ai-video/batch-generator"
+      ],
+      "site": {
+        "id": "seed_1",
+        "name": "Dreamina — Seedance·MiniMax H3 카탈로그",
+        "url": "https://dreamina.capcut.com/tools/text-to-video-ai",
+        "grade": "B",
+        "models": "Seedance 2.5/2.0 및 MiniMax H3를 공식 T2V 모델 목록에 표기; H3 무과금 실행 가능 여부는 미확인",
+        "grant": "운영사 FAQ 하루 약 150크레딧, 지역별 120/150 등의 차이(기존 기록 유지)",
+        "cycle": "매일, 계정 및 지역별 지급량 상이",
+        "notes": "공식 텍스트→영상 FAQ MiniMax H3 모델 목록 확인. 현행 목록에 존재한다는 정보일 뿐 2026-10-30 신모델 출시나 무료 개방을 의미하지 않음. Dreamina 유료 Standard/Advanced에 'Remove the Dreamina watermark in downloads' 포함, 무료 워터마크 제거 보장 불가. 공식 사이트 문서 열람 완료, 실제 H3 생성/다운로드 미검증.",
+        "priority": 13,
+        "current": true,
+        "sources": [
+          "https://dreamina.capcut.com/tools/text-to-video-ai",
+          "https://dreamina.capcut.com/ai-video/batch-generator"
+        ],
+        "checked": "2026-10-30"
+      },
+      "observedAt": "2026-10-30"
+    }
+  ]
+}
