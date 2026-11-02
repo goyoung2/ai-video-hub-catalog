@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T00:36:05.165Z",
+  "generatedAt": "2026-11-02T00:17:06.470Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -1549,6 +1549,136 @@
         "checked": "2026-11-01",
         "current": true,
         "priority": 20
+      }
+    },
+    {
+      "key": "20261102-yovid-free5-model-cost-conflict",
+      "kind": "new",
+      "summary": "Yovid 신규 무료 T2V/I2V 후보. 공식 요금표에 신규 계정 Free 5크레딧·무카드, Seedance 2.0 Mini/1.5 Pro/1 Pro Fast·Wan 3.0의 무료 모델별 예상 생성량을 안내합니다. 하지만 개별 모델의 5초 720p 비용은 무료 5크레딧을 초과하기도 하여 실제 가능한 길이·해상도와 무료 다운로드 워터마크 여부는 조건부입니다.",
+      "observedAt": "2026-11-02",
+      "evidence": [
+        "https://yovid.ai/pricing",
+        "https://yovid.ai/models/seedance"
+      ],
+      "site": {
+        "name": "Yovid — 가입 5크레딧 영상 모델 체험",
+        "url": "https://yovid.ai/",
+        "grade": "U",
+        "models": "Free 요금 비교표: Seedance 2.0 Mini, Seedance 1.5 Pro, Seedance 1 Pro Fast, Wan 3.0. Seedance 2.5/2.0, Kling, MiniMax H3 등은 무료 비교표에서 제외",
+        "grant": "신규 가입 시 5크레딧(무료 카드 등록 불필요); Free 표의 예상 생성편수와 모델별 명시 가격이 상충",
+        "cycle": "가입 일회성; 정기 무료 리필 안내 없음",
+        "notes": "2026-11-02 공식 가격표·모델 소개 열람. Free 비교표의 5크레딧·약 1~5편 추정치와 별도 모델 5초/720p 예시의 6~13크레딧 가격이 충돌함. 무료 티어 고해상도 1080p는 약속하지 않음. 무료 무워터마크도 Seedance 소개의 계정 생성 후 무워터마크 문구와 유료 플랜 혜택 문구가 혼재함. 실제 가입·영상 생성·크레딧 차감·MP4 다운로드는 테스트하지 않음.",
+        "sources": [
+          "https://yovid.ai/pricing",
+          "https://yovid.ai/models/seedance"
+        ],
+        "checked": "2026-11-02",
+        "current": true,
+        "priority": 19
+      }
+    },
+    {
+      "key": "20261102-aivideofree-regional-credits-nowatermark",
+      "kind": "new",
+      "summary": "AIVideoFree(aivideofree.com) 신규 무료 영상 경로. 공식 FAQ는 신규 회원 지역별 10~88크레딧(일회성·소멸 없음), 카드 불필요, 무료 MP4 무워터마크·상업적 이용·모든 영상 모델 크레딧 사용을 안내합니다. 다만 홍보상 주요 모델 비용이 영상당 15크레딧이라 10크레딧 지급 지역에서는 무료 영상 제작이 불가능할 수 있으며 실제 생성·다운로드는 미실시입니다.",
+      "observedAt": "2026-11-02",
+      "evidence": [
+        "https://www.aivideofree.com/",
+        "https://www.aivideofree.com/pricing"
+      ],
+      "site": {
+        "name": "AIVideoFree — 지역별 무료 10~88크레딧",
+        "url": "https://www.aivideofree.com/",
+        "grade": "U",
+        "models": "Seedance 2.5, Wan 3.0, MiniMax H3, Kling 3.0, Veo, Hailuo 등 사이트 모델 목록. 모든 모델 크레딧 접근을 주장하나 무료 잔액으로 실제 영상 완성 가능한 모델은 미실측",
+        "grant": "신규 가입 시 지역에 따라 10~88크레딧; 카드 불필요. 예시 영상 모델 15크레딧/회이나 길이·화질·모델 따라 차감 변동",
+        "cycle": "가입 일회성, 지급 크레딧 만료 없음; 매일/매주 자동 충전 없음",
+        "notes": "2026-11-02 홈페이지·가격표·FAQ 열람. www.aivideofree.com은 aivideofree.site와 별개 도메인. 무료 MP4 무워터마크 및 상업적 이용은 운영사 자체 안내. 공식 15크레딧 예시 기준 10크레딧 계정은 최소 제작 비용에 미달할 위험이 있음. 무료 1080p는 확정하지 않음. 로그인·지역별 지급 확인·영상 생성·다운로드 수행하지 않음.",
+        "sources": [
+          "https://www.aivideofree.com/",
+          "https://www.aivideofree.com/pricing"
+        ],
+        "checked": "2026-11-02",
+        "current": true,
+        "priority": 34
+      }
+    },
+    {
+      "key": "20261102-imagineimage-free-daily-fullres-video",
+      "kind": "new",
+      "summary": "Imagine Image 신규 T2V/I2V 무료 경로. 공식 가격표는 모든 무료 계정에 매일 충전되는 크레딧을 주고 무료 영상도 무카드·무워터마크·원본 해상도 MP4 및 상업적 이용을 허용한다고 안내합니다. 생성기에는 1080p 옵션이 보이나 일일 크레딧 수량과 1080p 영상 1편의 비용을 공개하지 않아 실제 무과금 1080p 완성은 아직 확인되지 않았습니다.",
+      "observedAt": "2026-11-02",
+      "evidence": [
+        "https://imagineimage.io/pricing",
+        "https://imagineimage.io/ai-video-generator"
+      ],
+      "site": {
+        "name": "Imagine Image — 무료 일일 크레딧·1080p 선택",
+        "url": "https://imagineimage.io/ai-video-generator",
+        "grade": "U",
+        "models": "자체 Smart Model, Seedance 1.5/2/2 Fast, Grok, Hailuo, Kling, HappyHorse 등. 기본 생성기 선택 가능 화질 480p/720p/1080p; 모델·화질별 크레딧 차감",
+        "grant": "무료 계정 매일 크레딧 갱신(공개 정량 수치 없음), 무료 무워터마크·원본 화질·상업적 이용 안내. 생성 모델 표시 비용 최소 약 10크레딧부터",
+        "cycle": "매일 갱신(구체적 수량·리셋 시간 미공개)",
+        "notes": "2026-11-02 운영사 가격표 FAQ 및 영상 생성기 페이지 열람. 가격표의 Free full-resolution은 1080p 선택 UI와 조합해 해석하되 무료 일일 지급량으로 특정 1080p 클립을 실제 만들 수 있는지는 미실측. 홈페이지 열람만, 계정 로그인·렌더링·MP4 다운로드·실제 파일 해상도 검증 미실시.",
+        "sources": [
+          "https://imagineimage.io/pricing",
+          "https://imagineimage.io/ai-video-generator"
+        ],
+        "checked": "2026-11-02",
+        "current": true,
+        "priority": 44
+      }
+    },
+    {
+      "key": "20261102-hedrame-five-daily-1080p-claims-review",
+      "kind": "review",
+      "summary": "hedra.me는 기존 Hedra Inc.(hedra.com) 및 별도 hedra.pro와 다른 도메인의 신규 후보입니다. 홈페이지에서 비로그인 하루 5회 무료 생성·1080p·워터마크 없는 MP4를 주장하지만, 홈페이지는 Wan 2.2, 생성기 기술표는 Veo/Sora/Gen-3 Alpha라고 모델을 다르게 표시합니다. 공식 내부 설명 불일치로 실제 작동 확인 전까지 1080p 무워터마크 실사용 서비스로 분류하지 않습니다.",
+      "observedAt": "2026-11-02",
+      "evidence": [
+        "https://hedra.me/",
+        "https://hedra.me/tools/prompt-to-video"
+      ],
+      "site": {
+        "name": "hedra.me — 무료 1080p 주장(모델 정보 충돌)",
+        "url": "https://hedra.me/",
+        "grade": "U",
+        "models": "홈페이지 Prompt-to-Video: Wan 2.2·1080p 안내; 생성기 Technical Specifications: Veo/Sora/Gen-3 Alpha. 실제 백엔드 모델 식별 불가",
+        "grant": "운영사 자체 FAQ에서 가입 없이 하루 5회 무료 생성·카드 불필요·워터마크 없는 MP4 주장",
+        "cycle": "매일 5회 주장(무료 기능별 적용 범위·리셋 시각 불명확)",
+        "notes": "2026-11-02 사이트 홈페이지와 자체 생성기 안내 열람. hedra.com(Hedra Inc.) 및 hedra.pro와 별개 사이트이며 공식 원 모델 제공사 소속으로 간주하지 않음. 1080p/무워터마크/상업적 사용권의 홈페이지 주장과 하위 도구 기술 명세·유료 상업적 이용 표기가 상충함. 실제 무료 영상 생성, MP4 다운로드, 메타데이터·워터마크 확인 미실시. 신뢰도 검토 대상.",
+        "sources": [
+          "https://hedra.me/",
+          "https://hedra.me/tools/prompt-to-video"
+        ],
+        "checked": "2026-11-02",
+        "current": true,
+        "priority": 13
+      }
+    },
+    {
+      "key": "20261102-moveframe-free-streak-and-upscale-details",
+      "kind": "changed",
+      "summary": "MoveFrame의 10월 31일 기존 등록(매일 5크레딧·480p Standard)에 없는 추가 공식 무료 혜택 확인. 3일 연속 방문 시 보너스 5크레딧, 7일 연속 15크레딧, 일일 챌린지 우승자 20크레딧, 무료 업스케일 하루 1편 720p가 명시되어 무료 누적 가능 횟수와 다운로드 해상도 정보를 보완합니다. 새로 시행된 정책이라고 단정하지 않습니다.",
+      "observedAt": "2026-11-02",
+      "evidence": [
+        "https://moveframe.app/free-ai-video-generator/",
+        "https://moveframe.app/"
+      ],
+      "site": {
+        "name": "MoveFrame — 연속 방문 보너스·720p 무료 업스케일",
+        "url": "https://moveframe.app/",
+        "grade": "B",
+        "models": "무료 Standard 5초 텍스트→영상/이미지→영상. 무료 영상 업스케일 하루 1편 최대 720p",
+        "grant": "기본 하루 5크레딧(5초 Standard 1편) + 3일 연속 방문 5크레딧·7일 연속 15크레딧 추가 + 일일 챌린지 우승 보너스 20크레딧. 무료 업스케일 하루 1편",
+        "cycle": "매일 UTC 00:00 기본 충전; 방문 연속 3일/7일 보상, 업스케일 매일 1편",
+        "notes": "2026-11-02 운영사 2026-10-31 업데이트 페이지 재열람. 기존 게시 키 20261031-moveframe-five-daily-480p-watermark-conflict는 그대로 유지. 이번 기록은 누락됐던 추가 혜택의 신규 발견이며 실제 시작 날짜를 의미하지 않음. 최신 운영사 페이지는 워터마크 없다고 하나 이전 안내 상충은 기존 보고대로 유지. 실제 생성·보너스 적립·업스케일·MP4 다운로드 미실시.",
+        "sources": [
+          "https://moveframe.app/free-ai-video-generator/",
+          "https://moveframe.app/"
+        ],
+        "checked": "2026-11-02",
+        "current": true,
+        "priority": 38
       }
     }
   ]
