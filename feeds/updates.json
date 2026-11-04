@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T00:52:08.644Z",
+  "generatedAt": "2026-11-04T01:12:22.058Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -1805,6 +1805,112 @@
         "checked": "2026-11-03",
         "current": true,
         "priority": 55
+      }
+    },
+    {
+      "key": "20261104-freecreate-guest-720p6s-shared-utc-daily",
+      "kind": "new",
+      "summary": "FreeCreate 신규 무료 T2V 생성 경로: 공식 안내에 따르면 카드·회원가입 없이 Omni Flash 계열 6초·720p 영상을 UTC 하루 1건 생성하고 MP4를 내려받을 수 있습니다. 이미지/영상 무료 체험은 브라우저별 하루 1건을 공유합니다. 로그인 보너스는 있으나 지급량은 계정 UI 표시이며, 무료 영상의 워터마크 제거와 1080p는 확인되지 않았습니다.",
+      "observedAt": "2026-11-04",
+      "evidence": [
+        "https://freecreate.app/ai-video-generator-free",
+        "https://freecreate.app/",
+        "https://freecreate.app/pricing"
+      ],
+      "site": {
+        "name": "FreeCreate — 무료 Omni Flash 비회원 T2V",
+        "url": "https://freecreate.app/ai-video-generator-free",
+        "grade": "B",
+        "models": "무료 비회원 T2V Omni Flash/Omni 1.1 Flash 6초 720p 16:9·9:16; 회원 스튜디오는 MiniMax H3, Seedance, Kling 등 옵션 표시(각 모델 무료 실행 가능 범위 별도)",
+        "grant": "브라우저별 비로그인 이미지·영상 공유 하루 1건. 회원 로그인 시 일일 무료 보너스 크레딧 안내(수량 UI별 확인). 신용카드 불필요.",
+        "cycle": "비회원 1회/UTC 일; 회원 로그인 보너스 UTC 일별 청구",
+        "notes": "운영사 공식 소개·무료 생성기·가격표 직접 열람. 무료 출력 MP4 다운로드 안내. 가격표는 무료 '이미지' 워터마크 및 유료 무워터마크 HD를 명시하나 무료 '영상' 워터마크 여부를 구분해 확정하지 않음. 1080p는 로그인 스튜디오의 선택 가능 최대치이지 무료 지급으로 생성 가능하다는 증거가 아님. 실제 비회원 영상 생성·계정 로그인·MP4 다운로드 검증 미실시.",
+        "sources": [
+          "https://freecreate.app/ai-video-generator-free",
+          "https://freecreate.app/",
+          "https://freecreate.app/pricing"
+        ],
+        "checked": "2026-11-04",
+        "current": true,
+        "priority": 35
+      }
+    },
+    {
+      "key": "20261104-vidloop-guest2-verified2-h3-monthlycap10",
+      "kind": "new",
+      "summary": "VidLoop 신규 무료 MiniMax H3 경로: 방문자 H3 전용 크레딧 2개, 이메일 인증 로그인 보상 2개를 더하면 4초 768p 영상 1건(4크레딧) 생성 비용과 일치합니다. 이후 로그인 일일 최대 2 H3크레딧을 지급하지만 월 합산 상한 10크레딧이 있으며, 타 모델은 유료 일반 크레딧이 필요합니다.",
+      "observedAt": "2026-11-04",
+      "evidence": [
+        "https://vidloop.ai/",
+        "https://vidloop.ai/pricing"
+      ],
+      "site": {
+        "name": "VidLoop — MiniMax H3 무료 4초 클립",
+        "url": "https://vidloop.ai/",
+        "grade": "B",
+        "models": "무료 MiniMax H3 768p 4초(4 H3 credits); Veo·Kling·Seedance 등 다른 모델은 구매 일반 크레딧 필요. 2K는 유료 H3 크레딧 조건을 따름.",
+        "grant": "방문자 2 H3크레딧 + 최초 이메일 인증 후 2 H3크레딧, 4초 768p 1건 비용 4크레딧. 가입 후 출석일 최대 2 H3크레딧, 월 합계 10크레딧 상한.",
+        "cycle": "초기 2+2 일회성, 이후 일일 로그인 보상(매월 최대 10 H3크레딧)",
+        "notes": "운영사 홈페이지 무료 접근·FAQ·모델별 비용·MP4 다운로드 안내 직접 열람. 초기 방문자 크레딧 2만으로는 4초 영상 1건 비용에 못 미치므로 인증 보상 필요. 무료 영상의 가시 워터마크 여부·결제카드 필요 여부는 별도 명시가 불충분해 확정하지 않음. 실제 가입·생성·다운로드 검증 미실시.",
+        "sources": [
+          "https://vidloop.ai/",
+          "https://vidloop.ai/pricing"
+        ],
+        "checked": "2026-11-04",
+        "current": true,
+        "priority": 34
+      }
+    },
+    {
+      "key": "20261104-lumina-video-guest1-signup25-nomark",
+      "kind": "new",
+      "summary": "Lumina Video 신규 무료 T2V 경로: 서비스 운영사 홈페이지는 비회원 첫 5초 영상 1편 무료, 회원가입 25크레딧(일반 5초 클립 약 5편), 무료 요금제 무워터마크와 브라우저 영상 내보내기를 안내합니다. 다만 페이지의 1080p 홍보가 무료 출력에 적용되는지는 미기재이며 Wan 2.2/Kling 사용 조건은 모드별 확인 대상입니다.",
+      "observedAt": "2026-11-04",
+      "evidence": [
+        "https://tryluminavideo.com/"
+      ],
+      "site": {
+        "name": "Lumina Video — 무료 비회원 T2V 및 가입 크레딧",
+        "url": "https://tryluminavideo.com/",
+        "grade": "C",
+        "models": "Wan 2.2 기반 일반 T2V, Kling AI Realistic 옵션 홍보; 모드별 영상 비용·무료 모델 접근 범위는 생성 UI에서 확인",
+        "grant": "비회원 첫 5초 영상 1편 무료. 신규 계정 25크레딧(서비스 표시는 일반 짧은 영상 약 5편). 무료 플랜 무워터마크 주장; 카드 입력 조건은 명시적으로 확인되지 않음.",
+        "cycle": "비회원 첫 1회 + 가입 25크레딧 일회성; 정기 재충전 안내 없음",
+        "notes": "운영사 홈페이지 가격표·생성기와 FAQ 표기 확인(검색 엔진의 HTML 색인으로 열람; 페이지 본문 브라우저 파서는 비어 있었음). 사이트의 '1080p output quality'는 무료 플랜 최대 해상도 명시가 아니므로 무료 1080p 등록 금지. 무료 외부 모델 비용과 무워터마크 실제 적용 미실험. 실제 회원가입·생성·MP4 다운로드 검증 미실시.",
+        "sources": [
+          "https://tryluminavideo.com/"
+        ],
+        "checked": "2026-11-04",
+        "current": true,
+        "priority": 22
+      }
+    },
+    {
+      "key": "20261104-minimax3org-daily10-max30-no-free-tier-conflict",
+      "kind": "review",
+      "summary": "MiniMax3.org의 자체 공식 안내가 충돌합니다. 요금표는 매일 출석 10크레딧(사용자/IP당 누적 최대30)을 명시하고 가장 짧은 4초 768p H3 생성비용은 24크레딧이지만, 별도 공식 설명은 '호스팅 무료 티어 없음'이라고 안내합니다. 출석 보상이 실제 생성에 사용 가능한지 확인 전 무료 영상 제공으로 확정하지 않습니다.",
+      "observedAt": "2026-11-04",
+      "evidence": [
+        "https://minimax3.org/pricing",
+        "https://minimax3.org/is-minimax-ai-free",
+        "https://minimax3.org/"
+      ],
+      "site": {
+        "name": "MiniMax3.org — 독립 H3 생성기 무료 출석 혜택 충돌",
+        "url": "https://minimax3.org/",
+        "grade": "U",
+        "models": "MiniMax H3 768p 6크레딧/초(4초 24, 5초30), 2K 12크레딧/초. 공식 MiniMax 사이트와 구분되는 독립 서비스.",
+        "grant": "요금표 기준 로그인 출석 10크레딧/일, 사용자 또는 IP 기준 누적 30크레딧 상한. 별도 서비스 공식 설명에서 '무료 티어 없음'으로 기재되어 이용 가능성 상충.",
+        "cycle": "일일 출석(누적 최대 30), 추가 무료 충전 없음",
+        "notes": "동일 운영사 홈페이지·요금표·무료 이용 안내 열람 완료. 무료 보상으로 4초 영상 1편을 완성할 수 있는지 불명확하고 워터마크·무료 MP4 다운로드 조건 명시 부족. 블로그 'no free tier'와 가격표의 일일 무료 출석 설명을 모두 보존하고 검토 대상으로만 등록. 실제 가입·생성·다운로드 미실시.",
+        "sources": [
+          "https://minimax3.org/pricing",
+          "https://minimax3.org/is-minimax-ai-free",
+          "https://minimax3.org/"
+        ],
+        "checked": "2026-11-04",
+        "current": true,
+        "priority": 18
       }
     }
   ]
