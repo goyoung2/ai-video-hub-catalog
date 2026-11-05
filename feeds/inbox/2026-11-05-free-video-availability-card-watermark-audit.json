@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T00:48:11.029Z",
+  "entries": [
+    {
+      "key": "20261105-imagetovideoaifree-daily7-480p2s-watermarked",
+      "kind": "new",
+      "summary": "ImageToVideoAIFree의 신규 비회원 I2V 무료 경로를 확인했습니다. Video Fast 1.0은 이미지 기반 2초·480p 무료 생성이며, 공식 가격표에는 하루 최대 7개 무료 영상(워터마크 포함)을 안내합니다. 1080p·워터마크 제거는 유료이며 별도 T2V 생성기는 Seedance 1.0 Pro Fast 2초·480p에 5크레딧이 필요합니다.",
+      "observedAt": "2026-11-05",
+      "evidence": [
+        "https://imagetovideoaifree.com/",
+        "https://imagetovideoaifree.com/pricing",
+        "https://imagetovideoaifree.com/ai-video-generator"
+      ],
+      "site": {
+        "name": "ImageToVideoAIFree — 무료 비회원 I2V 480p·2초",
+        "url": "https://imagetovideoaifree.com/",
+        "grade": "B",
+        "models": "Video Fast 1.0 무료 이미지→영상 2초 480p. Seedance 1.0 Pro Fast 텍스트→영상 2초 480p는 5크레딧 유료 경로로 별도 구분.",
+        "grant": "공식 요금표상 무료 I2V 영상 최대 7편/일; 워터마크 포함. 홈페이지 생성기에 480p·2초 Free 표시. 카드/계정 없이 무료 시작 안내.",
+        "cycle": "매일(공식 페이지에 갱신 기준 시각 미표기)",
+        "notes": "운영사 홈페이지·가격표·생성기 안내를 열람했습니다. 회원가입 없는 무료 I2V 생성 진입은 공식 UI로 확인되나 실제 영상 생성, 생성 횟수, MP4 다운로드, 워터마크 실물 및 지역별 사용 가능성은 테스트하지 않았습니다. 무료 1080p나 무료 무워터마크로 소개하면 안 됩니다.",
+        "sources": [
+          "https://imagetovideoaifree.com/",
+          "https://imagetovideoaifree.com/pricing",
+          "https://imagetovideoaifree.com/ai-video-generator"
+        ],
+        "checked": "2026-11-05",
+        "current": true,
+        "priority": 40
+      }
+    },
+    {
+      "key": "20261105-fal-flux3-draft-free-landing-redirects-paid-max",
+      "kind": "changed",
+      "summary": "fal.ai의 기존 무료 FLUX 3 Draft T2V(720p·24시간당 5편) 안내 주소 /flux-video-free가 2026-11-05 현재 /flux-video로 이동하며, 11월 3일 갱신된 공식 페이지는 유료 FLUX 3 Max를 기본 생성기로 표시하고 계정 크레딧 충전을 요구합니다. 무료 Draft 5회 제공 종료를 확정하지 않고 기존 무료 진입 경로가 더는 기존 내용대로 열리지 않는 접근 변화로 기록합니다.",
+      "observedAt": "2026-11-05",
+      "evidence": [
+        "https://fal.ai/flux-video-free",
+        "https://fal.ai/flux-video",
+        "https://fal.ai/models/blackforestlabs/flux-3/text-to-video/draft"
+      ],
+      "site": {
+        "id": "seed_79",
+        "name": "fal.ai — FLUX 3 Draft 무료 진입 URL 이동 및 모델 전환",
+        "url": "https://fal.ai/flux-video-free",
+        "grade": "U",
+        "models": "기존 무료 안내 FLUX 3 Draft T2V(720p·5/10/15초); 현행 링크가 여는 기본 모델 FLUX 3 Max T2V(유료, 720p). Draft 모델 페이지는 별도 남아 있음.",
+        "grant": "기존 등록: 24시간당 무료 Draft 5편. 현행 무료 URL 접속 시 유료 FLUX 3 Max 안내로 이동하여 동일 조건의 무료 진입 확인 불가.",
+        "cycle": "기존 안내는 24시간 갱신; 현재 링크에서 갱신 UI 미확인",
+        "notes": "운영사 최초 무료 랜딩 주소의 실시간 리다이렉트 및 갱신일 2026-11-03 표시된 유료 Max 페이지를 직접 열람. 검색 색인에는 2026-08-13자 기존 무료 Draft 설명이 남아 있어 정책 종료 여부는 단정하지 않음. Draft 별도 모델 URL 존재하나 로그인 후 무료 Sandbox 권한·실제 생성·다운로드 테스트 미실시. 무료 Draft 제공 자체가 끝났다고 판정하지 않습니다.",
+        "sources": [
+          "https://fal.ai/flux-video-free",
+          "https://fal.ai/flux-video",
+          "https://fal.ai/models/blackforestlabs/flux-3/text-to-video/draft"
+        ],
+        "checked": "2026-11-05",
+        "current": true,
+        "priority": 48
+      }
+    },
+    {
+      "key": "20261105-fal-wan3-five-free-card-on-file-required",
+      "kind": "changed",
+      "summary": "기존 fal.ai Wan 3.0 무료 T2V(seed_77)의 실사용 제약 보완: 운영사 공식 무료 생성기 FAQ는 24시간당 720p·오디오 포함 5편은 무료지만 계정 활성화 단계에서 결제카드 등록이 필요하다고 명시합니다. 카드가 실제 청구되는 무료 영상은 아니나 무카드 무료 서비스로 분류하면 잘못입니다.",
+      "observedAt": "2026-11-05",
+      "evidence": [
+        "https://fal.ai/wan-video-free"
+      ],
+      "site": {
+        "id": "seed_77",
+        "name": "fal.ai — Wan 3.0 무료 Sandbox (카드 등록 필요)",
+        "url": "https://fal.ai/wan-video-free",
+        "grade": "A",
+        "models": "Wan 3.0 T2V 720p, 생성 시 오디오 포함, 24시간당 5편 무료 Sandbox; I2V나 다른 endpoint와 무료 혜택 구분.",
+        "grant": "로그인 회원 무료 5편/24시간. 계정 활성화에 결제카드 등록 필요, 무료 할당량 내 생성은 카드에 청구하지 않는다고 운영사가 명시.",
+        "cycle": "이동식 24시간",
+        "notes": "운영사 공식 무료 페이지가 2026-08-25 기준으로 이미 카드 등록을 안내하므로 이번 발견을 신규 시행 날짜로 오인하지 않음. 공식 홈페이지와 FAQ 열람 완료. 실제 카드 등록·로그인·영상 생성·결제 내역·MP4 다운로드 미실시.",
+        "sources": [
+          "https://fal.ai/wan-video-free"
+        ],
+        "checked": "2026-11-05",
+        "current": true,
+        "priority": 45
+      }
+    },
+    {
+      "key": "20261105-moveframe-daily-clean-streak-bonus-watermarked",
+      "kind": "changed",
+      "summary": "MoveFrame은 일반 일일 무료 5초·480p I2V 영상에 워터마크가 없다고 명시하지만, 연속 출석 무료 보너스 크레딧으로 만든 추가 영상에는 작은 모서리 워터마크가 붙는다고 별도 공식 설명합니다. 기존 10월 31일 워터마크 충돌과 11월 2일 출석 보너스 기록에 없는 무료 영상 유형별 차이를 보완합니다.",
+      "observedAt": "2026-11-05",
+      "evidence": [
+        "https://moveframe.app/image-to-video-no-watermark/",
+        "https://moveframe.app/pricing/"
+      ],
+      "site": {
+        "name": "MoveFrame — 일일 무료 원본 무워터마크, 추가 출석 보너스는 표시",
+        "url": "https://moveframe.app/",
+        "grade": "B",
+        "models": "무료 Standard 5초 480p I2V/T2V, 일일 720p 무료 업스케일 1편. 유료 HD 720p·10초 별도.",
+        "grant": "비회원 무료 하루 5크레딧(5초 1편); 해당 기본 일일 영상 무워터마크. 3일/7일 연속 출석 보너스로 만든 추가 무료 영상은 작은 모서리 워터마크.",
+        "cycle": "기본 무료 5크레딧 매일; 보너스 연속 방문 기준",
+        "notes": "공식 상세 설명(문서 업데이트 2026-10-31)에서 기본 무료 영상·유료 영상·출석 보너스 추가 영상·브라우저 내 비AI 모션 도구의 워터마크 정책을 구분함. 하루 무료 제공은 지역·혼잡도에 따라 달라질 수 있다는 공식 단서도 기록. 공개 페이지·가격표 열람 완료; 실제 생성·MP4 다운로드·워터마크 실물 확인 미실시. 기존 업데이트와 중복되지 않는 '보너스 영상에만 워터마크' 정정 기록.",
+        "sources": [
+          "https://moveframe.app/image-to-video-no-watermark/",
+          "https://moveframe.app/pricing/"
+        ],
+        "checked": "2026-11-05",
+        "current": true,
+        "priority": 39
+      }
+    },
+    {
+      "key": "20261105-sisif-free-video-zero-storyboard-only",
+      "kind": "review",
+      "summary": "Sisif를 신규 무료 생성 후보가 아닌 무료 영상 제외 대상으로 구분합니다. 현재 운영사 공식 FAQ에 신규 계정 무료 크레딧 0·무료 영상 0편, 5초 영상 1편 $1(540×960), 영상 MP4 무워터마크라고 명시합니다. 무료는 24시간당 스토리보드 기획 3회뿐이므로 '신규 무료 영상 크레딧 35개' 같은 과거 외부 홍보·추천 문구를 무료 생성 혜택으로 인용하지 않습니다.",
+      "observedAt": "2026-11-05",
+      "evidence": [
+        "https://sisif.ai/free-ai-video-generator/",
+        "https://sisif.ai/pricing"
+      ],
+      "site": {
+        "name": "Sisif — 영상 생성 무료 아님 (스토리보드만 무료)",
+        "url": "https://sisif.ai/free-ai-video-generator/",
+        "grade": "X",
+        "models": "영상 생성 5초 540×960 유료; 스토리보드 기획만 무료.",
+        "grant": "신규 계정 0크레딧, 무료 영상 0편. 5초 영상당 $1·무워터마크 MP4.",
+        "cycle": "무료 스토리보드 3개/24시간(첫 결제 전); 영상 무료 갱신 없음",
+        "notes": "공식 FAQ·요금표를 열람했으며 등록 전 오해 방지를 위한 제외·정정 검토 항목입니다. 127개 원본 카탈로그 및 11월 4일까지 73개 업데이트에 없던 사이트로, 기존 수록 서비스가 폐지되었다고 주장하지 않음. 과거 무료 크레딧 지급 여부·변경 시행일은 확인하지 않음. 실제 회원가입·영상 생성·다운로드 미실시.",
+        "sources": [
+          "https://sisif.ai/free-ai-video-generator/",
+          "https://sisif.ai/pricing"
+        ],
+        "checked": "2026-11-05",
+        "current": false,
+        "priority": 37
+      }
+    }
+  ]
+}
