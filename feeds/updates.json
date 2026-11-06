@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T00:48:33.472Z",
+  "generatedAt": "2026-11-06T00:45:37.718Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2045,6 +2045,112 @@
         "checked": "2026-11-05",
         "current": false,
         "priority": 37
+      }
+    },
+    {
+      "key": "20261106-ikat-free-watermark-480p-correction",
+      "kind": "changed",
+      "summary": "Ikat 기존 10월 31일 게시 내용의 중요한 정정: 현재 공식 홈페이지·가격표는 가입 10크레딧으로 Seedance 1.0 Pro Fast 5초·480p 영상 1편(10크레딧)을 안내하고, 무료 크레딧 생성물에는 Ikat 워터마크가 붙으며 개인 이용만 허용한다고 명시합니다. 종전 '720p·무료 무워터마크·상업적 이용 가능' 게시 내용과 충돌하므로 현행 무료 혜택으로 추천하면 안 됩니다. 정책 실제 전환 일자는 불명입니다.",
+      "observedAt": "2026-11-06",
+      "evidence": [
+        "https://ikat.app/",
+        "https://ikat.app/pricing"
+      ],
+      "site": {
+        "name": "Ikat — 무료 영상 480p·워터마크·비상업 정정",
+        "url": "https://ikat.app/",
+        "grade": "B",
+        "models": "가입 무료: Seedance 1.0 Pro Fast 480p·5초 10크레딧(2크레딧/초). Seedance 2.5 720p·5초 165크레딧, Wan 3.0 720p·5초 35크레딧은 무료 10크레딧으로 불가.",
+        "grant": "신규 계정 10크레딧, 무료 Seedance Fast 480p 5초 최대 1편. 무료 결과물 Ikat 워터마크, 개인 비상업 이용. 구입 후 신규 생성물만 무워터마크·상업 라이선스. 카드 불필요.",
+        "cycle": "가입 일회성; 주기적 무료 갱신 안내 없음",
+        "notes": "기존 게시 key 20261031-ikat-seedance10-free-720p-nowatermark의 720p·무워터마크·상업 이용 주장과 현재 운영사 공식 홈페이지/가격표 FAQ가 직접 충돌. 요금표의 현재 모델별 480p 단가와 무료 출력/유료 출력 권리 문구를 우선합니다. 실제 정책 적용 시점은 확인되지 않아 2026-11-06을 변경 시행일로 단정하지 않습니다. 공식 홈페이지·요금표 직접 열람 완료; 가입/실제 생성/다운로드/워터마크 영상 실물 테스트 미실시.",
+        "sources": [
+          "https://ikat.app/",
+          "https://ikat.app/pricing"
+        ],
+        "checked": "2026-11-06",
+        "current": true,
+        "priority": 75
+      }
+    },
+    {
+      "key": "20261106-freeaivideo-seedance25-daily480p-clean-guest",
+      "kind": "new",
+      "summary": "기존 127개 카탈로그와 78건 업데이트에 없는 Free AI Video(freeaivideo.app) 신규 경로: 비회원도 Seedance 2.5 T2V/I2V 4초·480p 영상을 기기당 UTC 하루 1회 무료 요청, 자체 워터마크 없는 다운로드 가능하다고 공식 안내합니다. 가입 인증 계정은 별도 4초 480p 바우처 1회(30일 유효) 대상일 수 있습니다.",
+      "observedAt": "2026-11-06",
+      "evidence": [
+        "https://www.freeaivideo.app/"
+      ],
+      "site": {
+        "name": "Free AI Video — Seedance 2.5 매일 비회원 무료",
+        "url": "https://www.freeaivideo.app/",
+        "grade": "B",
+        "models": "운영사 표기 Seedance 2.5 T2V/I2V; 무료 480p·4초, 텍스트 16:9/9:16/1:1/4:3/3:4; 유료 720p·10초.",
+        "grant": "무료 기기당 매일 4초 480p 1회. 로그인 전후 동일 한도 공유. 자격 충족 신규 인증 계정은 30일 유효 등록 바우처(4초 480p 1회) 추가 가능. 자체 워터마크 없음, 별도 출력 비용 없음.",
+        "cycle": "매일 00:00 UTC; 등록 바우처 일회성(발급 후 30일 내)",
+        "notes": "공식 생성기·무료 정책 FAQ의 구체적 수량과 해상도 확인. 네트워크/일일 처리량 조건 있으며 무료 요청은 접수되면 실패·취소되어도 시도 소진, 유료 실패는 환급. '파일 링크를 아는 누구나 접근 가능'이라고 안내하므로 민감한 입력 주의. 카드 없이 비회원 무료 진입 안내. 홈페이지·FAQ 열람만 완료; 실제 무료 요청 실행·MP4 다운로드·워터마크/백엔드 모델 확인 미실시.",
+        "sources": [
+          "https://www.freeaivideo.app/"
+        ],
+        "checked": "2026-11-06",
+        "current": true,
+        "priority": 56
+      }
+    },
+    {
+      "key": "20261106-raphael-h3turbo-480p4s-uncapped-free",
+      "kind": "new",
+      "summary": "Raphael AI 공식 무료 동영상 생성기/FAQ가 MiniMax H3 Turbo 480p·4초 T2V/I2V를 비로그인 체험 가능, 무료 로그인 계정에서는 일일 횟수 제한 없이 생성 가능하다고 안내합니다. 상위 해상도·다른 모델은 크레딧 사용, 무료 결과물은 비상업용입니다. 영상 워터마크는 공식 무료 생성기 설명만으로 명확하지 않아 별도 검토 대상으로 남깁니다.",
+      "observedAt": "2026-11-06",
+      "evidence": [
+        "https://raphael.app/ai-video-generator",
+        "https://raphael.app/minimax-h3",
+        "https://raphael.app/pricing"
+      ],
+      "site": {
+        "name": "Raphael AI — H3 Turbo 무료 480p·4초",
+        "url": "https://raphael.app/ai-video-generator",
+        "grade": "B",
+        "models": "무료 MiniMax H3 Turbo T2V/I2V 480p·4초, 오디오 지원 안내. 768p/12초 이상 및 MiniMax H3(비Turbo), Seedance 2.5/Veo/Kling 등은 크레딧.",
+        "grant": "비회원 일부 무료 생성, 무료 가입 계정은 H3 Turbo 480p·4초 일일 상한 없음(운영사 안내), 1건당 무료 크레딧 차감 없음. 무료 이용은 개인·비상업적 사용.",
+        "cycle": "고정 일일 무료 횟수 상한 없음(공유/운영 상황에 따라 가용성), 무료 모델 범위 고정",
+        "notes": "공식 생성기 FAQ는 익명 몇 회/일, 무료 회원 H3 Turbo 무제한을 명시. 요금표는 '무료 이미지에 워터마크'·유료 무워터마크를 안내하나 무료 영상 워터마크는 분리 명시하지 않아 무료 무워터마크로 분류하지 않음. 홈페이지에서 영상 모델 로딩 문구가 보여 실제 생성 UI 가용성 미확인. 페이지 열람 완료; 회원가입·실제 생성·다운로드·워터마크 확인 미실시.",
+        "sources": [
+          "https://raphael.app/ai-video-generator",
+          "https://raphael.app/minimax-h3",
+          "https://raphael.app/pricing"
+        ],
+        "checked": "2026-11-06",
+        "current": true,
+        "priority": 52
+      }
+    },
+    {
+      "key": "20261106-rendastic-free-muse720p10s-h3split",
+      "kind": "changed",
+      "summary": "Rendastic 기존 무료 조건(UTC 1편/일, 480p 중심)에 추가로, 현재 공식 홈페이지·I2V FAQ가 무료 모델 선택지를 Muse 약 10초·720p 또는 MiniMax H3 4초·480p(둘 다 소리 포함)로 명시합니다. 매일 1회 공유 한도·비회원·무워터마크 안내는 유지되며, 실제 시행 날짜가 아닌 확인된 무료 모델/해상도 정보 보완입니다.",
+      "observedAt": "2026-11-06",
+      "evidence": [
+        "https://rendastic.com/",
+        "https://rendastic.com/image-to-video",
+        "https://rendastic.com/pricing"
+      ],
+      "site": {
+        "name": "Rendastic — Muse 720p 10초 무료 모델 추가 확인",
+        "url": "https://rendastic.com/",
+        "grade": "B",
+        "models": "공식 FAQ 무료 선택지: Muse 약10초·720p 또는 MiniMax H3 4초·480p, 두 모델 모두 오디오. 생성 화면 초기 옵션은 5초 480p, 실제 모델 선택/가용성에 좌우됨.",
+        "grant": "계정·카드 없이 UTC 하루 1개 무료 요청(영상/기타 도구 공유), 무료 영상 MP4 자체 워터마크 없음(운영사 안내). 무료 Muse 720p 10초 옵션은 공급/용량 조건부.",
+        "cycle": "매일 UTC 00:00, 공유 1회; 이월 없음",
+        "notes": "20261027 게시 Veo Fast 480p 3~5초 및 20261031 게시 480p·1회/일 내용에 없던 무료 Muse 720p 약10초 옵션. 현재 공식 홈페이지·I2V FAQ는 Muse/H3 두 모델을 명시하지만 실제 생성 UI 초기 상태는 480p이고 렌더 모델 선택기가 로딩 중이므로 720p 실사용 확정 아님. 페이지 게시/갱신일은 10월 중으로 표시돼 11월 6일 신규 출시라고 주장하지 않음. I2V 업로드한 이미지가 외부 공급자 공개 링크로 72시간~30일 유지될 수 있다고 공식 경고. 공개 페이지·FAQ 열람 완료; 무료 생성/MP4 실물 다운로드·워터마크/모델 검증 미실시.",
+        "sources": [
+          "https://rendastic.com/",
+          "https://rendastic.com/image-to-video",
+          "https://rendastic.com/pricing"
+        ],
+        "checked": "2026-11-06",
+        "current": true,
+        "priority": 55
       }
     }
   ]
