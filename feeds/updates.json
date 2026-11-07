@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T00:45:37.718Z",
+  "generatedAt": "2026-11-07T01:10:00.588Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2151,6 +2151,91 @@
         "checked": "2026-11-06",
         "current": true,
         "priority": 55
+      }
+    },
+    {
+      "key": "20261107-freevideogenerator-starter30-seedance480p-no-watermark",
+      "kind": "new",
+      "summary": "기존 카탈로그·업데이트에 없는 FreeVideoGenerator.app 신규 T2V/I2V 무료 경로. 회원가입 시 일회성 30 welcome credits를 지급하고, Seedance 1.0 Pro Fast 480p·5초 영상 1편이 정확히 30크레딧입니다. 별도 카드 없이 시작하며 운영사 자체 가시적 워터마크 없는 MP4 다운로드를 안내하지만 고급 모델은 구매 크레딧 전용입니다.",
+      "observedAt": "2026-11-07",
+      "evidence": [
+        "https://freevideogenerator.app/",
+        "https://freevideogenerator.app/pricing",
+        "https://freevideogenerator.app/models"
+      ],
+      "site": {
+        "name": "FreeVideoGenerator — Seedance 1.0 Pro Fast 무료 첫 1편",
+        "url": "https://freevideogenerator.app/",
+        "grade": "B",
+        "models": "무료 가입 크레딧 적용: Seedance 1.0 Pro Fast T2V/I2V 5초·480p, 30크레딧/편. MiniMax H3·Veo·Wan 3.0·Kling·Seedance 2.x 등은 공식 모델 목록상 구매 크레딧 전용(무료 가입 크레딧으로 실행 불가).",
+        "grant": "가입 후 30 welcome credits 1회 → Seedance 1.0 Pro Fast 480p·5초 1편. 로그인 필수, 카드 불필요. MP4 자체 가시적 워터마크 없음(운영사 안내).",
+        "cycle": "가입 일회성; 일일·월간 무료 재충전 안내 없음. 가입 보너스는 무기한이라고 가격표 안내.",
+        "notes": "일반 모델 메뉴의 최대 1080p와 무료 클립 출력 480p를 구분. 무료 30크레딧은 Seedance 1.0 Pro Fast만 사용 가능. 운영사는 자체 가시적 로고가 없다고 안내하나 공급자 측 비가시적 AI provenance 신호 가능. 공식 홈·요금표·모델 목록 열람 완료, 실제 가입/생성/다운로드/워터마크 실물 확인 미실시. 최초 정책 시행일 미확인.",
+        "sources": [
+          "https://freevideogenerator.app/",
+          "https://freevideogenerator.app/pricing",
+          "https://freevideogenerator.app/models"
+        ],
+        "checked": "2026-11-07",
+        "current": true,
+        "priority": 35
+      }
+    },
+    {
+      "key": "20261107-extendaivideo-free3monthly-5s10s-extend-watermarkfree",
+      "kind": "new",
+      "summary": "ExtendAI Video라는 독립 AI 영상 연장기 신규 발견. 공식 현행 가격표·소개 페이지에서 로그인·카드 없이 매월 무료 3크레딧(매월 1일 초기화), 기존 영상 +5초 1크레딧 또는 +10초 2크레딧, 무워터마크 및 MP4 결과물을 안내합니다. 정적인 사진도 I2V 입력 가능하며 자유 T2V가 아니라 V2V 연장/사진 애니메이션 경로입니다.",
+      "observedAt": "2026-11-07",
+      "evidence": [
+        "https://extendaivideo.com/pricing",
+        "https://extendaivideo.com/about",
+        "https://extendaivideo.com/"
+      ],
+      "site": {
+        "name": "ExtendAI Video — 무료 V2V 연장 및 I2V",
+        "url": "https://extendaivideo.com/",
+        "grade": "B",
+        "models": "제공 엔진 비공개. MP4/MOV/WebM 소스 영상(최대 50MB) +5초 또는 +10초 연장; JPG/PNG/WebP 사진(최대 10MB)으로 I2V 시작. 자유 텍스트→영상 전용 도구는 아님.",
+        "grant": "비회원/무카드 매월 3크레딧, +5초 1크레딧 또는 +10초 2크레딧; 무료 출력 무워터마크 안내. MP4 다운로드 및 비공개 공유 링크 소개.",
+        "cycle": "매월 1일 달력 기준 3크레딧 재지급, 이월 없음. 오늘 열람된 현행 /pricing 및 /about 기준.",
+        "notes": "2026-11-07 공식 /pricing·/about를 직접 열람. 검색엔진 이전 캐시에는 '매일 3크레딧'도 존재하지만 현행 운영사 요금표와 소개는 명시적으로 '매월 3크레딧'이므로 현재 수치를 채택. 홈페이지 최상위 URL의 실시간 열람은 시간 초과되어 해당 페이지는 검색 색인 내용으로만 보조 확인. 실제 파일 업로드·연장 생성·MP4 다운로드·워터마크 실물 검증 미실시. 모델명/해상도/무료 파일 다운로드 버튼 노출은 확인 불가. 무워터마크는 공식 요금표 주장.",
+        "sources": [
+          "https://extendaivideo.com/pricing",
+          "https://extendaivideo.com/about",
+          "https://extendaivideo.com/"
+        ],
+        "checked": "2026-11-07",
+        "current": true,
+        "priority": 36
+      }
+    },
+    {
+      "key": "20261107-adskull-seed85-h3-35credits-768p-free-commercial-limit",
+      "kind": "changed",
+      "summary": "기존 seed_85 AdSkull의 무료 50크레딧 안내를 실제 H3 생성 비용과 연결해 보완. 공식 MiniMax H3 안내에서 768p·1편 35크레딧으로 가입 무료 50크레딧 범위 안에 1편을 만들 수 있고, 카드 불필요·MP4 내보내기를 안내합니다. 무료 계정의 상업적 사용권은 없으며 크레딧 월간 갱신은 공식 페이지 내 문구가 상충해 확정하지 않습니다.",
+      "observedAt": "2026-11-07",
+      "evidence": [
+        "https://adskull.io/en/free/minimax-h3",
+        "https://adskull.io/en/pricing",
+        "https://adskull.io/en/free"
+      ],
+      "site": {
+        "id": "seed_85",
+        "name": "AdSkull Creative Studio — MiniMax H3 무료 생성 비용 보완",
+        "url": "https://adskull.io/en/free/minimax-h3",
+        "grade": "B",
+        "models": "MiniMax H3(Hailuo 3.0) 768p 생성 35크레딧/편, 음성 포함. 무료 계정으로 이용 가능한 AI Studio 모델 중 하나. 기타 Seedance/Veo/Wan 등도 모델별 크레딧 차감.",
+        "grant": "무료 계정 가입 시 50 AI크레딧, 카드 불필요 → MiniMax H3 768p 1편(35크레딧) 가능하다고 자체 명시. 무료 상업적 이용권 없음. MP4 내보내기 안내.",
+        "cycle": "가입 시 첫 50크레딧 지급 명시. 공식 H3 비교표는 Free의 'AI credits/month 50'로 표기하지만 가입 안내는 50크레딧이 초기 지급되는 방식으로 설명; 월 자동 갱신 확정하지 않음.",
+        "notes": "기존 카탈로그 seed_85에는 50크레딧과 H3 체험이 있었지만 무료 영상당 35크레딧·768p와 상업 라이선스 제외 조건은 누락. 이를 신규 요금 변경으로 단정하지 않고 조건 보완으로 기록. 공식 소개·요금표 열람 완료, 실제 가입·잔액·영상 렌더링·MP4 다운로드·워터마크 검증 미실시. 무료 워터마크 여부는 이 출처로 확정하지 않음.",
+        "sources": [
+          "https://adskull.io/en/free/minimax-h3",
+          "https://adskull.io/en/pricing",
+          "https://adskull.io/en/free"
+        ],
+        "checked": "2026-11-07",
+        "current": true,
+        "priority": 33
       }
     }
   ]
