@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T01:10:00.588Z",
+  "generatedAt": "2026-11-08T00:43:40.269Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2236,6 +2236,118 @@
         "checked": "2026-11-07",
         "current": true,
         "priority": 33
+      }
+    },
+    {
+      "key": "20261108-refvid-free180-kling3omni-1080p4s-watermarkfree",
+      "kind": "new",
+      "summary": "기존 카탈로그·updates에 없던 RefVid 신규 무료 T2V/I2V·피사체 레퍼런스 경로. 공식 요금표는 가입 180크레딧 1회, Kling 3.0 Omni 720p 무음 5초(155크레딧) 또는 1080p 무음 4초(41크레딧/초=164) 선택 가능, 카드 불필요·무료 MP4 무워터마크·상업적 이용 허용을 안내. 지역에 따라 무료 기본 모델이 Vidu Q2 360p로 바뀔 수 있음.",
+      "observedAt": "2026-11-08",
+      "evidence": [
+        "https://refvid.com/pricing",
+        "https://refvid.com/best-free-ai-video-generators",
+        "https://refvid.com/"
+      ],
+      "site": {
+        "name": "RefVid — Kling 3.0 Omni 무료 첫 클립 (720p 5초 / 1080p 4초 조건부)",
+        "url": "https://refvid.com/",
+        "grade": "B",
+        "models": "가입 무료 크레딧 대상 Kling 3.0 Omni: 무음 720p 5초 155크레딧 또는 무음 1080p 4초 164크레딧(41크레딧/초). 지역별 일부 Vidu Q2 360p 대체. 유료/추가 모델 Kling 4·Seedance 2.5·Wan 3.0·Vidu Q4·Gemini Omni Flash·PixVerse C1·Happy Horse 1.1·MiniMax H3.",
+        "grant": "신규 가입 180크레딧 1회(최초 5초 클립 및 무료 이미지 5장 안내). Google 또는 이메일 로그인 필요; 결제카드 불필요. 무료·유료 MP4 모두 운영사 워터마크 없음, 무료 상업적 사용 가능(운영사 설명).",
+        "cycle": "일회성 가입 크레딧; 정기 무과금 재충전 안내 없음.",
+        "notes": "RefVid 공식 비교문에는 무료 4초 1080p 가능이라고 설명하고, 요금표 Kling 3.0 Omni 무음 1080p 41크레딧/초×4=164로 180 가입 크레딧 이내. 다만 같은 가격표는 기본 무료 5초 720p 및 일부 지역 Vidu Q2 360p 대체를 안내하므로 1080p가 한국 계정에 허용되는지는 미확인. 원래 정책 시행일 미확인. 홈페이지·요금표·공식 FAQ 열람 완료; 실제 가입/잔액/영상 생성/다운로드/출력 해상도·워터마크 실물 검증 미실시.",
+        "sources": [
+          "https://refvid.com/pricing",
+          "https://refvid.com/best-free-ai-video-generators",
+          "https://refvid.com/"
+        ],
+        "checked": "2026-11-08",
+        "current": true,
+        "priority": 27
+      }
+    },
+    {
+      "key": "20261108-minimaxm-free20-h3-2k5s-no-card",
+      "kind": "new",
+      "summary": "독립 호스팅 minimaxm.com 신규 MiniMax H3 무료 첫 생성 후보. 운영사 공식 요금표에 가입 시 무료 20크레딧·결제카드 불필요, H3 표준 2K 5초 영상 1편=20크레딧(768p 5초=10크레딧), 오디오 동시 생성·실패 작업 크레딧 반환 안내. 무료 출력 워터마크 및 상업 사용권은 명확히 기재되지 않아 미확인.",
+      "observedAt": "2026-11-08",
+      "evidence": [
+        "https://www.minimaxm.com/pricing",
+        "https://www.minimaxm.com/",
+        "https://www.minimaxm.com/terms"
+      ],
+      "site": {
+        "name": "MiniMaxm (독립) — MiniMax H3 2K 무료 첫 5초",
+        "url": "https://www.minimaxm.com/",
+        "grade": "B",
+        "models": "MiniMax H3 Standard T2V/I2V/멀티 레퍼런스. 5~15초, 768p 또는 2K, 영상·음성 동시 생성. 공식 요금표상 768p 초당 2크레딧, 2K 초당 4크레딧, 최대 9장 이미지·3개 영상·3개 오디오 레퍼런스.",
+        "grant": "가입 20 무료 크레딧 1회; 추가 레퍼런스 비용 없이 2K 5초 1편(20) 또는 768p 5초 2편(10씩) 가능하다는 운영사 요금표. 카드 불필요, 실패·거절 작업 크레딧 환급 안내.",
+        "cycle": "무료 20크레딧 가입 일회성; 무료 주기적 재지급 안내 없음. 유료 크레딧은 일회성 구매·만료 없음.",
+        "notes": "MiniMax 공식 사이트가 아닌 별도 운영 서비스임을 약관에서 확인. 2K 영상은 공급자 주장 기준이며 1080p 옵션으로 직접 선택 가능한지 별도 확인 불가. 워터마크/무료 상업적 사용권/다운로드 형식은 명확한 무료 조항 미확인. 공식 홈·요금표·약관 열람 완료; 실제 회원가입/생성/파일 다운로드·출력 해상도 검증 미실시. 요금표 최근 업데이트 표기는 2026-09-10, 조사 발견일 2026-11-08.",
+        "sources": [
+          "https://www.minimaxm.com/pricing",
+          "https://www.minimaxm.com/",
+          "https://www.minimaxm.com/terms"
+        ],
+        "checked": "2026-11-08",
+        "current": true,
+        "priority": 31
+      }
+    },
+    {
+      "key": "20261108-clapova-free60-monthly-h3max-720p10s-watermark",
+      "kind": "new",
+      "summary": "Clapova 신규 무료 AI 영상 경로 발견. 운영사 가격표의 Free €0 플랜은 하루 20크레딧, 월 최대 60크레딧 및 영상당 MiniMax H3 Max 약 14크레딧으로 월 약 4편(10초·720p)을 안내. MiniMax H3/H3 Max T2V·I2V를 카드 없이 무료 크레딧으로 실행 가능하나 결과물에 Clapova 워터마크가 있으며 무료 내보내기 최대 720p.",
+      "observedAt": "2026-11-08",
+      "evidence": [
+        "https://clapova.com/pricing",
+        "https://clapova.com/ai-models/minimax-hailuo",
+        "https://clapova.com/"
+      ],
+      "site": {
+        "name": "Clapova — MiniMax H3 / H3 Max 무료 월 최대 4편",
+        "url": "https://clapova.com/",
+        "grade": "B",
+        "models": "MiniMax H3 T2V/I2V 10초 약 16크레딧, H3 Max T2V/I2V 10초 약 14크레딧 (720p). 일반 편집·장면 구성 지원. H3 Max Turbo 무료 포함 여부는 모델표와 FAQ가 상충해 확정하지 않음.",
+        "grant": "Free 플랜 0유로, 매일 20크레딧 보상(월 최대 총 60크레딧), 약 4편 10초·720p H3 Max 영상. 회원가입 필요, 카드 불필요. 무료 MP4 내보내기에는 Clapova 워터마크.",
+        "cycle": "일일 20크레딧 보상, 한 달 총 60크레딧 상한. 이월 여부 별도 확인 안 됨.",
+        "notes": "공식 가격표: Free 월 총 60크레딧, H3 Max 10초 720p 약 4편; 무료 워터마크 필수, 1080p는 유료. H3 Max Turbo의 무료 접근은 자체 모델표와 FAQ 표기가 달라 제외. 홈페이지·공식 모델 문서·요금표 열람 완료; 실제 가입/영상 생성/MP4 다운로드 실측 미실시. 무료 영상 생성 지원 모델과 지급 정책의 최초 도입일 미확인.",
+        "sources": [
+          "https://clapova.com/pricing",
+          "https://clapova.com/ai-models/minimax-hailuo",
+          "https://clapova.com/"
+        ],
+        "checked": "2026-11-08",
+        "current": true,
+        "priority": 36
+      }
+    },
+    {
+      "key": "20261108-seedancehub-guest50-signin80-daily-conflict-mini20-25-60",
+      "kind": "new",
+      "summary": "독립 SeedanceHub 신규 Seedance 2.5·2.0 무료 경로. 공식 생성기 Seedance 2.0 Mini 480p·5초 20크레딧, Seedance 2.5 480p·5초 60크레딧을 표시. 사이트는 비회원 50크레딧·로그인 80크레딧 및 카드 불필요·무워터마크 다운로드를 안내하지만, FAQ마다 이 수치를 일회성 보너스인지 매일 리필인지 다르게 기재해 정확한 반복 지급량은 미확정.",
+      "observedAt": "2026-11-08",
+      "evidence": [
+        "https://seedancehub.io/",
+        "https://seedancehub.io/seedance-2-5/",
+        "https://seedancehub.io/pricing/"
+      ],
+      "site": {
+        "name": "SeedanceHub (독립) — Seedance 2.0 Mini / 2.5 무료 경로",
+        "url": "https://seedancehub.io/",
+        "grade": "C",
+        "models": "Seedance 2.0 Mini T2V/I2V 480p 5초 20크레딧(홈 생성기), 720p 선택 가능; Seedance 2.5 T2V/I2V/레퍼런스 480p 5초 60크레딧(전용 생성기), 최대 720p. Seedance 2.0(비-Mini)은 상위 해상도 지원. 모델별·옵션별 비용 달라짐.",
+        "grant": "운영사 홈페이지 FAQ 비회원 50 무료 크레딧, 로그인 80 무료 크레딧, 무카드. 비회원 기본 2.0 Mini 5초 480p 1편(20크레딧) 가능한 수치, 로그인 80으로 2.5 기본 5초 480p 1편(60크레딧) 가능한 수치. 공식 FAQ는 다운로드 무워터마크 주장.",
+        "cycle": "미확정: 홈 안내 '로그인 시 80 무료 크레딧, 매일 50 무료 크레딧' vs Seedance 2.5 FAQ '비회원 매일 50, 로그인 매일 80' vs 홈 FAQ 가입 전 50/로그인 후 80 체험. 반복 자동 지급은 일단 검증 필요로 보류.",
+        "notes": "사이트는 독립 SeedanceHub이며 공식 ByteDance Seedance 운영 사이트 아님. 상단의 30초/4K는 모델별 최대 사양으로, 무과금 생성에서 해당 해상도와 길이를 보장하지 않음. 홈·모델 생성기·가격표/FAQ 열람 완료, 실제 로그인·잔액 갱신·영상 생성·다운로드/워터마크 확인 미실시. 요금표는 선불 잔액 단위 USD와 마케팅 페이지의 credits를 혼용하며 크레딧 실환산도 미확인. 과금 실험 없이 무료 조건 충돌 검토 후보로 등록.",
+        "sources": [
+          "https://seedancehub.io/",
+          "https://seedancehub.io/seedance-2-5/",
+          "https://seedancehub.io/pricing/"
+        ],
+        "checked": "2026-11-08",
+        "current": true,
+        "priority": 40
       }
     }
   ]
