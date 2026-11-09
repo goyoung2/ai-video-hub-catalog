@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T00:43:40.269Z",
+  "generatedAt": "2026-11-09T00:52:24.696Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2348,6 +2348,190 @@
         "checked": "2026-11-08",
         "current": true,
         "priority": 40
+      }
+    },
+    {
+      "key": "20261109-kensa-15credits-free-veo31-720p8s-h3",
+      "kind": "new",
+      "summary": "새 독립 통합 생성기 Kensa: Google 신규 가입 시 15크레딧(72시간 유효) 지급, 카드 불필요. Veo 3.1 720p·8초 오디오 영상 또는 MiniMax H3 768p·5초는 각각 13크레딧으로 첫 편 제작 가능. 공식 FAQ는 무료 출력도 무워터마크라고 명시. 무료 상업적 이용권은 없음.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://www.kensa.cc/pricing",
+        "https://www.kensa.cc/"
+      ],
+      "site": {
+        "name": "Kensa — 무료 Veo 3.1 / MiniMax H3",
+        "url": "https://www.kensa.cc/",
+        "grade": "B",
+        "models": "Veo 3.1 720p 8초 오디오 13크레딧; MiniMax H3 768p 5초 오디오 13크레딧; Grok Image Video 480p 6초 5크레딧; Seedance 2.0/2.5; Kling 3 점검 중",
+        "grant": "신규 Google 가입 15크레딧; 카드 불필요, 1개 13크레딧 클립 가능",
+        "cycle": "일회성 가입, 72시간 유효",
+        "notes": "무료 계정의 무워터마크 MP4는 운영사 발표. 상업용 라이선스는 유료 Pro/Ultimate 또는 Premium 팩에 한정. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://www.kensa.cc/pricing",
+          "https://www.kensa.cc/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 31
+      }
+    },
+    {
+      "key": "20261109-vidpic-signup60-two-720p5s-watermarkfree",
+      "kind": "new",
+      "summary": "VidPic 신규 무료 생성 경로: 가입 시 60크레딧, T2V/I2V 720p·5초 한 편당 30크레딧으로 2편 가능. 무워터마크 영상과 생성 이력 7일 보관 안내. 1080p·5초는 90크레딧으로 가입 지급량만으로 불가능.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://vidpic.io/pricing/",
+        "https://vidpic.io/",
+        "https://vidpic.io/text-to-video/"
+      ],
+      "site": {
+        "name": "VidPic — 720p 5초 무료 2편",
+        "url": "https://vidpic.io/",
+        "grade": "B",
+        "models": "자체 T2V·I2V, 공급 기초 모델 미공개; 720p 5초 30크레딧 / 1080p 5초 90크레딧",
+        "grant": "가입 시 60크레딧, 720p 5초 최대 2편",
+        "cycle": "가입 일회성, 정기 갱신 미안내",
+        "notes": "T2V 소개에는 비로그인 무료 광고가 있으나 I2V FAQ/가격표에는 가입 지급 60크레딧 안내. 비로그인 실행은 분리해 미확인으로 처리. 무료 무워터마크는 사이트 주장. 카드 조건은 공개된 증거 부족. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://vidpic.io/pricing/",
+          "https://vidpic.io/",
+          "https://vidpic.io/text-to-video/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 33
+      }
+    },
+    {
+      "key": "20261109-minimax-h3ai-daily-checkin-h3max480p",
+      "kind": "new",
+      "summary": "독립 H3 호스팅 MiniMax-H3.ai: 신규 30크레딧으로 H3 Max 480p 5초 1편(초당 6크레딧). FAQ는 이후 매일 출석 시 480p 영상 1편(최대 6초) 및 연속 출석 3일 +10, 7일 +30크레딧을 안내. 무워터마크 MP4 다운로드 표시.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://minimax-h3.ai/",
+        "https://minimax-h3.ai/pricing"
+      ],
+      "site": {
+        "name": "MiniMax-H3.ai — H3 Max 일일 출석 영상",
+        "url": "https://minimax-h3.ai/",
+        "grade": "B",
+        "models": "MiniMax H3 Max 480p 6cr/s, 768p 9cr/s, 1080p 19cr/s; MiniMax H3 768p 9cr/s, 2K 14cr/s",
+        "grant": "가입 30크레딧=480p 5초 1편; 일일 출석 480p 무료 영상 1편 주장",
+        "cycle": "가입 보너스 + 일일 출석, 보너스 일수 3·7일",
+        "notes": "FAQ의 최대 6초/일과 기본 30크레딧=5초의 계산 차이가 있어 일일 보상 정확한 크레딧은 확인 대상. MiniMax 개발사 공식 사이트가 아닌 독립 서비스. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://minimax-h3.ai/",
+          "https://minimax-h3.ai/pricing"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 29
+      }
+    },
+    {
+      "key": "20261109-minimaxh3app-signup65-768p5s-14days",
+      "kind": "new",
+      "summary": "독립 MiniMaxH3.app 스튜디오는 신규 계정 65크레딧(14일 유효)으로 MiniMax H3 768p·5초 오디오 포함 영상을 무료 1편 제작한다고 명시. 2K는 유료 팩으로만 개방, 실패 작업은 크레딧 반환.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://minimaxh3.app/"
+      ],
+      "site": {
+        "name": "MiniMaxH3.app — H3 768p 5초 무료",
+        "url": "https://minimaxh3.app/",
+        "grade": "B",
+        "models": "MiniMax H3 768p 13cr/s, 2K 20cr/s; 텍스트/이미지/첫·마지막 프레임/Omni 참조",
+        "grant": "신규 가입 65크레딧=768p 5초 1편",
+        "cycle": "가입 일회성, 14일 후 만료",
+        "notes": "무제한 무료 티어 아님. 무료 영상 워터마크와 무료 상업적 사용권은 설명이 명료하지 않음. MiniMax 개발사 비제휴 독립 서비스. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://minimaxh3.app/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 27
+      }
+    },
+    {
+      "key": "20261109-minimaxh3maxvideo-first-480p5s-no-card",
+      "kind": "new",
+      "summary": "독립 MiniMaxH3Max.video 신규 가입 시 카드 없이 H3 Max 480p·5초·오디오 포함 클립을 딱 1회 무상 제작. 공식 가격표는 무료 클립 워터마크 없음·상업권은 유료 플랜 전용이라고 명시.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://minimaxh3max.video/pricing",
+        "https://minimaxh3max.video/"
+      ],
+      "site": {
+        "name": "MiniMaxH3Max.video — H3 Max 480p 5초 첫 편",
+        "url": "https://minimaxh3max.video/",
+        "grade": "B",
+        "models": "MiniMax H3 Max 기본 480p 5초 오디오; 768p·1080p 긴 영상은 유료",
+        "grant": "가입 시 무료 480p 5초 1편, 카드 등록 불필요",
+        "cycle": "가입 일회성 총 1편, 반복 갱신 없음",
+        "notes": "상업적 이용권은 유료 전용. 무료 1080p 영상 서비스가 아니라 무료는 480p 한 편. 독립 호스팅 사이트. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://minimaxh3max.video/pricing",
+          "https://minimaxh3max.video/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 28
+      }
+    },
+    {
+      "key": "20261109-h3-maxcom-10credits-768p5s",
+      "kind": "new",
+      "summary": "독립 H3-Max.com 가격표의 신규 무료 10크레딧은 H3 Max Turbo 768p·5초 1편 또는 480p·10초 1편에 해당. 실제 768p·5초 생성기 비용 10크레딧 표시. 1080p·5초는 최소 40크레딧으로 무료 범위 밖.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://h3-max.com/pricing",
+        "https://h3-max.com/h3-max-turbo",
+        "https://h3-max.com/"
+      ],
+      "site": {
+        "name": "H3-Max.com — H3 Max Turbo 768p 5초 무료",
+        "url": "https://h3-max.com/",
+        "grade": "B",
+        "models": "MiniMax H3 Max Turbo 768p 5초 10cr / 480p 10초 10cr / 1080p 5초 40cr 이상",
+        "grant": "신규 무료 계정 10크레딧, 768p 5초 1편 가능",
+        "cycle": "가입 일회성, 정기 보상 미안내",
+        "notes": "무료 영상 워터마크, 결제카드, 상업권은 명확한 공식 표기 없어 미확인. H3 개발사 아닌 독립 서비스. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://h3-max.com/pricing",
+          "https://h3-max.com/h3-max-turbo",
+          "https://h3-max.com/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 24
+      }
+    },
+    {
+      "key": "20261109-tryminimaxh3-120credits-768p4s-30days",
+      "kind": "new",
+      "summary": "신규 독립 H3 영상 생성기 TryMiniMaxH3 요금표에 신규 계정 120크레딧(30일 유효), 768p·4초 무료 테스트 1회 명시. 같은 표는 768p 5초 약 1편, 2K 5초는 0편이라고 계산.",
+      "observedAt": "2026-11-09",
+      "evidence": [
+        "https://tryminimaxh3.com/pricing",
+        "https://tryminimaxh3.com/"
+      ],
+      "site": {
+        "name": "TryMiniMaxH3 — 무료 768p 4초 테스트",
+        "url": "https://tryminimaxh3.com/",
+        "grade": "B",
+        "models": "MiniMax H3 768p 4초 무료 테스트, 768p 5초 약 120cr, 2K 유료",
+        "grant": "가입 무료 120크레딧, 768p 4초 1편 테스트",
+        "cycle": "가입 일회성, 30일 유효",
+        "notes": "MiniMax/Kie와 비제휴 독립 플랫폼. 무료 4초 확정 안내와 5초 약 1편 추정 표시 구분. 무료 MP4 워터마크·카드·상업권은 미확인. 2026-11-09 공식 홈페이지·가격표·FAQ 공개 페이지 열람 확인. 실제 사용자 가입·로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 실물 테스트 미실시. 정책 시행일은 미확인(2026-11-09는 조사일).",
+        "sources": [
+          "https://tryminimaxh3.com/pricing",
+          "https://tryminimaxh3.com/"
+        ],
+        "checked": "2026-11-09",
+        "current": true,
+        "priority": 21
       }
     }
   ]
