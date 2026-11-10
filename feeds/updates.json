@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T00:52:24.696Z",
+  "generatedAt": "2026-11-10T01:14:43.590Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2532,6 +2532,137 @@
         "checked": "2026-11-09",
         "current": true,
         "priority": 21
+      }
+    },
+    {
+      "key": "20261110-visionmorphic-daily40-wan3-720p5s-watermark",
+      "kind": "new",
+      "summary": "VisionMorphic 신규 반복 무료 T2V/I2V 경로. 카드 없이 40크레딧을 시작으로 매일 UTC 00:00 잔액이 40크레딧으로 갱신됩니다. Wan 3.0 480p 2초 8크레딧(하루 최대 5편) 또는 720p 5초 35크레딧(하루 1편)이 공식 요금표에 명시되어 있습니다. 무료 출력 워터마크, 상업 이용 불가, 보관 7일입니다.",
+      "observedAt": "2026-11-10",
+      "evidence": [
+        "https://visionmorphic.com/pricing",
+        "https://visionmorphic.com/wan-3-0"
+      ],
+      "site": {
+        "name": "VisionMorphic — Wan 3.0 반복 무료 영상",
+        "url": "https://visionmorphic.com/pricing",
+        "grade": "A",
+        "models": "Wan 3.0 T2V/I2V 오디오 포함: 480p 초당 4크레딧(2초 8), 720p 초당 7크레딧(5초 35); Seedance 2.0 Mini 480p 5초 20크레딧, 720p 5초 40크레딧; Kling 4.0 Flash 720p 5초 40크레딧. 무료 상한 720p.",
+        "grant": "Free 40크레딧에서 시작, 매일 40으로 재충전(추가 누적 불가); 카드 등록 불필요.",
+        "cycle": "매일 00:00 UTC",
+        "notes": "무료 잔액은 이미지·영상이 공유. 무료 최대 720p, 워터마크 부착, 보관 7일, 개인용만 허용. 모델별 768p/2K 표기가 있더라도 무료 계정의 공통 720p 상한을 우선해야 함. 요금표는 2026-10-27 단가라고 명시하며 실제 변경일이 아닌 2026-11-10 발견 기록. 공식 요금표·모델 FAQ 공개 페이지 열람 확인; 계정 로그인·크레딧 수령·영상 생성·다운로드·워터마크 실물 검사 미실시.",
+        "sources": [
+          "https://visionmorphic.com/pricing",
+          "https://visionmorphic.com/wan-3-0"
+        ],
+        "checked": "2026-11-10",
+        "current": true,
+        "priority": 5
+      }
+    },
+    {
+      "key": "20261110-flowaifx-onetime30-veo31lite-720p-no-watermark",
+      "kind": "new",
+      "summary": "독립 운영 FlowAIFX.org 신규 무료 T2V/I2V 후보. 공식 페이지는 신규 계정에 평생 30크레딧(일회성), 무워터마크 개인용 영상을 안내하며 Veo 3.1 Lite 기본 720p·4초 생성기 비용 20크레딧을 표시해 최소 1회 체험 경로가 있습니다. '최대 3편' 마케팅 표현은 현재 표시한 20크레딧 기본 설정의 계산값과 다르므로 보장하지 않습니다.",
+      "observedAt": "2026-11-10",
+      "evidence": [
+        "https://flowaifx.org/"
+      ],
+      "site": {
+        "name": "FlowAIFX — 독립 AI 영상 스튜디오 (Google Flow 아님)",
+        "url": "https://flowaifx.org/",
+        "grade": "B",
+        "models": "Veo 3.1 Lite T2V/I2V 기본 720p 4초 20크레딧 표시; 4/6/8초 및 720p·1080p 옵션은 유료·무료 적용 범위 개별 확인.",
+        "grant": "계정당 신규 무료 30 lifetime 크레딧. 기본 720p 4초 생성 20크레딧이면 1편 제작 가능.",
+        "cycle": "일회성",
+        "notes": "FlowAIFX는 공식 Google Flow(labs.google/fx)와 별개이며 자체 사이트에도 비제휴 명시. 요금표 무료 30크레딧·무워터마크·개인용, 무료 FAQ 카드 불필요. 홍보 '최대 3영상'과 생성기 20크레딧/편은 다른 조건일 수 있어 3편 보장하지 않음. 공개 홈페이지·요금·FAQ 열람 확인; 계정 로그인, 크레딧, 실제 생성, MP4 다운로드 및 무워터마크 실물 미검증.",
+        "sources": [
+          "https://flowaifx.org/"
+        ],
+        "checked": "2026-11-10",
+        "current": true,
+        "priority": 20
+      }
+    },
+    {
+      "key": "20261110-wan3aiim-signup10-wan30-480p5s-checkin",
+      "kind": "new",
+      "summary": "wan3ai.im 독립 생성기에서 신규 가입 10크레딧으로 Wan 3.0 T2V 480p·5초·오디오 포함 영상 1편을 만들 수 있다고 공식 생성기·가격표·FAQ가 명시합니다. 이후 출석 무료 크레딧도 안내하지만 정확한 갱신량은 발표되지 않았습니다.",
+      "observedAt": "2026-11-10",
+      "evidence": [
+        "https://wan3ai.im/",
+        "https://wan3ai.im/pricing"
+      ],
+      "site": {
+        "name": "Wan3ai.im — Wan 3.0 첫 영상 무료",
+        "url": "https://wan3ai.im/",
+        "grade": "B",
+        "models": "Wan 3.0 T2V 480p 5초 10크레딧(오디오 포함); I2V/레퍼런스 모드는 추가 비용 가능; Seedance 2.0 Mini 15크레딧부터, 기타 프리미엄 모델은 별도.",
+        "grant": "로그인 신규 10 welcome 크레딧으로 Wan 3.0 최소비용 5초 영상 1편. 일일 체크인 추가 지급 안내(정확한 수량 미공개).",
+        "cycle": "가입 일회성 + 출석(지급량 미공개)",
+        "notes": "wan3ai.im은 기존 Wan3.io(seed_94), wan30ai.com(seed_50), 기타 유사 도메인과 구별되는 독립 호스팅 사이트. 10크레딧은 가장 저렴한 Wan3.0 480p T2V 5초에만 일치; 더 높은 해상도/I2V와 모델 선택 시 소진량이 증가할 수 있음. 무료 출력 워터마크·결제카드·상업권 제한은 공식 확인 못함. 홈페이지·모델 요금·FAQ 공개 열람 확인, 로그인·영상 생성·MP4 다운로드 미실시.",
+        "sources": [
+          "https://wan3ai.im/",
+          "https://wan3ai.im/pricing"
+        ],
+        "checked": "2026-11-10",
+        "current": true,
+        "priority": 25
+      }
+    },
+    {
+      "key": "20261110-vdobloom-onetime10-wan3-2s-seedance2mini-4s-watermark",
+      "kind": "new",
+      "summary": "VdoBloom 신규 무료 영상 생성 경로. 공식 Free 요금표는 가입 시 카드 없이 만료 없는 10크레딧(일회성), 무료 다운로드 워터마크를 명시합니다. 공식 모델 안내에서 Wan 3.0 T2V/I2V 480p·2초 7크레딧으로 1편 가능하며 요금표에는 Seedance 2 Mini 480p·4초도 7크레딧으로 표기됩니다.",
+      "observedAt": "2026-11-10",
+      "evidence": [
+        "https://vdobloom.com/pricing/",
+        "https://vdobloom.com/models/wan-3-0-video/"
+      ],
+      "site": {
+        "name": "VdoBloom — Wan 3.0 / Seedance 2 Mini 무료 짧은 영상",
+        "url": "https://vdobloom.com/pricing/",
+        "grade": "B",
+        "models": "Wan 3.0 T2V/I2V 480p 2초 7크레딧, 3초 10크레딧(모델 페이지); Seedance 2 Mini 480p 4초 7크레딧(요금표). 모든 모델 메뉴 접근 안내.",
+        "grant": "신규 가입 10크레딧 1회 지급, 유효기간 없음; 결제카드 불필요.",
+        "cycle": "일회성",
+        "notes": "무료 생성 결과 영상·이미지 다운로드에는 서비스 워터마크가 붙으며 구매 플랜에서 제거 가능. 가입 크레딧은 이미지·영상·음성 등 138모델/기능이 공유. 모델별 가격은 제출 전 화면에서 확인하며 실패 시 자동 크레딧 환급 안내. 2026-11-10 공식 요금표 및 모델 안내 열람 기준; 가입·생성·다운로드 실제 검증 미실시.",
+        "sources": [
+          "https://vdobloom.com/pricing/",
+          "https://vdobloom.com/models/wan-3-0-video/"
+        ],
+        "checked": "2026-11-10",
+        "current": true,
+        "priority": 30
+      }
+    },
+    {
+      "key": "20261110-viggle-free-7day-retention-h3-resolution-policy-conflict",
+      "kind": "review",
+      "summary": "기존 Viggle(seed_103) 무료 MiniMax H3 경로의 누락된 다운로드·보관 제약을 보완합니다. 현재 공식 요금표는 Free 생성물/자산 보관 7일, 무료 워터마크, 동시 생성 1건을 명시합니다. 한편 공식 H3 모델 페이지는 무료 480p·768p·1080p를 안내하지만 운영사 일반 I2V FAQ는 Standard/고해상도 출력은 유료라고 하여 해상도 조건이 상충합니다. 무료 1080p 종료라고 확정하지 않습니다.",
+      "observedAt": "2026-11-10",
+      "evidence": [
+        "https://viggle.ai/pricing",
+        "https://viggle.ai/tools/image-to-video-ai",
+        "https://viggle.ai/models/minimax-h3"
+      ],
+      "site": {
+        "id": "seed_103",
+        "name": "Viggle — MiniMax H3 무료 출력 및 보관 정책 보완",
+        "url": "https://viggle.ai/models/minimax-h3",
+        "grade": "B",
+        "models": "MiniMax H3 무료 영상 5초·오디오, 무료 해상도 공식 안내 불일치(H3 전용: 480p/768p/1080p; 일반 I2V: 고해상도 유료). 무료 기본 모델 외 Veo/Wan/Kling은 유료 별도.",
+        "grant": "일일 무료 크레딧 갱신(기존 발표 5개 영상/일; 무료 자산 보관 7일)",
+        "cycle": "매일",
+        "notes": "2026-10-20 기존 업데이트 20261020-viggle-watermark와 중복인 무료 워터마크 자체는 재등록하지 않고, 무료 자산 보관 7일 및 두 공식 안내의 1080p 무료 가능 여부 모순을 새로 보완. 무료 보관 후 삭제될 수 있으므로 7일 이내 다운로드 권고. 정책 적용 시점 미공개; 2026-11-10은 관찰일. 공식 공개 요금표/FAQ/모델 페이지 열람 확인, 실제 로그인·무료 해상도 선택·영상 생성·MP4 다운로드·워터마크 실물 검사 미실시.",
+        "sources": [
+          "https://viggle.ai/pricing",
+          "https://viggle.ai/tools/image-to-video-ai",
+          "https://viggle.ai/models/minimax-h3"
+        ],
+        "checked": "2026-11-10",
+        "current": true,
+        "priority": 15
       }
     }
   ]
