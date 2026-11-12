@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-12T00:39:38.687Z",
+  "entries": [
+    {
+      "key": "20261112-moveframe-daily-free-region-capacity-conditional",
+      "kind": "changed",
+      "summary": "MoveFrame 무료 5초 Standard 영상의 반복 지급을 기존 '매일 5크레딧 확정' 대신 지역·서버 부하 조건부로 수정해야 합니다. 현행 공식 요금표와 11월 5일 갱신된 생성기 안내는 '첫 영상은 누구나 무료, 많은 지역에서 하루 1편 추가 무료'라고 명시합니다. 최초 5초·무카드·무로그인·무워터마크 및 하루 한 차례 720p 무료 업스케일 안내는 유지됩니다.",
+      "observedAt": "2026-11-12",
+      "evidence": [
+        "https://moveframe.app/pricing/",
+        "https://moveframe.app/free-ai-video-generator/"
+      ],
+      "site": {
+        "name": "MoveFrame — 일일 무료 할당량의 지역·수요 조건",
+        "url": "https://moveframe.app/pricing/",
+        "grade": "B",
+        "models": "기본 Standard T2V/I2V·사진→영상 5초; 무료 영상 720p 업스케일 하루 1편",
+        "grant": "비회원 첫 5초 Standard 영상 1편 무료. 이후 하루 1편 무료는 많은 지역에서만 제공, 서버 부하에 따라 달라짐. 3일 연속 방문 보너스 +5크레딧, 7일 +15크레딧은 공식 페이지에 표기.",
+        "cycle": "첫 영상 무료; 반복 일일 무료는 지역·수요 조건부, 제공되는 일일 크레딧은 UTC 자정 만료",
+        "notes": "기존 20261031-moveframe-five-daily-480p-watermark-conflict, 20261102-moveframe-free-streak-and-upscale-details, 20261105-moveframe-daily-clean-streak-bonus-watermarked 항목과 중복되는 보너스·워터마크 사항은 다시 변경으로 주장하지 않음. 중요한 수정은 '매일 1편/5크레딧 무조건 보장'이 아니라 지역 및 서버 혼잡도 조건이 붙었다는 점. 구체 정책 변경 시행일은 불명. 2026-11-12 운영사 공개 웹페이지·가격표·FAQ만 직접 열람. 계정 가입·로그인, 무료 크레딧 실제 수령, 영상 생성, MP4 다운로드, 워터마크 실물 검증은 수행하지 않음. 관찰일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://moveframe.app/pricing/",
+          "https://moveframe.app/free-ai-video-generator/"
+        ],
+        "checked": "2026-11-12",
+        "current": true,
+        "priority": 6
+      }
+    },
+    {
+      "key": "20261112-rewind-seed95-free-video-wan22-cogvideox-10k-bonus",
+      "kind": "changed",
+      "summary": "기존 Rewind.ai 카탈로그 seed_95가 Wan 3.0 Prime 단일 모델 페이지 중심이었으나 현재 운영사 영상 생성기/요금표에는 자체 GPU Wan 2.2·CogVideoX와 무료 가입 보너스 10,000토큰, 로그인 회원 매일 5,000토큰, 비회원 영상 생성 불가가 명시됩니다. 화면의 기본 영상 생성 비용은 5,000토큰이고 무워터마크 MP4를 안내하므로 고급 유료 모델과 무료 후보 모델을 분리할 필요가 있습니다.",
+      "observedAt": "2026-11-12",
+      "evidence": [
+        "https://rewind.ai/video/",
+        "https://rewind.ai/pricing/"
+      ],
+      "site": {
+        "id": "seed_95",
+        "name": "Rewind.ai — 무료 Wan 2.2 / CogVideoX 영상 경로",
+        "url": "https://rewind.ai/video/",
+        "grade": "B",
+        "models": "자체 호스팅 Wan 2.2 / CogVideoX(T2V·I2V) 무료 풀 적용 후보; Seedance/Kling 등 프리미엄 외부 모델은 구매 잔액 필요. 기존 Wan 3.0 Prime 모델 페이지 표기는 현재 무료 모델 확정 근거가 아님.",
+        "grant": "가입 보너스 10,000토큰 1회+로그인 회원 매일 5,000토큰(24시간 주기); 현재 생성기 화면 기본 비용 5,000토큰. 일부 모델은 구매 크레딧만 사용 가능.",
+        "cycle": "로그인 계정 매일 5,000토큰; 가입 보너스 일회성",
+        "notes": "현재 /video/ FAQ는 비회원 T2V 사용 불가, 무료 계정의 일부 영상 모델만 일일 토큰 적용, 나머지는 유료 잔액 필요라고 명시. 5,000토큰 비용 표시는 비로그인 화면의 선택 상태이므로 실제 모델·길이별 무료 성공 횟수를 보장하지 않음. 결과물 무워터마크 MP4 및 결제카드 없이 가입 시작은 사이트 안내. 기존 seed_95의 Wan 3.0 Prime이 무료라는 뜻 아님. 2026-11-12 운영사 공개 웹페이지·가격표·FAQ만 직접 열람. 계정 가입·로그인, 무료 크레딧 실제 수령, 영상 생성, MP4 다운로드, 워터마크 실물 검증은 수행하지 않음. 관찰일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://rewind.ai/video/",
+          "https://rewind.ai/pricing/"
+        ],
+        "checked": "2026-11-12",
+        "current": true,
+        "priority": 8
+      }
+    },
+    {
+      "key": "20261112-freeai-wan22-720p-free-path-and-quota-correction",
+      "kind": "changed",
+      "summary": "Free.ai 기존 10월 26일 CogVideoX 무료 T2V 소개에 더해 현행 공식 종합 영상 생성기에는 Wan 2.2 TI2V-5B(720p·24fps)도 무료 계정 모델로 명시됩니다. 자체 모델은 영상당 30,000토큰, 무료 계정은 하루 30,000토큰을 안내하면서도 '2일마다 무료 클립 1개'라고 명시합니다. 480p CogVideoX와 720p Wan 2.2를 구별하되 무료 횟수 충돌 및 비로그인 생성 불가 가능성을 유지합니다.",
+      "observedAt": "2026-11-12",
+      "evidence": [
+        "https://free.ai/video/",
+        "https://free.ai/video/text-to-video/"
+      ],
+      "site": {
+        "name": "Free.ai — Wan 2.2 TI2V-5B 무료 모델 추가 확인",
+        "url": "https://free.ai/video/",
+        "grade": "U",
+        "models": "자체 호스팅 CogVideoX 480p T2V / Wan 2.2 TI2V-5B 720p·24fps T2V·I2V(Free 계정 표기). 기타 프리미엄 생성형 영상 모델은 별도 유료 토큰 필요.",
+        "grant": "무료 가입 계정 30,000토큰/일 표기, 자체 모델 1편 30,000토큰, 같은 종합 생성기 공식 설명은 '2일마다 무료 1편'이라고 표기. 비회원 풀 6,000토큰은 영상 1편에 부족.",
+        "cycle": "공식 표기 '30,000토큰/일'과 '2일에 1편'이 동시에 존재하므로 정확한 영상 지급 주기는 충돌 상태",
+        "notes": "기존 20261026-freeai-cogvideox-daily-conflict와 중복되는 CogVideoX/토큰 충돌은 다시 신규라고 주장하지 않음. 추가 정보는 Wan 2.2 TI2V-5B 720p 무료 모델 경로. 무료 결과물 최대 3초라는 설명과 다른 FAQ의 2~6초/가격표가 불일치해 최대 길이 확정 금지. 30,000토큰/일이 곧 하루 1영상 실생성을 보장하지는 않음. 무워터마크 MP4는 운영사 안내. 2026-11-12 운영사 공개 웹페이지·가격표·FAQ만 직접 열람. 계정 가입·로그인, 무료 크레딧 실제 수령, 영상 생성, MP4 다운로드, 워터마크 실물 검증은 수행하지 않음. 관찰일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://free.ai/video/",
+          "https://free.ai/video/text-to-video/"
+        ],
+        "checked": "2026-11-12",
+        "current": true,
+        "priority": 12
+      }
+    },
+    {
+      "key": "20261112-wan2video-public-gradio-wan-ltx-free-aggregator",
+      "kind": "new",
+      "summary": "기존 카탈로그·게시 업데이트에 없던 wan2.video 무료 Wan/LTX 통합 영상 생성 진입점. 로그인·결제카드 없이 텍스트 또는 이미지를 제출하고 공용 Gradio·GPU 대기열에서 영상 출력 및 다운로드하는 공개 웹 도구입니다. 외부 Hugging Face/제3자 공개 모델 Space를 연결하므로 직접 GPU/크레딧을 무료 제공하는 호스팅 사업자와 구별해야 하고, 개별 모델의 대기열·일일 한도·휴면으로 실패할 수 있습니다.",
+      "observedAt": "2026-11-12",
+      "evidence": [
+        "https://wan2.video/free-ai-video-generator",
+        "https://wan2.video/"
+      ],
+      "site": {
+        "name": "Wan2.Video — 무료 공용 Gradio 영상 생성 허브",
+        "url": "https://wan2.video/free-ai-video-generator",
+        "grade": "U",
+        "models": "공용 GPU/Gradio에 연결된 Wan·LTX 공개 영상 모델 T2V/I2V; 모델별 실제 가동 여부는 외부 공개 Space 상태에 따라 달라짐. 별도 MiniMax H3 무료 Space 안내.",
+        "grant": "사이트 자체 카드·가입 없이 무료 공용 영상 생성기 접속; 자체 일일 지급 크레딧 없음. 외부 공개 모델 대기열·할당량 사용.",
+        "cycle": "정액 보장 주기 없음; 외부 공용 Space/ZeroGPU의 대기열 및 사용 제한에 따름",
+        "notes": "단일 신규 유료 서비스가 아닌 공개 HF/Gradio 모델 연결·목록 서비스. 기존 카탈로그 seed_42 Hugging Face ZeroGPU 데모와 원천 자원을 공유할 수 있어 독립 무료 생성 GPU를 추가 확보했다고 계산하지 않음. 프롬프트와 업로드 이미지가 제3자 공개 Space로 전달되고 데이터/완성 영상 공개 가능성 있으므로 민감자료 제출 금지. 실제 선택 가능한 모델·생성 성공·MP4 링크·워터마크 미검증; 워터마크와 상업권 역시 모델별 불명. 2026-11-12 운영사 공개 웹페이지·가격표·FAQ만 직접 열람. 계정 가입·로그인, 무료 크레딧 실제 수령, 영상 생성, MP4 다운로드, 워터마크 실물 검증은 수행하지 않음. 관찰일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://wan2.video/free-ai-video-generator",
+          "https://wan2.video/"
+        ],
+        "checked": "2026-11-12",
+        "current": true,
+        "priority": 15
+      }
+    }
+  ]
+}
