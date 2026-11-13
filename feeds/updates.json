@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T00:39:46.591Z",
+  "generatedAt": "2026-11-13T00:43:30.691Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -2898,6 +2898,118 @@
         "checked": "2026-11-12",
         "current": true,
         "priority": 15
+      }
+    },
+    {
+      "key": "20261113-hiroska-free150-tokens-model-cost-4k-no-watermark",
+      "kind": "new",
+      "summary": "Hiroska 신규 AI 영상 생성·편집 경로: 이메일 인증 가입 시 일회성 150토큰을 지급하며 공식 모델 비용표의 MiniMax H3 Max 최소 47토큰, Gemini Omni Flash 최소 19토큰, Seedance 1.5 Pro 최소 14토큰 등으로 무료 영상 생성 예산이 성립합니다. 무료 계정에서도 카드 없이 월 10회 4K 무워터마크 MP4 타임라인 내보내기를 안내합니다. 이는 생성 모델의 원본 4K를 보장한다는 뜻이 아닙니다.",
+      "observedAt": "2026-11-13",
+      "evidence": [
+        "https://hiroska.com/",
+        "https://hiroska.com/models",
+        "https://hiroska.com/features/ai-video-generator"
+      ],
+      "site": {
+        "name": "Hiroska — 가입 무료 150토큰, H3 Max·Omni·Seedance 영상 + 무료 4K 편집 내보내기",
+        "url": "https://hiroska.com/",
+        "grade": "B",
+        "models": "T2V/I2V MiniMax H3 Max(최소 47토큰/클립), Gemini Omni Flash(19), Seedance 1.5 Pro(14), Kling O3 Pro(62), Seedance 2.5(154·가입 150토큰만으로 최저 옵션 부족) 등. 영상 길이·원본 해상도·모델별 최종 가격은 선택 설정에 따름.",
+        "grant": "이메일 인증을 완료한 신규 회원에게 일회성 150토큰. 10장/일 무료 AI 이미지, 무료 영상 편집 및 무료 계정 월 10회 4K 무워터마크 MP4 편집 내보내기. 무료 저장공간 1GB, 결제카드 불필요.",
+        "cycle": "영상용 가입 토큰 150 일회성(자동 일일·월간 영상 토큰 지급 없음), 무료 AI 이미지는 매일 10장, 무료 내보내기는 월 10회",
+        "notes": "가입 토큰은 운영사가 인정하는 일반 이메일 제공업체 주소 가입·인증 필요; 토큰 잔액 미만 저가 영상 모델로 1개 이상 생성할 수 있는 산술상 경로지만 실제 계정/모델 선택/차감 미검증. 토큰 유효기간 무제한 안내, 실패한 제공자 실행은 반환. '4K export'는 편집 결과 MP4 출력 규격이며 MiniMax·Omni 영상 생성 자체가 원본 4K라는 의미가 아님. 무료 영상 생성과 무워터마크 편집 내보내기 조건을 구분해야 함. 2026-11-13 운영사 공개 홈페이지·요금표·FAQ/약관 열람만 수행. 개인 계정 로그인·가입/크레딧 수령·영상 실제 생성·MP4 다운로드·워터마크 실물 검증은 수행하지 않았음. 관찰일은 실제 정책 시행일이나 출시일을 의미하지 않음.",
+        "sources": [
+          "https://hiroska.com/",
+          "https://hiroska.com/models",
+          "https://hiroska.com/features/ai-video-generator"
+        ],
+        "checked": "2026-11-13",
+        "current": true,
+        "priority": 15
+      }
+    },
+    {
+      "key": "20261113-heygen-seed112-video1-2-daily-preview-480p-768p",
+      "kind": "changed",
+      "summary": "기존 HeyGen seed_112에는 Avatar IV·Video Agent 월 3개만 기록돼 있었으나, 운영사 AI Video Generator 페이지는 별도의 HeyGen Video 1 텍스트/이미지→영상 무료 미리보기 하루 2클립(각 5초, 480p 또는 768p)을 명시합니다. 무료 계정 월 3영상·720p·워터마크와 구분하며, Seedance·Veo·Kling 등 타사 모델은 유료 접근으로 분류해야 합니다.",
+      "observedAt": "2026-11-13",
+      "evidence": [
+        "https://www.heygen.com/tool/ai-video-generator",
+        "https://www.heygen.com/pricing"
+      ],
+      "site": {
+        "id": "seed_112",
+        "name": "HeyGen — HeyGen Video 1 무료 일일 짧은 클립과 Avatar IV 분리",
+        "url": "https://www.heygen.com/tool/ai-video-generator",
+        "grade": "A",
+        "models": "HeyGen Video 1 T2V/I2V·소리 포함 생성기 페이지 무료 preview 5초·480p/768p; 기존 Avatar IV·Video Agent 무료 월 3영상. Seedance 2.0/2.5, Veo, Kling 등 서드파티 영상 모델은 유료(Seedance는 Pro 이상)로 구별.",
+        "grant": "운영사 생성기 랜딩 미리보기 HeyGen Video 1 최대 하루 2개(각 5초 480p 또는 768p); 별도의 HeyGen 무료 요금제는 월 3영상(최대 1분, 720p, 워터마크). 가입 시 카드 불필요. 일일 미리보기와 월간 3영상의 합산/중복 관계는 공개 페이지에서 완전히 분명하지 않음.",
+        "cycle": "생성기 랜딩 미리보기 2개/일 vs 계정 요금제 월 3영상 — 서로 다른 집계 문맥",
+        "notes": "기존 20261022-heygen-free-watermark-nocard 항목의 무료 월 3영상·카드·워터마크와 중복 제안 아님. 추가 발견은 영상 합성 자체를 제공하는 HeyGen Video 1 하루 2개 5초 무료 진입점과 타사 모델 유료 구별. 랜딩의 2/day 문구와 요금표 Free 월 3개가 병존하므로 독립 합산 생성 총계를 단정하지 않음. 일일 미리보기의 실제 다운로드·워터마크·한국 지역 적용 여부는 테스트하지 않음. 2026-11-13 운영사 공개 홈페이지·요금표·FAQ/약관 열람만 수행. 개인 계정 로그인·가입/크레딧 수령·영상 실제 생성·MP4 다운로드·워터마크 실물 검증은 수행하지 않았음. 관찰일은 실제 정책 시행일이나 출시일을 의미하지 않음.",
+        "sources": [
+          "https://www.heygen.com/tool/ai-video-generator",
+          "https://www.heygen.com/pricing"
+        ],
+        "checked": "2026-11-13",
+        "current": true,
+        "priority": 8
+      }
+    },
+    {
+      "key": "20261113-magichour-seed20-signup400-seven-daily100-account-credits",
+      "kind": "changed",
+      "summary": "Magic Hour 기존 seed_20의 비회원 영상 3회/일과 별개로, 공식 요금표·크레딧 도움말에서 가입 400크레딧 1회 및 무료 Basic 계정 하루 100크레딧을 평생 최대 7회 직접 수령할 수 있다는 계정 전용 추가 무료 지급을 확인했습니다. 미수령 일자는 누적되지 않고, 수령한 크레딧은 만료 없이 이월되며, 선택 영상 모델별 소모량과 무료 접근 권한을 확인해야 합니다.",
+      "observedAt": "2026-11-13",
+      "evidence": [
+        "https://magichour.ai/pricing",
+        "https://help.magichour.ai/en/articles/12612555-understanding-credits",
+        "https://magichour.ai/products/ai-video-generator"
+      ],
+      "site": {
+        "id": "seed_20",
+        "name": "Magic Hour — 계정 가입 400 + 일일 100 최대 7회 추가 무료 크레딧",
+        "url": "https://magichour.ai/pricing",
+        "grade": "A",
+        "models": "비회원 무료 T2V/I2V·AI 비디오 편집 간 공유된 3초·480p 경로(기존 기록); 무료 Basic 로그인 계정의 400+출석 크레딧은 /create 일부 모델/툴에 적용, 고급 영상 모델은 접근·비용을 모델별 확인 필요.",
+        "grant": "비회원 무료 영상 툴 합산 하루 3회(기존). 무료 Basic 가입 계정에 400크레딧 일회성, 회원이 직접 일일 100크레딧을 최대 누적 7일 수령 가능(이론상 추가 총 700크레딧). 구매 크레딧 없이 가능한 범위는 모델별 비용과 접근 권한에 따름.",
+        "cycle": "비회원 툴 무료 이용 3회/일(기존); 가입 400 일회성 + Basic 100/일 수령 최대 7회 평생, 현지 계정 날짜 기준, 결석분 소급 불가. 잔여 크레딧 만료 없음",
+        "notes": "기존 20261021-magichour-free-video-output에서 안내한 비회원 3회/일·480p·워터마크·비상업용은 재변경 사항 아님. 별도 계정 로그인 /create 크레딧 지급을 추가 정리. 계정 크레딧 1100을 곧 무조건 특정 영상 모델 1100어치 자유롭게 생성 가능한 권리로 해석하지 말 것. 유료 구독과 구매 크레딧의 무워터마크/상업권은 무료 계정에 자동 적용되지 않음. 2026-11-13 운영사 공개 홈페이지·요금표·FAQ/약관 열람만 수행. 개인 계정 로그인·가입/크레딧 수령·영상 실제 생성·MP4 다운로드·워터마크 실물 검증은 수행하지 않았음. 관찰일은 실제 정책 시행일이나 출시일을 의미하지 않음.",
+        "sources": [
+          "https://magichour.ai/pricing",
+          "https://help.magichour.ai/en/articles/12612555-understanding-credits",
+          "https://magichour.ai/products/ai-video-generator"
+        ],
+        "checked": "2026-11-13",
+        "current": true,
+        "priority": 10
+      }
+    },
+    {
+      "key": "20261113-freeairapvideo-one-480p5s-original-rap-watermarked",
+      "kind": "new",
+      "summary": "Free AI Rap Video가 신규 비디오 생성 형식(사진 기반 랩 뮤직비디오)을 제공합니다. 운영사 공식 홈페이지·가격표·약관상 Google 로그인으로 성인 본인과 동의한 성인의 사진을 사용해 원본 AI 랩 480p·5초·음향 포함 무료 클립을 개인당 최초 1회 생성할 수 있습니다. 무료 파일은 워터마크 및 AI 표시를 포함하며, 15~30초 전체 영상과 밈 리메이크는 유료입니다.",
+      "observedAt": "2026-11-13",
+      "evidence": [
+        "https://freeairapvideo.com/",
+        "https://freeairapvideo.com/pricing",
+        "https://freeairapvideo.com/terms"
+      ],
+      "site": {
+        "name": "Free AI Rap Video — 사진 기반 오리지널 랩 영상 5초 1회 체험",
+        "url": "https://freeairapvideo.com/",
+        "grade": "B",
+        "models": "사진 두 장 기반 AI 오리지널 랩 영상·가사·음악 합성. 모델 제공사/모델명은 공식 페이지 미공개. 임의 T2V 프롬프트/일반 I2V 동영상 편집 서비스 아님.",
+        "grant": "성인 사용자 Google 로그인 최초 오리지널 랩 5초 480p 1편 무료, 비디오 자체 워터마크와 AI 제작 라벨 포함. 결제카드 불필요. 15초/30초 완성 영상, 유행 밈 리메이크는 모두 유료.",
+        "cycle": "개인당·Google 계정당 일회성. 사이트 전체 IP당 일일 생성 예산 있으며 소진 시 다음 UTC 날짜로 작업 이월 가능",
+        "notes": "동의한 성인 얼굴 사진만 허용, 미성년자·동의하지 않은 인물·공인은 금지. 사용자 개인 사진·이름·프롬프트 등은 공개 피드에 포함하지 않음. 자유로운 음악 생성기·일반 영상 모델과 구분할 것. 무료 클립 생성 중 서버 오류 시 재시도 가능하지만 안전 필터로 거절된 요청은 사용 처리. 무료 파일 다운로드 방법과 실물 워터마크는 직접 실증하지 않았음. 2026-11-13 운영사 공개 홈페이지·요금표·FAQ/약관 열람만 수행. 개인 계정 로그인·가입/크레딧 수령·영상 실제 생성·MP4 다운로드·워터마크 실물 검증은 수행하지 않았음. 관찰일은 실제 정책 시행일이나 출시일을 의미하지 않음.",
+        "sources": [
+          "https://freeairapvideo.com/",
+          "https://freeairapvideo.com/pricing",
+          "https://freeairapvideo.com/terms"
+        ],
+        "checked": "2026-11-13",
+        "current": true,
+        "priority": 27
       }
     }
   ]
