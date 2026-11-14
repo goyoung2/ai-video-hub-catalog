@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T00:43:30.691Z",
+  "generatedAt": "2026-11-14T00:58:54.880Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -3010,6 +3010,113 @@
         "checked": "2026-11-13",
         "current": true,
         "priority": 27
+      }
+    },
+    {
+      "key": "20261114-cdance-free150-grok-veolite-h3-seedance15-model-cost",
+      "kind": "new",
+      "summary": "C Dance AI 신규 무료 영상 모델 경로. 공식 요금제는 카드 없이 가입 보상 150크레딧을 명시합니다. 무료 칼럼 기준 Grok Imagine Video 최저 40크레딧/편(최대 3회), Veo 3.1 Lite 최저 75크레딧/편(최대 2회), MiniMax H3 480p 최저 초당 16크레딧(5초 80), Seedance 1.5 Pro 480p 최저 초당 10크레딧입니다. 괄호의 편수는 같은 크레딧 풀에서 해당 모델만 최저 설정으로 선택하는 계산이며 합산 무료 제공량이 아닙니다.",
+      "observedAt": "2026-11-14",
+      "evidence": [
+        "https://cdance.ai/pricing"
+      ],
+      "site": {
+        "name": "C Dance AI — 가입 150크레딧 / Grok Imagine·Veo 3.1 Lite·MiniMax H3 무료 단가",
+        "url": "https://cdance.ai/pricing",
+        "grade": "B",
+        "models": "Grok Imagine Video(최저 40크레딧/생성), Veo 3.1 Lite(최저 75크레딧/생성), MiniMax H3 480p(최저 16크레딧/초), Seedance 1.5 Pro 480p(최저 10크레딧/초), Seedance 1.0 Pro(최저 40크레딧/생성). 그 외 고비용 모델은 가입 보너스보다 기본 비용이 높을 수 있음.",
+        "grant": "신규 Free 회원에게 카드 없이 150크레딧 가입 보상. 최저 설정·모델 단독 사용 기준 Grok Imagine 최대 3편 또는 Veo 3.1 Lite 최대 2편; 실제 모델 옵션과 입력에 따라 차감량 증가.",
+        "cycle": "가입 보상 일회성. 유효기간은 사이트의 개별 보상 규칙 적용, 무료 미사용 크레딧 이월 없음. 일일·월간 자동 충전 확정 정보 없음.",
+        "notes": "운영사 요금표의 Free 첫 번째 열만 인용. Free 무워터마크 내보내기/상업 이용 허용은 확인되지 않음(해당 혜택은 유료 플랜에 설명). 150크레딧을 모든 모델에 적용할 수 있다는 뜻이 아니며 신규 회원의 모델 잠금·다운로드 여부는 실제 시험하지 않음. 독립 모델 호스팅 서비스로서 원모델 제작사의 공식 사이트와 혼동 금지. 2026-11-14 해당 서비스 운영자의 공개 홈페이지·요금표·모델/FAQ 페이지만 열람. 계정 가입·로그인·실제 무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "sources": [
+          "https://cdance.ai/pricing"
+        ],
+        "checked": "2026-11-14",
+        "current": true,
+        "priority": 12
+      }
+    },
+    {
+      "key": "20261114-youapi-signup50-seedance20mini-hailuo23-1080p6s",
+      "kind": "new",
+      "summary": "youapi.cyou 신규 무료 AI 비디오 API/웹 Playground 경로. 운영사 Seedance 2.0 Mini 모델 페이지는 카드 없이 가입 50크레딧과 기본 실행 15.92크레딧(최소 3회 동일 조건 산술 가능)을 명시합니다. 별도 Hailuo 2.3 Image-to-Video Standard 공식 모델 페이지는 1080p·6초 41.38크레딧으로, 가입 잔액 이내의 1080p 무료 체험 가능 후보가 있습니다. 실제 출력·워터마크 여부는 미시험입니다.",
+      "observedAt": "2026-11-14",
+      "evidence": [
+        "https://youapi.cyou/models/bytedance-seedance-2-mini",
+        "https://youapi.cyou/models/hailuo-2-3-image-to-video-standard",
+        "https://youapi.cyou/pricing"
+      ],
+      "site": {
+        "name": "youapi.cyou — 50 가입 크레딧, Seedance 2.0 Mini·Hailuo 2.3 1080p 무료 예산",
+        "url": "https://youapi.cyou/models/bytedance-seedance-2-mini",
+        "grade": "B",
+        "models": "Seedance 2.0 Mini(T2V/I2V/참조 영상, 480p 1.9크레딧/초·720p 3.98크레딧/초, 참조 영상 입력시 다른 단가), Hailuo 2.3 I2V Standard(768p·6초 22.03크레딧, 1080p·6초 41.38크레딧), 별도 Wan·Kling 등은 서비스 모델별 차감.",
+        "grant": "신규 가입 시 카드 없이 50크레딧. Seedance 2.0 Mini 기본 설정 1회 15.92크레딧으로 3회 상당(3×15.92=47.76). Hailuo 2.3 Standard 1080p·6초 1회 41.38크레딧. 두 모델은 동일 50크레딧 지갑을 공유하며 서로 독립 지급이 아님.",
+        "cycle": "가입 최초 50크레딧 일회성. 무료 크레딧 자동 재지급 주기 미공개. 잔액·만료 여부는 등록시 약관 확인 필요.",
+        "notes": "API 중심 서비스이나 공식 모델 페이지에서 공개 폼형 Playground·영상 미리보기 제공. Hailuo 2.3의 1080p 출력은 운영사 표기/가격 계산 기준이며 실제 생성, 파일 다운로드 및 무워터마크 여부는 검증 안 됨. 공식 가격표는 실패한 생성에 대해 자동 크레딧 환불 안내. 도메인은 원모델 제작사의 공식 서비스가 아닌 별도 재판매/중계 사업자. API키·로그인·사용자 데이터는 공개하지 않음. 2026-11-14 해당 서비스 운영자의 공개 홈페이지·요금표·모델/FAQ 페이지만 열람. 계정 가입·로그인·실제 무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "sources": [
+          "https://youapi.cyou/models/bytedance-seedance-2-mini",
+          "https://youapi.cyou/models/hailuo-2-3-image-to-video-standard",
+          "https://youapi.cyou/pricing"
+        ],
+        "checked": "2026-11-14",
+        "current": true,
+        "priority": 16
+      }
+    },
+    {
+      "key": "20261114-createvision-grokimagine15-free-720p5s-img2video-addition",
+      "kind": "changed",
+      "summary": "이미 게시된 2026-11-03 CreateVision AI 200크레딧·하루 최대 80크레딧 정보의 모델 경로 보완. 운영사의 Grok Imagine 1.5 I2V 모델 안내에서 480p 초당 5크레딧 또는 720p 초당 10크레딧, 1~15초, 참조 사진 최소 1장, 오디오 포함, 실패 작업 환불을 확인했습니다. 720p·5초 50크레딧으로 무료 일일 사용 상한(80)에 들어가며 자유 텍스트만으로 생성은 불가합니다.",
+      "observedAt": "2026-11-14",
+      "evidence": [
+        "https://createvision.ai/grok-imagine-1.5",
+        "https://createvision.ai/ai-video-generator",
+        "https://createvision.ai/pricing"
+      ],
+      "site": {
+        "name": "CreateVision AI — 기존 무료 크레딧의 Grok Imagine 1.5 I2V 모델 경로 보완",
+        "url": "https://createvision.ai/grok-imagine-1.5",
+        "grade": "B",
+        "models": "추가 확인: Grok Imagine 1.5 I2V 전용(최소 사진 1장, 최대 7장), 480p 5크레딧/초·720p 10크레딧/초, 1~15초, 오디오 포함. 기존 게시된 Seedance 2.0 Mini·Hailuo 02 경로와 구분.",
+        "grant": "기존 게시 정보: 회원 가입 환영 200크레딧, 무료 계정 하루 최대 80크레딧 사용 가능 안내. Grok Imagine 1.5 720p 5초는 50크레딧, 480p 5초는 25크레딧. 동일 크레딧 잔액에서 차감.",
+        "cycle": "환영 200크레딧 일회성. 하루 80크레딧은 무료 플랜의 일일 사용/지급 안내가 함께 존재하며 총 누적·재충전 구조 혼동 주의; 신규 일일 크레딧이 실제 자동 누적되는지는 미시험.",
+        "notes": "이전 변경 제안 key=20261103-createvision-free200-daily80-hailuo02-seedance-mini 와 무료 크레딧 숫자가 중복되어 신규 200크레딧을 추가 지급한다고 해석하지 말 것. Grok Imagine 1.5는 서비스 모델 페이지 기준 2026-07-02부터 제공된 것으로 표기되므로 11월 14일 출시/개시일을 뜻하지 않음. 720p는 상한, 1080p/4K 미제공. 무료 영상 워터마크, 상업용 라이선스, 한국 회원의 실제 모델 접근은 시험하지 않음. 2026-11-14 해당 서비스 운영자의 공개 홈페이지·요금표·모델/FAQ 페이지만 열람. 계정 가입·로그인·실제 무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "sources": [
+          "https://createvision.ai/grok-imagine-1.5",
+          "https://createvision.ai/ai-video-generator",
+          "https://createvision.ai/pricing"
+        ],
+        "checked": "2026-11-14",
+        "current": true,
+        "priority": 9
+      }
+    },
+    {
+      "key": "20261114-adskull-seed85-grokimagine-free10credits-5s-1080p-path",
+      "kind": "changed",
+      "summary": "기존 AdSkull seed_85의 MiniMax H3 무료 접근 기록과 별개로 공식 Grok Imagine 모델 페이지에서 신규 무료 모델 경로 확인. 운영사 페이지는 가입 무료 50크레딧(카드 불필요), Grok Imagine 1편당 10크레딧으로 동일 크레딧 풀에서 최대 5편, 클립 최대 5초·최대 1080p를 홍보합니다. Free 상업 이용권은 요금표에 없음. '월 5개' '무료 50크레딧 ≈10개' 등이 상충하여 실제 월간 자동 갱신·10편 보장은 기록하지 않습니다.",
+      "observedAt": "2026-11-14",
+      "evidence": [
+        "https://adskull.io/en/free/grok-imagine",
+        "https://adskull.io/en/free/minimax-h3"
+      ],
+      "site": {
+        "id": "seed_85",
+        "name": "AdSkull Creative Studio — Grok Imagine 무료 10크레딧/클립 경로",
+        "url": "https://adskull.io/en/free/grok-imagine",
+        "grade": "B",
+        "models": "추가 확인: Grok Imagine 영상·이미지 생성, 운영사 홍보 기준 최대 5초·최대 1080p, 영상당 10크레딧. 이전 MiniMax H3 768p 한 편 35크레딧 경로(2026-11-07 게시)와 같은 무료 지갑 사용.",
+        "grant": "Free 가입 시 카드 없이 총 50크레딧. Grok Imagine 최저 10크레딧/영상 × 최대 5편(같은 크레딧만 사용한다는 가정). MiniMax H3와 중복 지급 아님.",
+        "cycle": "가입 50크레딧, 반복 지급은 공식 페이지들에서 월간이라고 표기되지만 서로 문구가 충돌하므로 갱신 확정 불가.",
+        "notes": "홈페이지 설명 '50 credits (~5 clips)'가 숫자상 일치하지만 다른 문단 '50 credits (~10 videos)'는 영상당 10크레딧과 모순. Free vs Creator 표는 Free 상업적 이용권 없음 표시; FAQ의 'commercial use' 문구는 Creator 이상이라는 단서와 상충. FAQ는 모든 플랜 무워터마크라고 주장하지만 영상 실물은 미검증. '5초 1080p' 역시 AdSkull 독립 운영사 홍보 사양이며 xAI 공식 해상도 보장은 아님. 2026-11-14 해당 서비스 운영자의 공개 홈페이지·요금표·모델/FAQ 페이지만 열람. 계정 가입·로그인·실제 무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "sources": [
+          "https://adskull.io/en/free/grok-imagine",
+          "https://adskull.io/en/free/minimax-h3"
+        ],
+        "checked": "2026-11-14",
+        "current": true,
+        "priority": 7
       }
     }
   ]
