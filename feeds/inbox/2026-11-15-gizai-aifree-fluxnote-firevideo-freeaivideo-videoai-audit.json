@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-15T00:15:03.834Z",
+  "entries": [
+    {
+      "key": "20261115-freeaivideo-five-free-models-seedance25-credit-only",
+      "kind": "changed",
+      "summary": "기존 2026-11-06 Seedance 2.5 무료 제공 안내 정정. 현재 공식 FAQ는 무료 체험 모델을 Seedance 2.0 Mini, MiniMax H3, Kling 2.6, Grok Imagine Video, Gemini Omni 1.2 Flash로 명시하고 Seedance 2.5는 유료 크레딧 생성으로 분류합니다. 일일 무료 1회, 무워터마크 규칙은 유지됩니다.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://www.freeaivideo.app/"
+      ],
+      "site": {
+        "name": "Free AI Video — 무료 모델 5종 재분류",
+        "url": "https://www.freeaivideo.app/",
+        "grade": "B",
+        "models": "무료 체험: Seedance 2.0 Mini, MiniMax H3, Kling 2.6, Grok Imagine Video, Gemini Omni 1.2 Flash. Seedance 2.5 및 나머지는 크레딧 구매 모델. 무료 해상도·길이는 모델별 선택 화면 기준.",
+        "grant": "비회원·로그인 회원 공통 기기당 하루 체험 1회. 추가로 자격을 충족한 신규 인증 계정에 유효기간 30일인 1회 체험 바우처 가능. 자체 워터마크·별도 내보내기 비용 없음.",
+        "cycle": "00:00 UTC 매일 갱신, 기기·네트워크·공유 처리량 제한. 인증 바우처 1회성.",
+        "notes": "기존 제안 key=20261106-freeaivideo-seedance25-daily480p-clean-guest 중 Seedance 2.5 무료 모델 주장은 현재 FAQ와 불일치. 이는 무료 서비스 전체 종료가 아닌 모델별 무료 진입 경로 변경/정정. 모델마다 해상도·길이가 달라 모든 무료 영상을 480p·4초로 간주하지 않음. 수락된 무료 요청은 실패·취소해도 차감. 다운로드 링크를 아는 사람은 영상 열람 가능. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://www.freeaivideo.app/"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 3
+      }
+    },
+    {
+      "key": "20261115-gizai-h3turbo-ltx25-daily-free",
+      "kind": "new",
+      "summary": "GizAI 신규 무료 영상 생성 경로. 모델 공식 운영 페이지에 MiniMax H3 Turbo와 LTX-2.5 Distilled 각각 'Free · 2 uses per day' 명시. 비회원 H3 무료 기본은 480p 약 4.5초·스테레오 오디오, LTX 무료 기본은 480p 약 4초·오디오 영상입니다. 표기된 고급 해상도는 유료 모델 옵션까지 포함하므로 무료 출력으로 혼동하지 않습니다.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://www.giz.ai/ai-video-generator/",
+        "https://www.giz.ai/minimax-h3-ai-video-generator/"
+      ],
+      "site": {
+        "name": "GizAI — MiniMax H3 Turbo·LTX-2.5 무료",
+        "url": "https://www.giz.ai/ai-video-generator/",
+        "grade": "B",
+        "models": "MiniMax H3 Turbo(T2V/I2V, 무료 480p·약 4.5초, 음향), LTX-2.5 Distilled(T2V/I2V, 무료 기본 480p·약 4초, 음향). 기타 SoulX FlashHead 등 무료 특화 영상 모델 존재.",
+        "grant": "운영사 무료 모델 카드 H3 Turbo 2회/일, LTX-2.5 Distilled 2회/일 안내. 비회원 생성 시작 가능. 고해상도·연장·추가 생성은 이용료 적용.",
+        "cycle": "모델별 하루 2회 표시(세부적인 24시간 창/계정 합산 제한은 실시간 모델 카드에 따름).",
+        "notes": "MiniMax 원제작사 제공 무료 혜택이 아닌 giz.ai 독립 서비스 정책. 모델별 한도가 합산 4회인지, 무료 MP4 다운로드가 되는지, 무료 결과 워터마크·상업적 이용이 허용되는지 시험하지 않음. 실시간 카드의 유료 옵션과 혼동 금지. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://www.giz.ai/ai-video-generator/",
+          "https://www.giz.ai/minimax-h3-ai-video-generator/"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 5
+      }
+    },
+    {
+      "key": "20261115-fluxnote-100monthly-720p-clean-video",
+      "kind": "new",
+      "summary": "FluxNote 공식 무료 요금표: 매월 100 공용 크레딧으로 최대 30초·720p 완성형 AI 영상 약 1편 제작 가능. Instagram 팔로우 최초 100크레딧, TikTok 팔로우 최초 100크레딧 조건부 지급으로 첫 달 최대 약 3편. 무료 영상 무워터마크, 카드 불필요, 비상업적 개인·평가 용도.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://fluxnote.io/pricing"
+      ],
+      "site": {
+        "name": "FluxNote — 월 100크레딧·720p 무워터마크 영상",
+        "url": "https://fluxnote.io/pricing",
+        "grade": "B",
+        "models": "대본·장면·음성 조합의 완성형 영상 최대 30초·720p. Veo 3.1/Kling 3.0/Runway/Seedance/Hailuo 프리미엄 영상 모델은 Rise 이상 유료.",
+        "grant": "Free 매월 100공용 크레딧 ≈ 30초 720p 완성 영상 1편. Instagram/TikTok 팔로우 각 100크레딧 최초 1회(국가/자격에 따름). 무료 영상 무워터마크·무카드.",
+        "cycle": "100크레딧 월간 갱신, 다음 달 이월 없음. SNS 보너스는 1회성.",
+        "notes": "영상·이미지 생성이 같은 크레딧 지갑을 공유. 3편은 최초 소셜 보너스를 모두 충족하고 크레딧을 영상에 사용할 때의 이론치. 고급 단일 생성형 T2V 모델 무료 접근과 완성형 영상 편집/조립 경로를 구분. 무료 콘텐츠 상업 이용 불가. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://fluxnote.io/pricing"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 11
+      }
+    },
+    {
+      "key": "20261115-firevideo-free-ten-monthly-clean720",
+      "kind": "new",
+      "summary": "firevideo AI 운영사 무료 요금제에서 영상 월 10편, 720p 무워터마크 내보내기, 16:9/9:16, AI 음성 20종 이상 제공 명시. 프롬프트에서 스크립트·장면·내레이션·자막을 조립하는 완성형 영상이며, 별도의 Veo/MiniMax 영상 모델 생성 10회가 아닙니다.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://firevideoai.com/pricing/",
+        "https://firevideoai.com/faq/"
+      ],
+      "site": {
+        "name": "firevideo AI — 월 10편 720p 무워터마크",
+        "url": "https://firevideoai.com/pricing/",
+        "grade": "U",
+        "models": "프롬프트로 스크립트/씬/음성/음악/자막을 조립하는 완성형 영상. 독립 T2V 백엔드 모델은 명시되지 않음.",
+        "grant": "Free $0 플랜 월 10편, 무료 최대 720p 무워터마크 내보내기, 16:9·9:16, AI 음성 20+.",
+        "cycle": "월 10편(갱신일 미공개).",
+        "notes": "무료 요금제와 FAQ는 공식 페이지로 확인했지만 연결 app.firevideoai.com의 실제 생성·다운로드 화면은 조사 환경에서 열리지 않음. 서비스 자체 종료로 판단하지 않음. 카드 등록·상업 이용권은 상세 공개 조건 미확인. Pro 4K·음성 복제는 유료. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://firevideoai.com/pricing/",
+          "https://firevideoai.com/faq/"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 22
+      }
+    },
+    {
+      "key": "20261115-aifree-wan22-guest-480p5s-free",
+      "kind": "new",
+      "summary": "AIFree(aifree.video)의 별도 무료 Wan 2.2 5B Fast 생성기: 회원가입·카드 없이 텍스트→영상 약 5초 480p·무음 클립을 공용 무료 대기열로 제작할 수 있다고 안내. 운영사 워터마크 없음·MP4 다운로드 가능, 무료 처리량은 매일 UTC 00:00 재개. 이미지→영상은 5크레딧의 유료 항목.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://aifree.video/",
+        "https://aifree.video/free-wan-2-2"
+      ],
+      "site": {
+        "name": "AIFree — Wan 2.2 5B Fast 무료 비회원 T2V",
+        "url": "https://aifree.video/free-wan-2-2",
+        "grade": "B",
+        "models": "Wan 2.2 5B Fast(Replicate 기반) 텍스트→영상 약 5초 480p·무음. 사진→영상 5크레딧 유료. Seedance 2.0 Mini, MiniMax H3 등도 유료 크레딧.",
+        "grant": "비회원·무카드 무료 텍스트→영상. 당일 공용 처리량 제한, 영상에 운영사 워터마크 미포함, MP4 다운로드 안내, 무료 영상 브라우저 보관 24시간.",
+        "cycle": "UTC 00:00 일일 공용 처리량 재개, 개인별 무료 편수는 비정량적. 대기 약 5분 가변.",
+        "notes": "기존 Free.ai·freeaivideo.app와 별도 도메인. 공식 검색색인 텍스트 및 운영사 서비스 설명에서 확인했으나 해당 도메인의 직접 열람은 조사 도구에서 제한됨. 특히 무료 모델은 T2V만이며 I2V는 5크레딧 유료. 가입 보너스 크레딧은 명시되지 않아 추정하지 않음. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://aifree.video/",
+          "https://aifree.video/free-wan-2-2"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 13
+      }
+    },
+    {
+      "key": "20261115-getvideoai-first720p5s-badge-regional",
+      "kind": "new",
+      "summary": "VideoAI(getvideoai.app) 신규 비회원 I2V 무료 체험: 새로운 브라우저의 첫 1회 5초·720p 사진→영상 제공, 가입/결제카드 불필요. 무료 MP4는 작은 VideoAI 배지가 붙으며 유료 팩을 구매해야 제거됩니다. 실패한 작업은 무료 시도를 소진하지 않고, 60여 개 웹 결제 지원 지역에 한정되어 한국 지원은 조건부입니다.",
+      "observedAt": "2026-11-15",
+      "evidence": [
+        "https://getvideoai.app/",
+        "https://getvideoai.app/ai-video-generator-no-sign-up"
+      ],
+      "site": {
+        "name": "VideoAI — 첫 I2V 720p·5초 1편(배지·지역 제한)",
+        "url": "https://getvideoai.app/",
+        "grade": "B",
+        "models": "Wan 2.1 기반 사진 1장+프롬프트 I2V 5초 720p, 오디오 추가 옵션. 독립 텍스트→영상 서비스 아님.",
+        "grant": "신규 방문자 브라우저당 영상 최초 1편 + AI 사진 최초 1장 무료. 카드/로그인 불필요. 무료 다운로드에는 작은 VideoAI 배지 포함.",
+        "cycle": "브라우저당 최초 1회; 일일·월간 자동 갱신 없음. 실패한 렌더는 소진하지 않음.",
+        "notes": "웹 생성 기능은 운영사가 지원하는 약 60개 국가에서만 제공. 공식 페이지에 'web video creator is unavailable in your region' 안내도 있으므로 한국에서 정상 접근 가능하다고 주장하지 않음. 무료 배지 없는 영상은 유료. 모바일 Dream AI는 웹 무료 체험과 별개 과금. 무료 상업 이용권은 운영사 안내 기준. 공개 홈페이지·요금표·FAQ 열람만 수행. 사용자 개인 계정 가입·로그인·실제 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 실제 정책 변경 시행일이 아님.",
+        "sources": [
+          "https://getvideoai.app/",
+          "https://getvideoai.app/ai-video-generator-no-sign-up"
+        ],
+        "checked": "2026-11-15",
+        "current": true,
+        "priority": 17
+      }
+    }
+  ]
+}
