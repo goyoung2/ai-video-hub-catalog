@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T00:19:28.341Z",
+  "entries": [
+    {
+      "key": "20261117-photo2video-signup50-minimaxh3-fast-480p5s",
+      "kind": "new",
+      "summary": "독립 Photo to Video 공식 H3 가이드에서 신규 계정 50크레딧, MiniMax H3 Fast 480p·5초 15크레딧/편(3편), 768p·5초 24크레딧/편(2편), 무카드·무워터마크 및 일회성 지급 안내를 확인. 별도 최신 무료 가이드는 자격 충족 계정 한정이며 실 지급액은 가입 화면에서 확인하도록 안내.",
+      "observedAt": "2026-11-17",
+      "evidence": [
+        "https://photo2video.ai/guides/minimax-h3-image-to-video",
+        "https://photo2video.ai/guides/free-image-to-video-ai",
+        "https://photo2video.ai/"
+      ],
+      "site": {
+        "name": "Photo to Video — H3 Fast 무료 50크레딧 I2V",
+        "url": "https://photo2video.ai/",
+        "grade": "B",
+        "models": "MiniMax H3 Fast 이미지→영상 480p·5초 15크레딧, 768p·5초 24크레딧, 1080p·5초 48크레딧; 생성 오디오 포함. Standard·Pro/2K 및 Seedance/Wan/LTX 등 기타 모델은 비용 별도.",
+        "grant": "2026-11-01 운영사 H3 가이드 기준 신규 50크레딧, Fast 480p 5초 3편 또는 768p 5초 2편 상당. 2026-11-11 운영사 무료 FAQ는 실제 보너스량이 가입 화면에 나타나고 신규 적격 계정·네트워크 제한이 있다고 안내.",
+        "cycle": "신규 가입 1회성, 일일·월간 충전 없음. 카드·자동 구독 없음.",
+        "notes": "Google/Apple 로그인 필요. 운영사는 무료 크레딧 생성물에도 워터마크를 붙이지 않으며 다운로드 가능하다고 설명. 50크레딧 수치는 11월 1일 모델별 가이드 기준으로, 최신 무료 FAQ의 현재 금액 미명시와 구분하여 조건부로 표기. 무료 크레딧은 모든 모델 간 공유. 2026-11-17은 공개 정책 관찰일이며 실제 시행일을 의미하지 않음. 운영사 공식 HTTPS 홈페이지·요금표·FAQ만 열람. 개인 계정 가입·로그인·잔액 수령·실제 영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음.",
+        "sources": [
+          "https://photo2video.ai/guides/minimax-h3-image-to-video",
+          "https://photo2video.ai/guides/free-image-to-video-ai",
+          "https://photo2video.ai/"
+        ],
+        "checked": "2026-11-17",
+        "current": true,
+        "priority": 12
+      }
+    },
+    {
+      "key": "20261117-genmagic-onetime-50cents-h3max-480p5s",
+      "kind": "new",
+      "summary": "GenMagic 운영사 공개 가격표의 이메일 인증 신규 계정 $0.50 무료 잔액으로 MiniMax H3 Max 480p·5초 $0.38 영상 1편을 생성할 수 있는 독립 무료 T2V/I2V 경로를 확인. 카드 불필요, 가시 워터마크 없음 및 실패 렌더 비용 미청구 안내.",
+      "observedAt": "2026-11-17",
+      "evidence": [
+        "https://genmagic.co/pay-as-you-go/hailuo",
+        "https://genmagic.co/blog/hailuo-api"
+      ],
+      "site": {
+        "name": "GenMagic — 무료 $0.50로 H3 Max 480p 5초",
+        "url": "https://genmagic.co/pay-as-you-go/hailuo",
+        "grade": "B",
+        "models": "MiniMax H3 Max 480p·5초 $0.38(운영사 표시, 무음), Hailuo 2.3 1080p·6초 $0.74(무료 예산 초과), MiniMax H3 2K·5초 $0.98(무료 예산 초과). T2V와 I2V 제공; 음향 여부는 모델별 상이.",
+        "grant": "신규 이메일 인증 시 일회성 $0.50 내부 잔액(미국 달러 상당). H3 Max 480p 5초 영상 1편 $0.38에 사용 가능. 무카드 가입·첫 영상 체험.",
+        "cycle": "일회성 가입 체험 잔액, 갱신 안내 없음. 유료 충전 최소 $5는 별도.",
+        "notes": "해당 서비스가 MiniMax 자체 공식 사이트인 것은 아님. 'H3 Max'와 오디오 포함 'H3' 별도 모델로 취급하며 H3 Max 480p 후보는 오디오 없음. 운영사 가시 워터마크 없음, 렌더 실패 미청구, MP4/실제 다운로드는 계정 생성 없이 검사하지 못함. 2026-11-17은 공개 정책 관찰일이며 실제 시행일을 의미하지 않음. 운영사 공식 HTTPS 홈페이지·요금표·FAQ만 열람. 개인 계정 가입·로그인·잔액 수령·실제 영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음.",
+        "sources": [
+          "https://genmagic.co/pay-as-you-go/hailuo",
+          "https://genmagic.co/blog/hailuo-api"
+        ],
+        "checked": "2026-11-17",
+        "current": true,
+        "priority": 15
+      }
+    },
+    {
+      "key": "20261117-sceneoak-500signup-kling30-5sec-5day",
+      "kind": "new",
+      "summary": "SceneOak 운영사 무료 생성기에서 신규 적격 계정 이메일 인증 시 500크레딧을 5일간 지급하며 Kling 3.0 Standard 오디오 포함·5초 기본 영상에 360크레딧(생성 350+메시지 10) 필요하다고 명시. 카드·자동 구독 불필요, 워터마크 없음, 무료 결과물 비상업용.",
+      "observedAt": "2026-11-17",
+      "evidence": [
+        "https://sceneoak.com/free-ai-video-generator",
+        "https://sceneoak.com/kling-ai-free"
+      ],
+      "site": {
+        "name": "SceneOak — Kling 3.0 5초 무료 첫 편",
+        "url": "https://sceneoak.com/free-ai-video-generator",
+        "grade": "B",
+        "models": "Kling 3.0 Standard T2V/I2V·오디오 포함 기본 5초·16:9/9:16, 예상 총 360크레딧. 3초 클립은 210크레딧+메시지 비용. Kling 4.0은 모델 선택 가능하나 무료 500크레딧으로 해당 고급 모델 생성 가능하다는 별도 확증 없음.",
+        "grant": "적격 신규 이메일 인증 계정 가입 500 내부 크레딧(기본 5초 1편). 카드 없음. 영상 실패 시 영상 생성분 환불 가능, 메시지 요금은 별도.",
+        "cycle": "신규 계정 최초 1회, 지급 5일 후 만료, 월간/일일 갱신 없음.",
+        "notes": "SceneOak 자체 서비스이며 Kling 공식 무료 지급과 별개. 기존 첫 비디오 무료 혜택과 중복 적립 불가. 무료 영상 비상업용·운영사 워터마크 없음, MP4 다운로드 안내. 실 생성 미실시. 2026-11-17은 공개 정책 관찰일이며 실제 시행일을 의미하지 않음. 운영사 공식 HTTPS 홈페이지·요금표·FAQ만 열람. 개인 계정 가입·로그인·잔액 수령·실제 영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음.",
+        "sources": [
+          "https://sceneoak.com/free-ai-video-generator",
+          "https://sceneoak.com/kling-ai-free"
+        ],
+        "checked": "2026-11-17",
+        "current": true,
+        "priority": 17
+      }
+    },
+    {
+      "key": "20261117-adskull-seed85-seedance25-480p4s-50credits",
+      "kind": "changed",
+      "summary": "기존 seed_85 AdSkull의 H3·Grok 무료 모델 기록 외에 운영사 전용 Seedance 2.5 안내에서 신규 50크레딧으로 480p·4초 영상 1편(정확히 50크레딧) 가능함을 추가 확인. 5초 70크레딧·720p 130크레딧으로 신규 가입량 초과; 카드 불필요. 무료 상업 사용권 및 크레딧 반복 지급은 종전 보수적 분류 유지.",
+      "observedAt": "2026-11-17",
+      "evidence": [
+        "https://adskull.io/en/free/seedance-2-5",
+        "https://adskull.io/en/pricing"
+      ],
+      "site": {
+        "id": "seed_85",
+        "name": "AdSkull Creative Studio — Seedance 2.5 무료 4초 모델 경로",
+        "url": "https://adskull.io/en/free/seedance-2-5",
+        "grade": "B",
+        "models": "기존 MiniMax H3, Grok Imagine + 추가 확인 Seedance 2.5 480p·4초 50크레딧(무료 전액), 5초 70크레딧, 720p 130크레딧. 모델 최대 30초/720p는 무료 범위를 뜻하지 않음.",
+        "grant": "신규 가입 무료 50크레딧 동일 지갑에서 Seedance 2.5 480p 4초 1편에 모두 사용 가능. 기존 H3/Grok 모델 크레딧과 합산 지급되는 혜택이 아님.",
+        "cycle": "가입 크레딧 50, 월간 자동 갱신은 기존 FAQ 상충 때문에 미확정.",
+        "notes": "기존 2026-11-07 seed_85 MiniMax H3와 2026-11-14 Grok Imagine 업데이트에 없는 모델별 비용 정보 추가. 운영사 무료 가격 안내는 구체적이나 계정 크레딧 및 워터마크 실물은 검사하지 않음. 무료 상업 이용은 미허용으로 다루며 720p/5초 이상을 무료라고 홍보하지 않음. 2026-11-17은 공개 정책 관찰일이며 실제 시행일을 의미하지 않음. 운영사 공식 HTTPS 홈페이지·요금표·FAQ만 열람. 개인 계정 가입·로그인·잔액 수령·실제 영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음.",
+        "sources": [
+          "https://adskull.io/en/free/seedance-2-5",
+          "https://adskull.io/en/pricing"
+        ],
+        "checked": "2026-11-17",
+        "current": true,
+        "priority": 8
+      }
+    },
+    {
+      "key": "20261117-refvid-free180-vs-118-h3-model-budget-correction",
+      "kind": "changed",
+      "summary": "11월 8일 RefVid 기존 등록은 신규 가입 180크레딧으로 Kling 3.0 Omni 720p 5초/1080p 4초를 계산했으나, 현재 운영사 MiniMax H3 전용 안내는 가입 118크레딧을 표시. 현행 가격표의 Kling 3.0 Omni 720p 5초 155크레딧·1080p 4초 164크레딧은 118크레딧을 초과하므로 종전 해상도 혜택을 확정 추천하지 않음. 대신 H3 768p 5초 110크레딧 경로는 운영사가 안내하며 가격표도 일치. 지역별 기본 무료 4초 Kling/Vidu 바우처는 별도 안내.",
+      "observedAt": "2026-11-17",
+      "evidence": [
+        "https://refvid.com/minimax-h3-free-online",
+        "https://refvid.com/pricing"
+      ],
+      "site": {
+        "name": "RefVid — 무료 가입 잔액 118 표기·H3 경로 보완",
+        "url": "https://refvid.com/minimax-h3-free-online",
+        "grade": "U",
+        "models": "현행 모델 소개: MiniMax H3 768p·5초 22크레딧/초=110크레딧(오디오 포함) 및 Kling 3.0 Omni 720p·5초 155크레딧, 1080p·4초 164크레딧. 일부 지역 무료 기본 모델 Vidu Q2 360p.",
+        "grant": "H3 전용 공식 페이지는 신규 계정 118크레딧을 표기. 2026-11-08 기존 공개 제안에는 180크레딧이 기록됨. 현행 일반 가격표는 '처음 4초 영상 무료'를 별도로 안내해 계정별 지역·모델 할당을 구분해야 함.",
+        "cycle": "가입 일회성 크레딧 또는 지역별 첫 영상 무료; 정기 갱신 없음.",
+        "notes": "118크레딧이 전체 가입 혜택의 공식 일괄 축소인지 시행일은 미확정. 운영사 H3 상세 페이지 날짜는 2026-11-07로, 이전 저장소의 11월 8일 180크레딧 보고와 설명이 엇갈리므로 계정별·모델별 프로모션 차이 가능성을 남김. 기존 180으로 계산한 1080p 무료 후보의 재검토를 알리는 것이 목적이며 서비스 무료 종료 판정 아님. 워터마크 없는 다운로드·상업 이용 가능은 운영사 현재 가격표 기준. 2026-11-17은 공개 정책 관찰일이며 실제 시행일을 의미하지 않음. 운영사 공식 HTTPS 홈페이지·요금표·FAQ만 열람. 개인 계정 가입·로그인·잔액 수령·실제 영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음.",
+        "sources": [
+          "https://refvid.com/minimax-h3-free-online",
+          "https://refvid.com/pricing"
+        ],
+        "checked": "2026-11-17",
+        "current": true,
+        "priority": 4
+      }
+    }
+  ]
+}
