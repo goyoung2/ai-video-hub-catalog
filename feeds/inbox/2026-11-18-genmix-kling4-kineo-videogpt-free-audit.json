@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T01:08:23.200Z",
+  "entries": [
+    {
+      "key": "20261118-genmix-kling40flash-daily-checkin-3credits-720p3s",
+      "kind": "new",
+      "summary": "GenMix가 2026-11-17 Kling 4.0 및 Flash를 추가했다고 자체 모델 안내에 명시. 신규 계정 10크레딧과 출석 3크레딧/일을 누적하면 Flash 720p·3초 33크레딧 또는 Kling 4.0 720p·3초 51크레딧으로 무료 영상 생성 가능. 무워터마크 다운로드 안내, 무료 상업적 사용권은 별도.",
+      "observedAt": "2026-11-18",
+      "evidence": [
+        "https://genmix.ai/kling-4-0",
+        "https://genmix.ai/pricing"
+      ],
+      "site": {
+        "name": "GenMix — 출석형 Kling 4.0 Flash / Kling 4.0 무료",
+        "url": "https://genmix.ai/kling-4-0",
+        "grade": "B",
+        "models": "Kling 4.0 Flash T2V/I2V/Reference 720p·3~20초·11크레딧/초(최단 33), Kling 4.0 720p·3~30초·17크레딧/초(최단 51). 무료 계정 1080p 제한, 두 모델 오디오 포함.",
+        "grant": "신규 적격 가입 계정 10크레딧 + 매일 출석 시 3크레딧; 8회 출석 후 34크레딧으로 Flash 720p·3초 1편, 14회 출석 후 52크레딧으로 Kling 4.0 720p·3초 1편(동일 잔액 대안).",
+        "cycle": "가입 10 일회성 + 일일 출석 3, 보유분 만료·출석 누락 처리 공개 안내 없음.",
+        "notes": "독립 통합 모델 호스팅(공식 Kuaishou 아님). 사이트는 모든 계정 다운로드 워터마크 없음이라고 설명하고 상업적 이용권은 구독 플랜에 명시. 출석 누적 계산은 크레딧 미사용 가정이며 실제 계정 지급은 검사하지 않음. 2026-11-18 공개 안내 관찰. 공식 HTTPS 홈·가격표·FAQ 열람 완료. 실제 계정 가입/로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 육안 검사는 수행하지 않음. 관찰일은 정책 시행일이 아님.",
+        "sources": [
+          "https://genmix.ai/kling-4-0",
+          "https://genmix.ai/pricing"
+        ],
+        "checked": "2026-11-18",
+        "current": true,
+        "priority": 8
+      }
+    },
+    {
+      "key": "20261118-kling4ai-independent-free30-kling25turbo-480p5s",
+      "kind": "new",
+      "summary": "독립 kling4ai.io 공식 요금표에서 신규 인증 계정 무료 30크레딧과 Kling 2.5 Turbo 480p·5초 30크레딧 기본 영상 1편 확인. 7회 누적 출석 40크레딧 보너스 및 초대 20크레딧도 안내. Kling 4.0 무료 제공과 혼동하지 않음.",
+      "observedAt": "2026-11-18",
+      "evidence": [
+        "https://kling4ai.io/pricing",
+        "https://kling4ai.io/"
+      ],
+      "site": {
+        "name": "Kling4AI.io — 독립 Kling 2.5 Turbo 첫 영상 무료",
+        "url": "https://kling4ai.io/pricing",
+        "grade": "B",
+        "models": "Kling 2.5 Turbo Text/Image 기본 작업 480p·5초 30크레딧. Kling 4.0/3.0과 고급 작업은 VIP 또는 유료 크레딧 조건.",
+        "grant": "신규 적격 이메일/Google 인증 계정 일회성 30크레딧(480p·5초 첫 1편), 7회 출석 누적 40크레딧, 적격 추천 보상 20크레딧.",
+        "cycle": "가입 1회성 30, 누적 7회 출석 총 40. 매월 무료 자동 갱신 없음.",
+        "notes": "Kuaishou 공식 Kling 웹사이트가 아님. 무료 영상 워터마크·내보내기 세부 조건은 공개 요금표로 확정하지 않음. 언어별 가격표 일부 차이가 있어 현재 영문 요금표를 기준으로 기록. 이용 가능 크레딧·기한은 Billing 표시 기준. 2026-11-18 공개 안내 관찰. 공식 HTTPS 홈·가격표·FAQ 열람 완료. 실제 계정 가입/로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 육안 검사는 수행하지 않음. 관찰일은 정책 시행일이 아님.",
+        "sources": [
+          "https://kling4ai.io/pricing",
+          "https://kling4ai.io/"
+        ],
+        "checked": "2026-11-18",
+        "current": true,
+        "priority": 18
+      }
+    },
+    {
+      "key": "20261118-kineo-free10-15s-h3turbo-film-watermark",
+      "kind": "new",
+      "summary": "Kineo 공식 가격표: 신규 계정 10크레딧으로 MiniMax H3 Turbo 내레이션형 15초 영상 1편(9크레딧)을 무료 제작 가능. 무카드, 워터마크 포함. Kling 4.0 15초는 별도 표 45크레딧으로 무료 혜택이 아니며, 무워터마크 MP4·상업 이용은 유료.",
+      "observedAt": "2026-11-18",
+      "evidence": [
+        "https://www.usekineo.com/pricing",
+        "https://www.usekineo.com/"
+      ],
+      "site": {
+        "name": "Kineo — H3 Turbo 15초 완성형 AI 쇼츠 무료",
+        "url": "https://www.usekineo.com/pricing",
+        "grade": "B",
+        "models": "MiniMax H3 Turbo 기반 15초 내레이션·자막·음악 포함 완성형 film 9크레딧. Kling 4.0 15초 film은 45크레딧으로 신규 무료 10크레딧 초과. 단일 연속 T2V 15초 클립과 구분.",
+        "grant": "지원 국가 신규 계정에 10크레딧, 카드 불필요, 15초 H3 Turbo narrated film 9크레딧 1편.",
+        "cycle": "가입 일회성 10, 무료 크레딧 재충전 없음. 지원 국가 한정.",
+        "notes": "가격표 FAQ의 Kling 4.0 무료 15초 암시 문구는 15초 45크레딧 가격표와 충돌하므로 H3 Turbo만 무료 대상 기록. 유료 플랜은 깔끔한 MP4 내보내기를 명시하나 무료 워터마크본 MP4 다운로드 가능 조건은 불명확. 15초는 편집 완성물. 2026-11-18 공개 안내 관찰. 공식 HTTPS 홈·가격표·FAQ 열람 완료. 실제 계정 가입/로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 육안 검사는 수행하지 않음. 관찰일은 정책 시행일이 아님.",
+        "sources": [
+          "https://www.usekineo.com/pricing",
+          "https://www.usekineo.com/"
+        ],
+        "checked": "2026-11-18",
+        "current": true,
+        "priority": 25
+      }
+    },
+    {
+      "key": "20261118-videogpt-free3-daily-30s-ai-stories",
+      "kind": "new",
+      "summary": "VideoGPT 공식 요금표 Free에 하루 최대 3편의 30초 AI 영상 및 배경음악 추가 기능이 명시됨. 구독 $6.99/주부터 무제한 생성·60초 영상 등 상위 기능. 30초 스토리형 완성물이며 단일 T2V 모델 무료 30초 생성과는 별개.",
+      "observedAt": "2026-11-18",
+      "evidence": [
+        "https://videogpt.io/pricing",
+        "https://videogpt.io/"
+      ],
+      "site": {
+        "name": "VideoGPT — AI 스토리 영상 무료 하루 3편·30초",
+        "url": "https://videogpt.io/pricing",
+        "grade": "C",
+        "models": "AI 스토리·애니메이션 스타일 영상 및 배경음악·내레이션 조합. 무료 30초 완성형 영상. 특정 T2V/I2V 확산 모델 명칭은 공개 페이지 미명시.",
+        "grant": "Free 플랜 하루 최대 3편, 편당 30초, 배경음악 기능. Google/Apple 계정 로그인.",
+        "cycle": "매일 최대 3편; 리셋 시각 미표기.",
+        "notes": "무료 MP4 다운로드·워터마크·결제카드 조건·상업 이용권 및 사용 모델 상세 미공개. 전용 앱 중심의 생성·스토리 편집 서비스로 분류하고 실제 출력·모바일 사용 가능 여부는 검증하지 않음. 2026-11-18 공개 안내 관찰. 공식 HTTPS 홈·가격표·FAQ 열람 완료. 실제 계정 가입/로그인·크레딧 지급·영상 생성·MP4 다운로드·워터마크 육안 검사는 수행하지 않음. 관찰일은 정책 시행일이 아님.",
+        "sources": [
+          "https://videogpt.io/pricing",
+          "https://videogpt.io/"
+        ],
+        "checked": "2026-11-18",
+        "current": true,
+        "priority": 33
+      }
+    }
+  ]
+}
