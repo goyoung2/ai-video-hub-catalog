@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T00:14:41.086Z",
+  "entries": [
+    {
+      "key": "20261119-pickshot-lacquer-free3daily-720p5s-audio-terms",
+      "kind": "new",
+      "summary": "Pickshot 공식 가격표와 2026-11-14 개정 공지에 따르면 2026-11-15 00:00 KST부터 무료 계정 모두 Lacquer 720p·최대 5초 T2V/I2V(시작 사진 한 장) 영상을 소리 포함 하루 3편 크레딧 차감 없이 생성 가능. 일일 한도 한국시간 자정 갱신, 실패·취소는 미차감, 카드 불필요, 가시 워터마크 없는 다운로드 안내. 홈페이지 일부 배너의 10편 표기는 이용약관에 의해 대체된 과거 공지이므로 10편으로 등록하지 않음.",
+      "observedAt": "2026-11-19",
+      "evidence": [
+        "https://pickshot.ai/ko/pricing",
+        "https://pickshot.ai/ko/terms",
+        "https://pickshot.ai/ko/blog/free-ai-video-with-sound-no-credits"
+      ],
+      "site": {
+        "name": "Pickshot — Lacquer 무료 하루 3편 720p·5초·오디오",
+        "url": "https://pickshot.ai/ko",
+        "grade": "B",
+        "models": "Pickshot 자체 Lacquer T2V/I2V(시작 이미지 1장), 720p, 최대 5초, 생성 오디오 포함. 다른 영상 모델(MiniMax H3·Satin·Silk 등)은 별도 크레딧/멤버십 조건.",
+        "grant": "웹 무료 회원 Lacquer 1인 하루 최대 3편, 크레딧 0이어도 가능. 신규 계정 가입 환영 50크레딧은 별도 일회성 혜택.",
+        "cycle": "매일 00:00 KST. 2026-11-14 공지, 모든 계정 2026-11-15 00:00 KST부터 3편 제한. 실패/취소는 일일 횟수에 포함되지 않음.",
+        "notes": "2026-11-07 홈페이지 과거 배너(하루 10편/기존 계정 12월 적용)는 2026-11-14 현행 개정 공지가 명시적으로 대체; 요금표·약관의 하루 3편이 최신. 사이트 웹 생성은 로그인 필요·결제카드 불필요, 무료 I2V는 시작 사진 한 장 경로. 무료 다운로드에 가시 로고 없음(운영사 안내), AI 식별용 메타데이터 가능. API/MCP는 무료 대상 아님. 공개 홈페이지·공식 요금표/FAQ/이용약관 열람으로만 확인. 사용자 계정 로그인·무료 잔액 지급·영상 실제 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 변경 시행일과 다를 수 있음.",
+        "sources": [
+          "https://pickshot.ai/ko/pricing",
+          "https://pickshot.ai/ko/terms",
+          "https://pickshot.ai/ko/blog/free-ai-video-with-sound-no-credits"
+        ],
+        "checked": "2026-11-19",
+        "current": true,
+        "priority": 2
+      }
+    },
+    {
+      "key": "20261119-freeaivideo-cogvideoxflash-free1080p5s-sixth-faq",
+      "kind": "changed",
+      "summary": "기존 2026-11-15 '무료 체험 모델 5종' 제안 이후 Free AI Video 공식 FAQ에 CogVideoX Flash 1080p·5초가 포함된 무료/가입 바우처 모델 총 6종이 표시됨. 기기당 하루 1회(00:00 UTC) 및 무워터마크 무료 MP4 조건은 유지. 첫 화면은 여전히 'five models'라고 표기하므로 6종은 FAQ 기준이며 실제 모델 선택 가능 여부는 검증하지 않음.",
+      "observedAt": "2026-11-19",
+      "evidence": [
+        "https://www.freeaivideo.app/"
+      ],
+      "site": {
+        "name": "Free AI Video — CogVideoX Flash 1080p·5초 무료 모델 추가 안내",
+        "url": "https://www.freeaivideo.app/",
+        "grade": "B",
+        "models": "무료 FAQ 6종: Seedance 2.0 Mini(480p·4초), MiniMax H3(480p·4초), Kling 2.6(720p·5초), Grok Imagine Video(480p·6초), Gemini Omni 1.2 Flash(360p·3초), CogVideoX Flash(1080p·5초). Seedance 2.5는 크레딧 결제 대상.",
+        "grant": "비회원·회원 공유 기기당 하루 무료 체험 요청 1회. 자격 충족 신규 인증 계정에 별도 30일 유효 가입 바우처 1회 가능. 무료 생성물은 사이트 자체 워터마크 없음.",
+        "cycle": "매일 00:00 UTC, 기기/네트워크·공유 처리량 제한. 수락된 무료 요청은 실패나 취소해도 차감.",
+        "notes": "기존 업데이트 key=20261115-freeaivideo-five-free-models-seedance25-credit-only에 이은 모델 범위 보완. 사이트 상단에는 아직 'five models' 문구가 남아 FAQ 6종 목록과 상충하며, FAQ가 구체 설정을 표시함. 신규 서비스로 중복 등록하지 않음. 무료 MP4는 링크를 가진 사람 누구나 접근할 수 있는 공개 가능성 안내. 공개 홈페이지·공식 요금표/FAQ/이용약관 열람으로만 확인. 사용자 계정 로그인·무료 잔액 지급·영상 실제 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 변경 시행일과 다를 수 있음.",
+        "sources": [
+          "https://www.freeaivideo.app/"
+        ],
+        "checked": "2026-11-19",
+        "current": true,
+        "priority": 4
+      }
+    },
+    {
+      "key": "20261119-movidmo-free100monthly-ai-assembled-videos-60signup",
+      "kind": "new",
+      "summary": "Movidmo 공식 요금표에 따르면 신규 회원 무료 60크레딧(고급 AI 제작 20크레딧/편으로 최대 3편) 및 별도로 매월 최대 100건의 0크레딧 Free AI 영상 디자인 제공. 대개 30초, 최대 60초의 영상은 기존 스톡 사진·클립·텍스트·음악을 AI가 자동 편집하는 방식이며 신규 확산 모델 촬영분을 생성하지 않음. MP4 무워터마크 출력과 상업적 사용, 결제카드 불필요를 공식 안내.",
+      "observedAt": "2026-11-19",
+      "evidence": [
+        "https://www.movidmo.com/pricing/",
+        "https://www.movidmo.com/ai-video-generator/"
+      ],
+      "site": {
+        "name": "Movidmo — 월 100건 무료 AI 편집형 영상·무워터마크",
+        "url": "https://www.movidmo.com/ai-video-generator/",
+        "grade": "B",
+        "models": "AI 스톡 영상·사진·캡션·음악 합성/자동 편집형 제작기. Free 기본 AI 디자인, Best 고급 AI 디자인. 순수 T2V/I2V 영상 프레임 생성 모델은 제공하지 않는다고 명시.",
+        "grant": "Free 디자인 월 최대 100건(크레딧 0), 회원가입 일회성 60크레딧으로 Best 영상 20크레딧/편 최대 3편. MP4 다운로드/워터마크 없음; 광고·고객 프로젝트 상업 사용 허용.",
+        "cycle": "무료 디자인 100건/월; 가입 60크레딧 일회성. 신규 지급분 만료 정책은 공개 가격표에 별도 명시되지 않음.",
+        "notes": "영상 생성이라는 표현을 쓰지만 실제로는 스톡·사용자 자산을 조합하는 AI 영상 제작 서비스. 단일 T2V 생성 모델과 혼동하지 않도록 별도 편집형 항목으로 분류. 회원가입 필요·카드 불필요. 영상 최대 60초는 조립형 결과물 길이. 공개 홈페이지·공식 요금표/FAQ/이용약관 열람으로만 확인. 사용자 계정 로그인·무료 잔액 지급·영상 실제 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 변경 시행일과 다를 수 있음.",
+        "sources": [
+          "https://www.movidmo.com/pricing/",
+          "https://www.movidmo.com/ai-video-generator/"
+        ],
+        "checked": "2026-11-19",
+        "current": true,
+        "priority": 16
+      }
+    },
+    {
+      "key": "20261119-kling4co-checkins-20signup-up-to100week-conditional",
+      "kind": "new",
+      "summary": "독립 kling-4.co 운영사 홈/요금표에 무료 신규 가입 20크레딧과 일일 출석으로 주 최대 100크레딧 추가 제공이 명시됨. Kling 4.0·Kling 3.0·Seedance 2 Fast·Veo 3.1 Fast 등 영상 모델을 같은 잔액으로 사용 가능하다고 설명하지만, 가입 보너스 20크레딧만으로는 공시된 유료 플랜의 기본 영상 한 편 상당 크레딧에 미달. 무료 영상 실행은 출석 적립 및 생성 화면 견적 충족 조건부이며 특정 Kling 4.0 무료 영상 즉시 가능이라고 주장하지 않음.",
+      "observedAt": "2026-11-19",
+      "evidence": [
+        "https://kling-4.co/",
+        "https://kling-4.co/pricing"
+      ],
+      "site": {
+        "name": "kling-4.co — 독립 멀티모델 출석형 무료 크레딧(조건부)",
+        "url": "https://kling-4.co/",
+        "grade": "C",
+        "models": "독립 호스팅 Kling 4.0 T2V/I2V, Kling 3.0, Seedance 2 Fast, Veo 3.1 Fast 등 영상 모델. 실제 무료 진입 가능 모델/최소 견적은 로그인 후 생성 화면에서 확인.",
+        "grant": "신규 적격 가입 20크레딧 + 일일 출석으로 주 최대 100크레딧을 추가 획득 가능하다고 운영사 안내. 카드 불필요, 상업 사용 가능·무워터마크 안내.",
+        "cycle": "가입 20 일회성 + 일일 출석(주 최대 100) 안내. 출석 상세 누적식과 만료·중단 정책은 불명.",
+        "notes": "Kuaishou/Kling AI 공식 서비스가 아닌 독립 도메인. 'Kling 4.0 무료'라는 사이트 광고를 첫날 즉시 영상 제작 가능과 동일시하지 않음. 공개 플랜 수량상 Kling 3.0 5초·720p는 대략 200크레딧 이상으로 표기되나 실제 무료 생성 견적은 로그인 후 확인 대상. 공개 홈페이지·공식 요금표/FAQ/이용약관 열람으로만 확인. 사용자 계정 로그인·무료 잔액 지급·영상 실제 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 변경 시행일과 다를 수 있음.",
+        "sources": [
+          "https://kling-4.co/",
+          "https://kling-4.co/pricing"
+        ],
+        "checked": "2026-11-19",
+        "current": true,
+        "priority": 30
+      }
+    },
+    {
+      "key": "20261119-ezmaker-guest-i2v-free-daily-basic-540p4s-claims-conditional",
+      "kind": "new",
+      "summary": "EzMaker AI 운영사 I2V 생성기 페이지에서 무가입·무카드·무워터마크 무료 영상 제작 및 매일 무료 제공을 안내. 공개 생성기 기본값은 자체 EZMAKER V1 'Auto 4초·540p'이며 FAQ는 무료 최대 720p·최대 30초도 별도로 주장함. 실제 무료로 선택 가능한 초수/모델·일일 횟수는 공개 설명에서 일치하지 않아 기본값 540p·4초를 관찰된 웹 인터페이스 설정으로 기록하고 720p/30초를 실현 혜택으로 단정하지 않음.",
+      "observedAt": "2026-11-19",
+      "evidence": [
+        "https://ezmaker.ai/image-to-video/",
+        "https://ezmaker.ai/ai-video-generator/"
+      ],
+      "site": {
+        "name": "EzMaker AI — 무가입 기본 I2V 540p·4초(무료 조건부)",
+        "url": "https://ezmaker.ai/image-to-video/",
+        "grade": "C",
+        "models": "웹 생성기 기본 EZMAKER V1 Auto 540p·4초 I2V. 사이트에 Kling 4.0, Veo 3.1, Seedance 2.5, Wan 3.0, MiniMax H3 등도 소개하지만 무료 제공 모델 범위 미확인.",
+        "grant": "운영사 FAQ: 가입·결제카드 없이 무료 I2V 매일 이용, 무워터마크 MP4 다운로드 주장. 실제 무료 횟수 비공개. 공개 UI는 4초·540p 기본값.",
+        "cycle": "매일 무료 제공 안내, 정확한 횟수·갱신 시각 불명.",
+        "notes": "홍보에는 '최대 30초', '최대 1080p/4K'가 있으나 무료 한도나 생성기 기본 설정과 혼동하지 않음. FAQ의 무료 720p와 공개 UI의 540p는 상이해 높은 품질로 확정 추천하지 않고 조건부 등록. 공개 홈페이지·공식 요금표/FAQ/이용약관 열람으로만 확인. 사용자 계정 로그인·무료 잔액 지급·영상 실제 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 변경 시행일과 다를 수 있음.",
+        "sources": [
+          "https://ezmaker.ai/image-to-video/",
+          "https://ezmaker.ai/ai-video-generator/"
+        ],
+        "checked": "2026-11-19",
+        "current": true,
+        "priority": 35
+      }
+    }
+  ]
+}
