@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T00:21:28.379Z",
+  "entries": [
+    {
+      "key": "20261120-geneso-wan30-free300welcome-50daily-480p2s",
+      "kind": "new",
+      "summary": "신규 무료 경로 Geneso. 운영사 Wan 3.0 모델 페이지에 Free 요금제 신규 300크레딧과 하루 50크레딧, Wan 3.0 최저 480p·2초 168크레딧, 720p·2초 336크레딧을 명시. 기본 가입량으로 480p 2초 1편, 300+50를 수령하면 720p 2초 1편 상당. 720p·5초 840크레딧은 기본 지급만으로 불가.",
+      "observedAt": "2026-11-20",
+      "evidence": [
+        "https://www.geneso.ai/en/models/wan-3-0",
+        "https://www.geneso.ai/en/pricing"
+      ],
+      "site": {
+        "name": "Geneso — Wan 3.0 가입 300+일일 50크레딧",
+        "url": "https://www.geneso.ai/en/models/wan-3-0",
+        "grade": "B",
+        "models": "Wan 3.0 T2V·I2V·참조 영상, 오디오 동시 생성. Free 요금제 Wan 3.0 480p·2초 168크레딧, 720p·2초 336크레딧, 720p·5초 840크레딧. Kling 4.0·Seedance 2.5 등도 목록에 있으나 최초 무료 잔액을 초과하는 경우가 많음.",
+        "grant": "무료 신규 회원 환영 300크레딧, 하루 50크레딧(운영사 공개 모델 안내 기준). 최초 300으로 480p 2초 1편, 일일 50도 더해지면 720p 2초 1편에 해당. 개별 요청은 실제 설정별 차감 견적 확인.",
+        "cycle": "운영사 '50 daily credits' 안내; 자동 지급/수동 출석 방식, 갱신 시각, 무료 크레딧의 만료는 미공개.",
+        "notes": "Alibaba 공식 서비스가 아닌 Geneso의 제3자 Runware 연계 경로. 사이트는 구입 크레딧의 무기한 보유를 안내하지만 무료 지급분까지 동일하게 해석하지 않음. 무료 MP4 다운로드·워터마크·카드 필요 여부는 모델 페이지에서 구체적으로 확인하지 못함. 2026-10-27 게시 페이지를 2026-11-20 처음 발견했으며 이 날짜를 신규 출시일로 간주하지 않음. 공식 공개 홈페이지·가격표·FAQ만 열람. 개인 계정 가입·로그인·크레딧 실제 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://www.geneso.ai/en/models/wan-3-0",
+          "https://www.geneso.ai/en/pricing"
+        ],
+        "checked": "2026-11-20",
+        "current": true,
+        "priority": 11
+      }
+    },
+    {
+      "key": "20261120-seedanceaidev-signup5-mini480p5s-30day",
+      "kind": "new",
+      "summary": "SeedanceAI.dev 독립 서비스의 신규 사용자 일회성 무료 5크레딧(30일 유효)으로 Seedance 2.0 Mini 480p·5초·오디오 영상 1회 생성 가능. Google 로그인 즉시 또는 이메일 인증 후 지급되는 적격 계정만 해당하며 결제카드 불필요. 720p 5초는 10크레딧, Fast 15·Standard 20·2.5 30크레딧부터로 무료분 초과. 정기 재충전 없음.",
+      "observedAt": "2026-11-20",
+      "evidence": [
+        "https://seedanceai.dev/seedance-2-0-free",
+        "https://seedanceai.dev/pricing"
+      ],
+      "site": {
+        "name": "SeedanceAI.dev — Seedance 2.0 Mini 첫 480p·5초",
+        "url": "https://seedanceai.dev/seedance-2-0-free",
+        "grade": "B",
+        "models": "Seedance 2.0 Mini T2V/I2V·참조 영상, 480p·5초, 동기 오디오 5크레딧. 720p·5초 10크레딧, 2.0 Fast 480p·5초 15, Standard 20, 2.5 30으로 무료 가입분 초과.",
+        "grant": "자격을 충족한 신규 계정에 최초 5크레딧(인증 시 1회), 최소 영상 1회 분량. Google 로그인 또는 이메일 링크 인증, 카드 불필요. 동일 네트워크 24시간 내 반복 가입·일회용 이메일은 제외.",
+        "cycle": "가입 1회, 운영사 안내 유효기간 30일; 일일·월간 무료 자동 재충전 없음.",
+        "notes": "ByteDance 공식 서비스가 아닌 독립 호스팅. 운영사가 무료 무워터마크를 일괄 보장하지 않음. MP4 다운로드 파일의 실제 워터마크 여부 및 생성 성공은 검증하지 않음. 실패한 제공자 작업은 확정 후 크레딧 환불 안내. 공식 공개 홈페이지·가격표·FAQ만 열람. 개인 계정 가입·로그인·크레딧 실제 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://seedanceai.dev/seedance-2-0-free",
+          "https://seedanceai.dev/pricing"
+        ],
+        "checked": "2026-11-20",
+        "current": true,
+        "priority": 12
+      }
+    },
+    {
+      "key": "20261120-zvidy-finite-welcome-hailuo02fast20-clean-export",
+      "kind": "new",
+      "summary": "Zvidy 신규 무료 체험 경로. 공식 무료 생성기 FAQ가 카드 없이 신규 계정에 유한한 환영 크레딧, 무료 크레딧 생성물의 별도 워터마크 없는 HD·MP4 다운로드, 실패 작업 크레딧 환불을 명시. 생성기 기본 Hailuo 02 FAST는 20크레딧부터이며 환영 크레딧의 정확한 지급량과 갱신 주기는 공개하지 않아 영상 편수 확정은 보류.",
+      "observedAt": "2026-11-20",
+      "evidence": [
+        "https://zvidy.com/free-image-to-video-ai-generator",
+        "https://zvidy.com/pricing"
+      ],
+      "site": {
+        "name": "Zvidy — 무료 환영 크레딧·무워터마크 I2V",
+        "url": "https://zvidy.com/free-image-to-video-ai-generator",
+        "grade": "U",
+        "models": "Hailuo 02 FAST I2V 등, 기본 생성기 최소 20크레딧 표시. T2V 탭도 제공, 모델·길이·화질별 사전 비용 표기. 더 비싼 모델은 유료 크레딧 필요할 수 있음.",
+        "grant": "신규 회원에 유한한 무료 환영 크레딧 제공(금액 미공개), 카드 불필요. 운영사는 가치형 모델 실제 영상 생성과 워터마크 없는 HD MP4 다운로드 가능하다고 명시; 최소 Hailuo 02 FAST 20크레딧.",
+        "cycle": "일회성 환영 잔액. 자동 일일·월간 재지급 없음; 만료 세부 조건 미공개.",
+        "notes": "무료 지급량 미공개이므로 20크레딧 이상의 지급 또는 실제 1편 완성을 수치로 확정하지 않음. HD·워터마크 없는 다운로드는 운영사 주장, 결과 파일로 검증하지 않음. 무료 결과물 상업 사용은 공식 요금표가 허용한다고 안내. 공식 공개 홈페이지·가격표·FAQ만 열람. 개인 계정 가입·로그인·크레딧 실제 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://zvidy.com/free-image-to-video-ai-generator",
+          "https://zvidy.com/pricing"
+        ],
+        "checked": "2026-11-20",
+        "current": true,
+        "priority": 19
+      }
+    },
+    {
+      "key": "20261120-wan3aiio-free13-480p5s-download-paywall",
+      "kind": "new",
+      "summary": "독립 Wan3 AI(wan-3ai.io)는 대상 지역 신규 가입 시 30일 유효 무료 13크레딧을 지급해 Wan 3.0 480p·5초·오디오 영상 1편 생성 가능하고 출석 시 매일 2~3크레딧(7일 유효)을 추가 지급. 그러나 요금 FAQ가 영상 다운로드를 유료 플랜 또는 크레딧 팩 구매 조건으로 명시하므로 '무료 MP4 제작'으로 등록하면 안 됨.",
+      "observedAt": "2026-11-20",
+      "evidence": [
+        "https://wan-3ai.io/pricing",
+        "https://wan-3ai.io/"
+      ],
+      "site": {
+        "name": "Wan3 AI — 무료 미리보기, MP4 다운로드 유료",
+        "url": "https://wan-3ai.io/pricing",
+        "grade": "U",
+        "models": "Wan 3.0 480p·5초 13크레딧, 720p·5초 25크레딧, 1080p·5초 50크레딧. T2V/I2V/참조 이미지 및 동기 오디오. 별도 Wan3ai.im·Wan-3.pro와 다른 독립 사이트.",
+        "grant": "지원 지역 신규 가입 무료 13크레딧(5초 480p 1편분), 출석당 2~3크레딧 추가. 무료 크레딧은 생성/미리보기용이며 영상 다운로드는 플랜 또는 크레딧 팩 구매 필요.",
+        "cycle": "신규 13크레딧 유효 30일, 일일 출석 2~3크레딧 유효 7일. 별도 월간 무료 자동 충전 명시 없음.",
+        "notes": "다운로드가 유료이므로 사용자 다운로드 가능한 무료 제작 도구 추천 후보에서는 제외해야 함. 무료 영상은 개인 이용만, 상업권은 구매자에게 부여. 공식 FAQ의 자격 지역에 한국이 포함되는지는 실제 로그인 검증하지 않음. 공식 공개 홈페이지·가격표·FAQ만 열람. 개인 계정 가입·로그인·크레딧 실제 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://wan-3ai.io/pricing",
+          "https://wan-3ai.io/"
+        ],
+        "checked": "2026-11-20",
+        "current": true,
+        "priority": 38
+      }
+    },
+    {
+      "key": "20261120-genvima-freebasic-720p5s-one-daily-download-paid",
+      "kind": "new",
+      "summary": "Genvima 공식 FAQ는 Google 로그인 무료 Basic 엔진에서 매일 720p·5초·사운드 포함 T2V 1편(이미지 3장 추가)을 카드·크레딧 없이 생성할 수 있다고 안내. 하지만 무료 생성 영상은 사이트에서만 재생 가능하고 MP4 다운로드는 첫 크레딧 팩 구매 후에야 개방되며 Seedance·Kling·Veo 모델은 유료. 따라서 무료 출력/다운로드 서비스로 오분류하지 않음.",
+      "observedAt": "2026-11-20",
+      "evidence": [
+        "https://genvima.com/"
+      ],
+      "site": {
+        "name": "Genvima — 매일 무료 Basic 영상 1편, 다운로드 유료",
+        "url": "https://genvima.com/",
+        "grade": "U",
+        "models": "자체 무료 Basic 텍스트→영상 엔진 720p·5초·오디오; Seedance 2.0 Mini, 2.5, Kling, Veo 등은 유료 크레딧 모델. 무료 Basic I2V는 안내되지 않음.",
+        "grant": "Google 계정 로그인 회원 무료 Basic T2V 하루 1편, 이미지 3장. 카드 불필요·크레딧 차감 없음. 생성 결과 재생 무료, MP4 다운로드 및 상업 이용은 구매 후.",
+        "cycle": "하루 1편(갱신 기준 시각 미공개).",
+        "notes": "홈페이지 상단의 일반 'MP4 무워터마크 다운로드' 홍보 문구는 유료 기능까지 포함. FAQ는 Basic 무료 영상 다운로드에 첫 결제 필요하다고 구분, 무료 다운로드 가능하다고 기록하면 안 됨. 공식 공개 홈페이지·가격표·FAQ만 열람. 개인 계정 가입·로그인·크레딧 실제 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 이번 조사일은 정책 시행일을 의미하지 않음.",
+        "sources": [
+          "https://genvima.com/"
+        ],
+        "checked": "2026-11-20",
+        "current": true,
+        "priority": 39
+      }
+    }
+  ]
+}
