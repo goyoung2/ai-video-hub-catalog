@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T00:21:38.970Z",
+  "generatedAt": "2026-11-21T01:05:34.702Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -3916,6 +3916,112 @@
         "checked": "2026-11-20",
         "current": true,
         "priority": 39
+      }
+    },
+    {
+      "key": "20261121-freevideoaiapp-h3standard-60welcome-6t2v-8i2v-30days",
+      "kind": "new",
+      "summary": "FreeVideo AI 독립 사이트에서 적격 신규 Google 계정에 30일 유효 60크레딧을 일회성 지급. 무료 적용 모델은 MiniMax H3 Standard 한 가지이며 T2V 6크레딧/작업(최대 10회), I2V·첫/끝 프레임 8크레딧/작업(최대 7회). 5·10·15초 무음 MP4 선택 및 운영사 워터마크 미추가, 카드 불필요를 공식 가격표·FAQ에 명시. 35종 유료 Cloud 모델과 별개.",
+      "observedAt": "2026-11-21",
+      "evidence": [
+        "https://freevideoai.app/pricing",
+        "https://freevideoai.app/faq",
+        "https://freevideoai.app/product-transparency"
+      ],
+      "site": {
+        "name": "FreeVideo AI — H3 Standard 가입 무료 60크레딧",
+        "url": "https://freevideoai.app/",
+        "grade": "B",
+        "models": "MiniMax H3 Standard T2V(6크레딧), I2V/첫·끝 프레임(8크레딧), 5·10·15초·세로/가로·무음 MP4. H3 Cloud 및 Seedance 2.5 Flash, Veo 3.1, Wan 3.0 등 35개 고급 모델은 구매 크레딧 전용.",
+        "grant": "적격 신규 Google 계정에 가입 무료 60크레딧(1회); H3 Standard T2V 최대 10회 또는 I2V 최대 7회 상당. 결제카드 불필요.",
+        "cycle": "신규 계정 최초 1회, 지급 후 30일 만료; 정기 일일·월간 리필 없음.",
+        "notes": "서비스가 추가하는 가시 워터마크 없는 MP4 다운로드를 안내. 공유 GPU 대기열에서 계정당 동시 작업 1개. 무료 혜택이 구매 모델로 확장되지 않으며 일괄 상업적 이용권은 제공하지 않는다고 공지. 결과물은 무음이며 예시 영상의 업스케일·음향과 혼동하지 않음. 공식 운영사 공개 홈페이지·가격표·FAQ 문서를 열람했으며, 실제 계정 가입/로그인, 지급 크레딧 수령, 영상 렌더링, MP4 다운로드 및 워터마크 실물 확인은 수행하지 않음. 조사일은 정책 시행일을 뜻하지 않음.",
+        "sources": [
+          "https://freevideoai.app/pricing",
+          "https://freevideoai.app/faq",
+          "https://freevideoai.app/product-transparency"
+        ],
+        "checked": "2026-11-21",
+        "current": true,
+        "priority": 13
+      }
+    },
+    {
+      "key": "20261121-rendastic-free-model-rendastic10-480p4s-muse-correction",
+      "kind": "changed",
+      "summary": "Rendastic 11월 6일 공개 피드에 무료 Muse 약 10초·720p 및 H3 4초·480p(음향 포함)라고 기록했으나, 11월 17일자로 갱신된 운영사 I2V 공식 FAQ의 현재 무료 설정 표는 Rendastic 1.0·480p·4초 단독으로 명시. 무료 음향은 보장하지 않으며 다른 모델·길이·화질은 크레딧 차감 대상. 기존 720p·10초 무료 추천은 정정 필요. 무료 하루 1회(영상·이미지·음성 공유)·무가입·무워터마크는 유지.",
+      "observedAt": "2026-11-21",
+      "evidence": [
+        "https://rendastic.com/image-to-video",
+        "https://rendastic.com/"
+      ],
+      "site": {
+        "name": "Rendastic — 무료 모델 Rendastic 1.0 480p·4초로 정정",
+        "url": "https://rendastic.com/",
+        "grade": "B",
+        "models": "현재 운영사 무료 설정표: Rendastic 1.0, 480p·4초. 무료 음향 비보장. Muse 720p·10초 또는 MiniMax H3 모델을 별도 무료 혜택으로 확정하지 않음. 다른 모델·해상도·길이는 유료 크레딧 견적 적용.",
+        "grant": "공유 무료 생성 1회/UTC 일일, 영상·이미지·오디오 합산. 무가입·무카드, 공유 용량과 이용 가능 여부에 따라 달라짐.",
+        "cycle": "UTC 기준 하루 1회, 미사용분 이월 없음. 무료 용량은 시간 단위로 열릴 수 있음.",
+        "notes": "기존 공개 업데이트 key 20261106-rendastic-free-muse720p10s-h3split의 무료 Muse 720p 옵션과 명백히 다른 현재 안내. 운영사 페이지는 Updated 2026-11-17 표시. 정확한 혜택 변경 시행 시각이나 모든 계정의 과거 Muse 무료 생성 종료를 단언하지 않으며 현재 홈페이지에서 무료 추천 조건을 수정하는 항목. 무료 MP4 자체 워터마크 없음(운영사 설명), 결과물 다운로드/기록 유지 7일 안내. 공식 운영사 공개 홈페이지·가격표·FAQ 문서를 열람했으며, 실제 계정 가입/로그인, 지급 크레딧 수령, 영상 렌더링, MP4 다운로드 및 워터마크 실물 확인은 수행하지 않음. 조사일은 정책 시행일을 뜻하지 않음.",
+        "sources": [
+          "https://rendastic.com/image-to-video",
+          "https://rendastic.com/"
+        ],
+        "checked": "2026-11-21",
+        "current": true,
+        "priority": 7
+      }
+    },
+    {
+      "key": "20261121-flovie-new-account-free-credits-h3base-amount-unknown",
+      "kind": "new",
+      "summary": "Flovie의 공식 홈페이지·FAQ에서 신규 가입 계정마다 영상 제작 무료 크레딧을 제공하며 MiniMax H3 Base(기본 4초·768p), Character, Native와 Seedance 2.0·Veo 3.1 등을 모델 목록에 표시. 생성 전 견적 및 완료 MP4 다운로드 제공. 무료 크레딧 액수·만료/갱신 주기·무워터마크 여부와 해당 금액으로 실제 제작 가능한 편수는 미공개이므로 조건부 후보로 기록.",
+      "observedAt": "2026-11-21",
+      "evidence": [
+        "https://flovie.io/",
+        "https://flovie.io/pricing"
+      ],
+      "site": {
+        "name": "Flovie — 신규 가입 무료 크레딧(지급량 미공개)",
+        "url": "https://flovie.io/",
+        "grade": "U",
+        "models": "MiniMax H3 Base·Character·Native, Seedance 2.0 Pro/Fast/Mini, Veo 3.1 등 모델 선택 가능. 웹 기본값 H3 Base 4초·768p·16:9; 실제 무료 계정의 사용 가능 모델은 지급 잔액과 작업 견적에 따름.",
+        "grant": "새 계정마다 무료 크레딧 지급(운영사 FAQ). 액수 미공개로 H3 Base 최소 작업을 충당하는지 또는 몇 편을 만들 수 있는지는 확정하지 않음.",
+        "cycle": "신규 가입 시 지급, 무료 크레딧 만료·자동 리필 여부는 미공개. 유료 Starter $9.90/월 800크레딧과 구분.",
+        "notes": "운영사에서 MP4 저장·다운로드 흐름을 설명하지만 무료 결과물의 워터마크·카드 필요 여부는 공시 근거 부족. 가격표의 1000크레딧당 H3 Base 약125회는 유료 크레딧 비교 예시이며 신규 무료 지급액으로 오인하지 않음. 공식 운영사 공개 홈페이지·가격표·FAQ 문서를 열람했으며, 실제 계정 가입/로그인, 지급 크레딧 수령, 영상 렌더링, MP4 다운로드 및 워터마크 실물 확인은 수행하지 않음. 조사일은 정책 시행일을 뜻하지 않음.",
+        "sources": [
+          "https://flovie.io/",
+          "https://flovie.io/pricing"
+        ],
+        "checked": "2026-11-21",
+        "current": true,
+        "priority": 25
+      }
+    },
+    {
+      "key": "20261121-vayovideo-30welcome-two-fast-previews-watermarked-download-paid",
+      "kind": "new",
+      "summary": "VayoVideo 독립 서비스의 30 무료 가입 크레딧은 실제 MiniMax H3 첫/끝 프레임 생성이 아니라 자체 VayoVideo Fast Video 미리보기 15크레딧×2회(3초·540p)에 해당. 공식 생성기가 비결제 사용자의 결과는 워터마크가 있는 미리보기이며 무워터마크 원본 잠금 해제에는 첫 크레딧 팩/구독 구매가 필요하다고 명시. 다운로드 가능한 무료 H3 서비스로 분류하지 않음.",
+      "observedAt": "2026-11-21",
+      "evidence": [
+        "https://vayovideo.com/minimax-h3-first-last-frame",
+        "https://vayovideo.com/pricing"
+      ],
+      "site": {
+        "name": "VayoVideo — 무료 2회 미리보기, 원본 잠금 유료",
+        "url": "https://vayovideo.com/minimax-h3-first-last-frame",
+        "grade": "U",
+        "models": "무료 크레딧으로 VayoVideo Fast Video 3초·540p 미리보기 2회. MiniMax H3 첫·끝 프레임 및 5/10/15초 본 생성은 별도 작업 견적 대상이며 무료 바우처로 가능하다고 안내하지 않음.",
+        "grant": "신규 회원 30크레딧(15크레딧짜리 Fast Video 방향 미리보기 최대 2회). 미결제 계정 무료 미리보기는 워터마크 포함, 원본·워터마크 해제는 구매 조건.",
+        "cycle": "신규 가입 보너스 일회성 안내; 반복 지급·만료 조건 미공개.",
+        "notes": "미리보기가 실제 H3 모델이라고 잘못 표기하거나 무워터마크 무료 MP4 다운로드로 추천하지 않음. 운영사 가격표의 상업권·무워터마크·HD 출력은 유료 혜택. 공식 운영사 공개 홈페이지·가격표·FAQ 문서를 열람했으며, 실제 계정 가입/로그인, 지급 크레딧 수령, 영상 렌더링, MP4 다운로드 및 워터마크 실물 확인은 수행하지 않음. 조사일은 정책 시행일을 뜻하지 않음.",
+        "sources": [
+          "https://vayovideo.com/minimax-h3-first-last-frame",
+          "https://vayovideo.com/pricing"
+        ],
+        "checked": "2026-11-21",
+        "current": true,
+        "priority": 41
       }
     }
   ]
