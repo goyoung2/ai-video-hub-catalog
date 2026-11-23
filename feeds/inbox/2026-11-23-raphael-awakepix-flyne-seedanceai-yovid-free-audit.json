@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-23T00:54:38.294Z",
+  "entries": [
+    {
+      "key": "20261123-raphael-h3turbo-free-cap-10-per24h",
+      "kind": "changed",
+      "summary": "Raphael AI MiniMax H3 Turbo 무료 계정의 480p·4초 T2V/I2V 한도가 현재 공식 생성기 FAQ 기준 24시간마다 최대 10편으로 명시됨. 2026-11-06에 게시했던 무료 회원 일일 무제한 안내를 정정. 비로그인 무료 체험은 유지하며 무제한 생성은 Max 유료 플랜 혜택. 제목의 'unlimited free videos'와 달리 구체 FAQ의 10회/24시간 제한을 우선 적용.",
+      "observedAt": "2026-11-23",
+      "evidence": [
+        "https://raphael.app/ai-video-generator",
+        "https://raphael.app/pricing"
+      ],
+      "site": {
+        "name": "Raphael AI — H3 Turbo 무료 한도 10편/24시간",
+        "url": "https://raphael.app/ai-video-generator",
+        "grade": "B",
+        "priority": 5,
+        "models": "무료: MiniMax H3 Turbo T2V/I2V 480p·4초, 자체 동기 오디오. 768p/상위 모델·장편 생성 등은 크레딧/유료 경로.",
+        "grant": "비회원 일부 무료 체험; 가입 무료 계정 기준 24시간마다 최대 10편(운영사 FAQ). '무제한 무료' 일반 헤드라인과 상충, 유료 Max는 무제한.",
+        "cycle": "가입 무료 계정 24시간마다 10편까지. 비회원 세부 무료 횟수 미기재.",
+        "notes": "2026-11-06 공개 피드의 무료 가입 계정 무제한 안내를 현행 상세 FAQ의 'up to 10 free videos a day'와 'per 24 hours'로 수정함. 무료 영상 개인·비상업적 사용 조건. 무료 영상 워터마크 여부는 별도 보장하지 않음. 2026-11-23 공식 운영사 홈페이지·가격표·FAQ 공개 열람. 개인 계정 로그인/무료 크레딧 수령, 실제 영상 생성, MP4 다운로드 및 워터마크 실물 검사는 수행하지 않음. 조사일은 정책 최초 시행일이 아님.",
+        "sources": [
+          "https://raphael.app/ai-video-generator",
+          "https://raphael.app/pricing"
+        ],
+        "checked": "2026-11-23",
+        "current": true
+      }
+    },
+    {
+      "key": "20261123-awakepix-one-lifetime-seedance20mini-i2v-480p5s-no-watermark",
+      "kind": "new",
+      "summary": "신규 독립 AwakePix 무료 영상: 이메일 인증 로그인 계정당 평생 Seedance 2.0 Mini 사진→영상 480p·5초·오디오 포함 1편, 자체 워터마크 없음. 카드·크레딧 불필요, 무료 파일 다운로드 가능. 무료 영상은 개인·비상업용이며 실패 생성은 횟수 차감 없음. 매일 무료 1개는 이미지 생성에만 적용, 영상은 일회성.",
+      "observedAt": "2026-11-23",
+      "evidence": [
+        "https://awakepix.com/pricing",
+        "https://awakepix.com/image-to-video"
+      ],
+      "site": {
+        "name": "AwakePix — Seedance 2.0 Mini 첫 영상 1회",
+        "url": "https://awakepix.com/image-to-video",
+        "grade": "B",
+        "priority": 16,
+        "models": "무료 I2V: Seedance 2.0 Mini, 480p·5초, 오디오 기본 포함. 사진 업로드 필요.",
+        "grant": "이메일 인증한 계정당 평생 무료 영상 1편, 신용카드·유료 크레딧 불필요, 무워터마크 다운로드 가능(공식 요금표).",
+        "cycle": "계정 평생 1회. 일일 1회 무료는 별도의 이미지 생성 한도이며 무료 영상 재충전 아님.",
+        "notes": "무료 영상은 인증 로그인 후 생성·미리보기·다운로드. 개인·비상업적 사용만, 오류 작업은 무료 한도 미소진. 완료된 무료 영상의 업로드 원본 사진은 완료 뒤 24시간 후 만료하며 계정 내 완성 결과물은 운영사 안내상 365일 보관; 이를 영상 다운로드 24시간 만료로 혼동하지 않음. 2026-11-23 공식 운영사 홈페이지·가격표·FAQ 공개 열람. 개인 계정 로그인/무료 크레딧 수령, 실제 영상 생성, MP4 다운로드 및 워터마크 실물 검사는 수행하지 않음. 조사일은 정책 최초 시행일이 아님.",
+        "sources": [
+          "https://awakepix.com/pricing",
+          "https://awakepix.com/image-to-video"
+        ],
+        "checked": "2026-11-23",
+        "current": true
+      }
+    },
+    {
+      "key": "20261123-flyne-free-h3-480p5s-tool-unlimited-versus-5daily-conflict",
+      "kind": "new",
+      "summary": "Flyne의 전용 무료 영상 도구는 MiniMax H3 480p·5초 T2V 또는 시작/종료 두 장 이미지 기반 영상, 무가입·0크레딧·무워터마크 다운로드를 홍보. 전용 페이지는 총 생성 횟수 무제한이라지만 무료 요금표는 무료 AI 도구 하루 5회라고 명시하므로 반복 무료 횟수는 제한·충돌 조건부로 등록.",
+      "observedAt": "2026-11-23",
+      "evidence": [
+        "https://flyne.ai/free-ai-video-generator/",
+        "https://flyne.ai/pricing/"
+      ],
+      "site": {
+        "name": "Flyne — MiniMax H3 480p·5초 무료 도구",
+        "url": "https://flyne.ai/free-ai-video-generator/",
+        "grade": "C",
+        "priority": 22,
+        "models": "전용 무료 MiniMax H3 T2V 또는 시작/종료 프레임 2장 I2V, 480p·5초, 16:9·9:16·1:1. 한 장만 넣는 I2V는 무료 도구에서 지원하지 않는다고 안내.",
+        "grant": "무료 전용 생성기 0크레딧·무가입·무카드·무워터마크·다운로드 홍보. 요금표는 새 가입 40크레딧 및 출석 일일 20크레딧을 다른 도구용으로 안내.",
+        "cycle": "전용 도구는 'unlimited generations/no total cap' 표기, 공식 무료 요금표는 '5 times free AI tools Daily' 명시. 실제 한도 적용 관계 불명확; 매일 무제한 확정으로 기록하지 않음.",
+        "notes": "가입 없이 보안 확인(verification) 후 공용 무료 대기열로 실행한다는 공식 안내. 전용 생성기와 일반 무료 요금제의 생성 횟수 문구가 불일치해 등급 C. 무료 상업권은 무료 플랜에 보장되지 않음. 2026-11-23 공식 운영사 홈페이지·가격표·FAQ 공개 열람. 개인 계정 로그인/무료 크레딧 수령, 실제 영상 생성, MP4 다운로드 및 워터마크 실물 검사는 수행하지 않음. 조사일은 정책 최초 시행일이 아님.",
+        "sources": [
+          "https://flyne.ai/free-ai-video-generator/",
+          "https://flyne.ai/pricing/"
+        ],
+        "checked": "2026-11-23",
+        "current": true
+      }
+    },
+    {
+      "key": "20261123-seedanceaiio-30signup-two-minis-daily-free-ai-mini-clip",
+      "kind": "new",
+      "summary": "독립 Seedance AI(seedance-ai.io) 신규 무료 경로: 가입 시 30크레딧으로 Seedance AI Mini 480p·5초 2편 또는 Seedance 2.0 Mini 480p·10초 1편 상당. 매일 출석 시 AI Mini 480p·최대5초 영상 1편 무료 패스(24시간 유효), 3일/7일 연속 출석 보너스 10/30크레딧. 카드 불필요·무워터마크 MP4 공식 안내. Seedance 2.0 Fast/2.0/2.5는 결제 팩 구매 후 이용.",
+      "observedAt": "2026-11-23",
+      "evidence": [
+        "https://seedance-ai.io/",
+        "https://seedance-ai.io/seedance-2-0-free"
+      ],
+      "site": {
+        "name": "Seedance AI — 가입 무료 30크레딧·매일 Mini 1편",
+        "url": "https://seedance-ai.io/",
+        "grade": "B",
+        "priority": 10,
+        "models": "무료 계정: Seedance AI Mini 480p·5초(운영사 FAQ에 3크레딧/초) 및 Seedance 2.0 Mini(최대 10초/480p 가입 보너스 기준), 소리 포함. 2.0 Fast/2.0/2.5는 첫 유료 크레딧 팩 구매 후 열림.",
+        "grant": "신규 회원 30크레딧(5초 AI Mini 2편 상당, 또는 10초 Seedance 2.0 Mini 1편 상당) + 일일 출석 AI Mini 480p·최대5초 무료 패스 1회. 카드 불필요, 무워터마크 MP4 운영사 안내.",
+        "cycle": "일일 출석 패스 1편/24시간(출석 후 24시간 유효). 연속 출석 3일 +10크레딧, 7일 +30크레딧. 기본 가입 크레딧 일회성, 보유 크레딧 만료 없음 안내.",
+        "notes": "seedanceai.dev(2026-11-20 등록)와 다른 독립 운영 도메인. ByteDance 공식 사이트 아님. 공식 무료 안내 일부 상단 문구는 'Seedance 2.0 무료'라고 하지만 상세 FAQ의 실제 반복 무료 모델은 AI Mini이며 2.0·Fast/2.5는 구매 후 해제. 운영사 모델명 및 백엔드 실측 확인하지 않음. 2026-11-23 공식 운영사 홈페이지·가격표·FAQ 공개 열람. 개인 계정 로그인/무료 크레딧 수령, 실제 영상 생성, MP4 다운로드 및 워터마크 실물 검사는 수행하지 않음. 조사일은 정책 최초 시행일이 아님.",
+        "sources": [
+          "https://seedance-ai.io/",
+          "https://seedance-ai.io/seedance-2-0-free"
+        ],
+        "checked": "2026-11-23",
+        "current": true
+      }
+    },
+    {
+      "key": "20261123-yovid-no-signup-guest-480p4s-watermark-login-clean-android-exclusion",
+      "kind": "changed",
+      "summary": "Yovid 기존 가입 5크레딧 무료 경로의 출력·로그인 조건 구체화: 기기당 비회원 최초 1회 Seedance 2.0 Mini 480p·4초·오디오 미리보기는 워터마크 포함, Android에는 비회원 체험 제공 안 함. 로그인하면 결과물을 Yovid 워터마크 없이 다운로드할 수 있으며 비회원 시도와 가입 크레딧은 같은 무료 잔액을 사용해 중복 지급되지 않음. 상위 모델은 유료.",
+      "observedAt": "2026-11-23",
+      "evidence": [
+        "https://yovid.ai/",
+        "https://yovid.ai/models/seedance-2-0-mini",
+        "https://yovid.ai/pricing"
+      ],
+      "site": {
+        "name": "Yovid — 비회원 체험 워터마크 및 Android 제외",
+        "url": "https://yovid.ai/",
+        "grade": "B",
+        "priority": 20,
+        "models": "비회원 최초 무료: Seedance 2.0 Mini T2V/I2V, 480p·4초·소리 포함. 회원 무료 잔액 허용 영상 모델은 생성 화면 견적 기준, 상위 Seedance·Kling·Veo 별도 크레딧.",
+        "grant": "가입 무료 크레딧은 기존 5크레딧 안내. 비회원 기기당 최초 1회 체험도 같은 계정/신규 무료 잔액에서 차감되며 추가 1회로 합산 불가. 비회원 워터마크 포함, 로그인 후 무워터마크 다운로드 안내.",
+        "cycle": "기기당 비회원 체험 최초 1회(안드로이드 제외); 신규 가입 5크레딧 일회성, 자동 무료 재충전 안내 없음.",
+        "notes": "2026-11-02 공개 피드는 무료 영상의 워터마크 여부가 불명확했으나 현행 운영사 FAQ가 비로그인 결과물은 워터마크, 로그인 다운로드는 워터마크 제거라고 구분. 무료 출력은 안드로이드 비회원 체험 미지원. 무료·상업적 이용권은 별개. 2026-11-23 공식 운영사 홈페이지·가격표·FAQ 공개 열람. 개인 계정 로그인/무료 크레딧 수령, 실제 영상 생성, MP4 다운로드 및 워터마크 실물 검사는 수행하지 않음. 조사일은 정책 최초 시행일이 아님.",
+        "sources": [
+          "https://yovid.ai/",
+          "https://yovid.ai/models/seedance-2-0-mini",
+          "https://yovid.ai/pricing"
+        ],
+        "checked": "2026-11-23",
+        "current": true
+      }
+    }
+  ]
+}
