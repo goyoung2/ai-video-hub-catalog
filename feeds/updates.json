@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T00:54:47.631Z",
+  "generatedAt": "2026-11-24T00:41:31.210Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -4307,6 +4307,86 @@
         "checked": "2026-11-23",
         "current": true
       }
+    },
+    {
+      "key": "20261124-aifree-happyhorse11-one-trial-seedance10-two-free",
+      "kind": "changed",
+      "summary": "기존 AIFree의 무료 Wan 2.2 외에 HappyHorse 1.1 인증 계정당 480p·5초 T2V 1편(기존 계정 포함, 공용 일일 슬롯), Seedance 1.0 Pro Fast 480p·4초 무음 T2V 비회원 1편+무료 가입 1편을 공식 모델별 FAQ에서 추가 확인. Seedance 무료 결과는 AIFree 표시가 붙으며 HappyHorse 워터마크는 별도 미공개. HappyHorse 무료 MP4는 완료 후 24시간 내 다운로드.",
+      "site": {
+        "name": "AIFree — HappyHorse 1.1·Seedance 1.0 Pro Fast 무료 체험 추가",
+        "url": "https://aifree.video/",
+        "grade": "B",
+        "models": "기존 Wan 2.2 5B Fast 480p 약5초 무음 T2V 공용 큐 유지. HappyHorse 1.1 480p·5초 T2V 인증 계정 체험; Seedance 1.0 Pro Fast 480p·4초 무음 T2V. I2V와 고해상도는 유료 크레딧.",
+        "grant": "HappyHorse 인증 계정당 최초 1편, 카드 불필요, 기존 회원도 대상, 공용 슬롯 제한. Seedance 비회원 최초 1편 및 무료 계정 1편 추가(서비스 표시 포함). Wan 무료 공용 대기열 및 자체 표시 없음은 기존과 동일.",
+        "cycle": "HappyHorse 개인 1회, 공용 슬롯 UTC 00:00 재개(행사 활성 중). Seedance 비회원/가입 각 1회; 자동 반복 충전 미명시. Wan 공용 풀 매일 UTC 00:00.",
+        "notes": "HappyHorse 무료 MP4는 완료 후 24시간 이내, 실패 시 체험권 복구 안내. HappyHorse 무료 워터마크·오디오 조건 미공개. Seedance 무료 1+1은 모델 전용 FAQ 기준이며 다른 무료 바우처와 독립적으로 중복 지급되는지는 미확인. 기존 20261115-aifree-wan22-guest-480p5s-free와 별개의 추가 무료 모델 정보. 2026-11-24 운영사 공개 페이지 및 FAQ 열람. 실제 계정 로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 13,
+        "current": true,
+        "sources": [
+          "https://aifree.video/",
+          "https://aifree.video/happyhorse",
+          "https://aifree.video/models/seedance-1-pro-fast"
+        ],
+        "checked": "2026-11-24"
+      },
+      "evidence": [
+        "https://aifree.video/",
+        "https://aifree.video/happyhorse",
+        "https://aifree.video/models/seedance-1-pro-fast"
+      ],
+      "observedAt": "2026-11-24"
+    },
+    {
+      "key": "20261124-pixquill-free10-daily5-video-credit-conditional",
+      "kind": "new",
+      "summary": "PixQuill 공식 가격표의 가입 10크레딧 및 UTC 일일 출석 5크레딧, 공용 이미지·영상 잔액, 카드 불필요 및 운영사 워터마크 없는 다운로드를 확인. 영상 안내의 8초 최저 60크레딧 기준 가입 지급분만으로 불충분하며 누적 출석·무료 잔액 유지가 전제.",
+      "site": {
+        "name": "PixQuill — 가입 10·일일 출석 5크레딧(영상 조건부)",
+        "url": "https://pixquill.com/free-ai-video-generator",
+        "grade": "U",
+        "models": "MiniMax H3 기본 768p·5초 표시, Veo·Kling·Seedance·Wan 등 10종 이상. 8초 영상 최저 60크레딧 안내; 모델별 실제 견적 로그인 필요.",
+        "grant": "가입 10크레딧 + 출석 5크레딧/일, 카드 불필요. 8초 60크레딧 예시에는 가입분 외 10회 출석 상당 필요(무료 잔액이 계속 누적되는 경우). 자체 워터마크 미추가 안내.",
+        "cycle": "매일 UTC 00:00 출석 재개. 무료 크레딧 만료 및 누적 상한은 미공개.",
+        "notes": "유료 팩의 무기한 조건을 무료 출석 잔액에 적용하지 않음. 무료 1080p·특정 모델 생성 가능 편수 확정하지 않음. 2026-11-24 운영사 공개 페이지 및 FAQ 열람. 실제 계정 로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 35,
+        "current": true,
+        "sources": [
+          "https://pixquill.com/pricing",
+          "https://pixquill.com/free-ai-video-generator"
+        ],
+        "checked": "2026-11-24"
+      },
+      "evidence": [
+        "https://pixquill.com/pricing",
+        "https://pixquill.com/free-ai-video-generator"
+      ],
+      "observedAt": "2026-11-24"
+    },
+    {
+      "key": "20261124-happyhorse-com-daily-login-free-hh11",
+      "kind": "new",
+      "summary": "HappyHorse(happyhorse.com) 운영 사이트의 구독 안내에서 무료 계정 매일 로그인 크레딧과 동시 생성 최대 2건 확인. 홈페이지 기본 HH 1.1 720p·5초 표시. 브랜드 워터마크 제거·1080p 생성은 유료 플랜 혜택이며 무료 크레딧 액수와 영상당 비용은 공개 문서에서 정량화되지 않음.",
+      "site": {
+        "name": "HappyHorse — HH 1.1 일일 로그인 크레딧",
+        "url": "https://www.happyhorse.com/",
+        "grade": "U",
+        "models": "HH 1.1 T2V/I2V/레퍼런스→영상, 기본 생성기 720p·5초 표시. 1080p는 구독 혜택 표기.",
+        "grant": "무료 계정 일일 로그인 크레딧, 동시 생성 최대 2건. 무료 지급량·모델별 차감량 미공개. 워터마크 제거는 유료 Standard/Pro 혜택.",
+        "cycle": "일일 로그인, 정확한 초기화 시각·무료 잔액 만료 미공개.",
+        "notes": "동시 생성 2건을 하루 무료 영상 2편으로 해석하지 않음. 공개 생성기 기본값과 무료 계정으로 실행 가능한 화질 구분. 카드 요구·무료 다운로드의 구체 조건 미공개. 다른 유사 이름 도메인과 구분. 2026-11-24 운영사 공개 페이지 및 FAQ 열람. 실제 계정 로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 18,
+        "current": true,
+        "sources": [
+          "https://www.happyhorse.com/",
+          "https://www.happyhorse.com/subscription"
+        ],
+        "checked": "2026-11-24"
+      },
+      "evidence": [
+        "https://www.happyhorse.com/",
+        "https://www.happyhorse.com/subscription"
+      ],
+      "observedAt": "2026-11-24"
     }
   ]
 }
