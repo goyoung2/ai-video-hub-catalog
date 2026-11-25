@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T00:38:29Z",
+  "entries": [
+    {
+      "key": "20261125-dola-ai-org-60signup-seedance20fast-480p4s",
+      "kind": "new",
+      "summary": "독립 Dola AI의 가입 60크레딧과 Seedance 2.0 Fast 480p 초당 15크레딧, 4초 선택지를 확인. 공개 단가 기준 4초 1편 상당이며 5초 75크레딧은 무료 지급량 초과. 카드 불필요·무워터마크 안내.",
+      "observedAt": "2026-11-25",
+      "evidence": [
+        "https://dola-ai.org/",
+        "https://dola-ai.org/pricing"
+      ],
+      "site": {
+        "name": "Dola AI — 가입 60크레딧 Seedance 2.0 Fast",
+        "url": "https://dola-ai.org/",
+        "grade": "B",
+        "models": "Seedance 2.0 Fast T2V/I2V, 480p 4초 선택 시 공개 최저 단가 15크레딧/초 기준 60크레딧. 480p 5초 75, 720p 5초 160, Pro 1080p 5초 475.",
+        "grant": "가입 60크레딧, 결제카드 불필요. 최저 4초 설정이면 1편 상당. 운영사 워터마크 없음 안내.",
+        "cycle": "가입 1회, 반복 무료 지급 미명시. 가격표는 크레딧 만료 없음 안내.",
+        "notes": "4초 가격은 초당 최저 단가로 계산했으며 음향 옵션 등 추가 차감 여부는 실제 견적에 따름. 무료 상업용 권한·파일 다운로드 직접 확인하지 않음. 다른 Dola 브랜드와 무관한 독립 사이트임을 가격표 하단에서 확인. 2026-11-25 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 14,
+        "sources": [
+          "https://dola-ai.org/",
+          "https://dola-ai.org/pricing"
+        ],
+        "checked": "2026-11-25",
+        "current": true
+      }
+    },
+    {
+      "key": "20261125-vidlark-free100-checkin30-30days-runway-grok",
+      "kind": "new",
+      "summary": "Vidlark 가격표에서 대부분 지역 이메일 인증 가입 100크레딧, 출석 30크레딧 표기, 무료 잔액 30일 만료와 워터마크 포함·개인 이용 조건을 확인. Runway Gen-4 Turbo 720p 5초 또는 Grok Imagine Video 480p 5초 각 60크레딧 예시.",
+      "observedAt": "2026-11-25",
+      "evidence": [
+        "https://vidlark.ai/",
+        "https://vidlark.ai/pricing"
+      ],
+      "site": {
+        "name": "Vidlark — 가입 100·출석 30크레딧",
+        "url": "https://vidlark.ai/",
+        "grade": "B",
+        "models": "무료 기본 설정 22개 이미지·영상 모델에 접근 안내. Runway Gen-4 Turbo 720p·5초 60c, Grok Imagine Video 480p·5초 60c. Veo 3.1 Lite 및 Fast도 기본 모델 목록이나 정확한 무료 설정 제한 적용. Seedance 2.0 Mini·Wan 3.0·H3 등은 유료 개방.",
+        "grant": "대부분 지역 인증 가입 100크레딧 + 가격표 출석 30크레딧 표시. 카드 불필요. 예시 60c 영상 1편, 출석분까지 130c 보유 시 2편 상당. 무료 출력은 Vidlark 워터마크, 개인 이용.",
+        "cycle": "가입 1회 + 일일 출석 안내(표 30c, 정확한 지급 시각/지역별 추가 조건 미공개). 무료 크레딧 30일 만료, 생성물 30일 보관.",
+        "notes": "유료 Unlimited의 무제한/무료 모델 혜택을 무과금 계정과 구분. 가입 보너스의 한국 지급량은 미시험. 무료 파일은 워터마크 포함 다운로드 안내, 결제 후 깨끗한 파일 잠금 해제. 2026-11-25 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 19,
+        "sources": [
+          "https://vidlark.ai/",
+          "https://vidlark.ai/pricing"
+        ],
+        "checked": "2026-11-25",
+        "current": true
+      }
+    },
+    {
+      "key": "20261125-genmix-happyhorse11-free720p-13checkins",
+      "kind": "changed",
+      "summary": "기존 GenMix 출석형 크레딧의 HappyHorse 1.1 무료 모델 경로 추가 확인. 가입 10+일일 출석 3, 720p 3초 48크레딧이므로 13회 출석 시 49크레딧으로 1편 상당. 무워터마크 및 무료 상업용 라이선스 안내.",
+      "observedAt": "2026-11-25",
+      "evidence": [
+        "https://genmix.ai/happyhorse-1-1",
+        "https://genmix.ai/pricing"
+      ],
+      "site": {
+        "name": "GenMix — HappyHorse 1.1 무료 출석 경로 추가",
+        "url": "https://genmix.ai/happyhorse-1-1",
+        "grade": "B",
+        "models": "HappyHorse 1.1 T2V/I2V/레퍼런스→영상, 오디오 포함, 3~15초, 무료 계정 720p 16c/초. 1080p는 유료.",
+        "grant": "기존 가입 10크레딧 + 매일 출석 3크레딧. 720p 3초 48c: 13회 출석, 5초 80c: 24회 출석 상당(미사용 누적 기준). 모델 FAQ는 무료도 워터마크 없는 다운로드 및 상업적 이용 가능 안내(모델 제공자 약관 적용 가능).",
+        "cycle": "가입 1회 + 일일 출석, 무료 잔액 만료 상세 미공개.",
+        "notes": "20261118-genmix-kling40flash-daily-checkin-3credits-720p3s와 동일 잔액을 공유하며 추가 보너스가 아님. 모델 FAQ의 2026-11-17 테스트는 운영사 자체 사례이고 이번 조사자의 생성 검증이 아님. 2026-11-25 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 9,
+        "sources": [
+          "https://genmix.ai/happyhorse-1-1",
+          "https://genmix.ai/pricing"
+        ],
+        "checked": "2026-11-25",
+        "current": true
+      }
+    },
+    {
+      "key": "20261125-vidu-seed23-daily-login-signup-trial",
+      "kind": "changed",
+      "summary": "기존 Vidu 카탈로그의 월간 갱신 표기를 공식 가격 FAQ의 가입 체험 및 매일 로그인 보너스 안내로 보완. 월 30일 구독 크레딧과 무료 로그인 보너스는 구분. 무료 지급량과 Q4 무료 접근 범위는 미공개.",
+      "observedAt": "2026-11-25",
+      "evidence": [
+        "https://s.vidu.com/pricing",
+        "https://www.vidu.com/pricing"
+      ],
+      "site": {
+        "id": "seed_23",
+        "name": "Vidu",
+        "url": "https://www.vidu.com/",
+        "grade": "B",
+        "models": "Vidu 계열; Q4 무료 접근 범위 미확정.",
+        "grant": "신규 가입 체험 크레딧 및 일일 로그인 보너스 공식 FAQ 확인. 구체적인 무료 지급량 미공개.",
+        "cycle": "가입 1회 + 일일 로그인 보너스. 무료 지급분 만료 및 이월은 별도 미공개.",
+        "notes": "월간 30일 유효 구독 크레딧을 무료 플랜의 갱신 주기로 혼동하지 않음. 이벤트·구매 크레딧 2년 유효 설명을 일일 무료 보너스에 적용하지 않음. 최신 www 가격표는 동적 로딩 화면으로 금액 직접 확인 불가; s.vidu.com 공식 FAQ 근거. 무료 워터마크·다운로드 세부 조건 추가 확정 없음. 2026-11-25 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 13,
+        "sources": [
+          "https://s.vidu.com/pricing",
+          "https://www.vidu.com/pricing"
+        ],
+        "checked": "2026-11-25",
+        "current": true
+      }
+    },
+    {
+      "key": "20261125-pixverse-seed45-rewards-expiry-single-job-credit-priority",
+      "kind": "changed",
+      "summary": "PixVerse 11월 13일 갱신 공식 도움말에서 광고 시청·영상 공유 등 Rewards Center 무료 보상도 당일 소멸하며, 단일 작업이 60크레딧을 초과하면 일일 무료분을 건너뛰어 유료 잔액을 차감하는 규칙 확인. Basic 가입 60·일일 30·최대 540p 기존 조건은 유지.",
+      "observedAt": "2026-11-25",
+      "evidence": [
+        "https://pixverse.ai/en/help-center/credits",
+        "https://app.pixverse.ai/subscribe"
+      ],
+      "site": {
+        "id": "seed_45",
+        "name": "PixVerse",
+        "url": "https://app.pixverse.ai/subscribe",
+        "grade": "A",
+        "models": "Basic 자체 영상 모델, 최대 540p, 워터마크 포함. 외부 모델은 상위 플랜.",
+        "grant": "Basic 가입 60 + 매일 로그인 30크레딧 유지. 광고 시청·영상 공유 보상은 별도 수량 미공개. 도움말의 60은 무료 일일분 사용 우선 처리 상한이며 Basic 지급량 증가를 의미하지 않음.",
+        "cycle": "UTC 00:00(한국 09:00) 이후 첫 로그인 지급, 일일 로그인 및 Rewards Center 보상 모두 당일 소멸.",
+        "notes": "기존 20261021-pixverse-free-resolution-reset에서 없던 Rewards Center 보상 만료 및 차감 순서 보완. 60c 초과 단일 작업은 일일 무료 잔액 대신 유료 잔액 차감 안내(일반 계정 설명이며 Basic 30c 지급량과 구분). 일반 프로모션 Bonus Credits와 Rewards Center 보상도 구분. 도움말 2026-11-13 갱신. 2026-11-25 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 9,
+        "sources": [
+          "https://pixverse.ai/en/help-center/credits",
+          "https://app.pixverse.ai/subscribe"
+        ],
+        "checked": "2026-11-25",
+        "current": true
+      }
+    }
+  ]
+}
