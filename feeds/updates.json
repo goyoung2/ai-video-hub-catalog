@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T00:39:47.227Z",
+  "generatedAt": "2026-11-26T00:45:14.825Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -4519,6 +4519,89 @@
         "checked": "2026-11-25",
         "current": true
       }
+    },
+    {
+      "key": "20261126-gatsbyai-seedance20mini-10daily-480p4s",
+      "kind": "new",
+      "summary": "GatsbyAI 모델별 FAQ에서 로그인 후 일일 10크레딧으로 Seedance 2.0 Mini 480p·4초 1편을 생성하는 무료 설정 확인. 비회원 하루 한도는 현재 0으로 명시. 무워터마크 출력은 유료 플랜 혜택.",
+      "evidence": [
+        "https://gatsbyai.app/",
+        "https://gatsbyai.app/seedance-2-0-free"
+      ],
+      "site": {
+        "name": "GatsbyAI — Seedance 2.0 Mini 일일 무료",
+        "url": "https://gatsbyai.app/",
+        "grade": "B",
+        "models": "Seedance 2.0 Mini T2V/I2V, 무료 고정 480p·4초·1편 설정. 일반 모델표의 Mini 111c 이상과 별도로 무료 지정 설정 10c.",
+        "grant": "로그인 후 일일 10크레딧, 지정 Mini 영상 1편 상당. 비회원 무료 생성 한도 현재 0. 무워터마크·상업 이용은 유료 플랜 혜택. 무료 MP4 내보내기 및 카드 조건 별도 미공개.",
+        "cycle": "매일 로그인 후 청구, 리셋 시각 및 잔액 이월 미공개.",
+        "notes": "FAQ는 비회원 무료라고 홍보하지만 구체적인 한도는 0편으로 표시하여 비회원 무료를 등록하지 않음. 무료 지정 설정과 일반 모델 단가를 분리. 지역·계정별 가용성 조건. 2026-11-26 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 18,
+        "sources": [
+          "https://gatsbyai.app/",
+          "https://gatsbyai.app/seedance-2-0-free"
+        ],
+        "checked": "2026-11-26",
+        "current": true
+      },
+      "observedAt": "2026-11-26"
+    },
+    {
+      "key": "20261126-happyhorse-video-lite-20-welcome-480p5s",
+      "kind": "new",
+      "summary": "happyhorse.video 독립 서비스에서 가입 20 무료 크레딧과 Lite 480p·5초 T2V 기본 설정 20크레딧 확인. HappyHorse 1.1 기본 480p·5초는 50크레딧으로 무료 잔액 초과. 무료 출력 워터마크 여부 미공개.",
+      "evidence": [
+        "https://happyhorse.video/",
+        "https://happyhorse.video/pricing",
+        "https://happyhorse.video/happyhorse-1-1"
+      ],
+      "site": {
+        "name": "HappyHorse.video — Lite 첫 480p·5초",
+        "url": "https://happyhorse.video/",
+        "grade": "B",
+        "models": "운영사 표기 Lite 480p·5초 T2V 20c. HappyHorse 1.1 기본 480p·5초 50c로 별도. 모델 실제 백엔드 미시험.",
+        "grant": "가입 20크레딧, 카드 불필요 안내. Lite 기본값 1편 상당. 일반 다운로드 안내는 있으나 무료 MP4 및 워터마크 조건 미확정. 가격표는 유료 플랜 무워터마크 명시.",
+        "cycle": "가입 1회, 추가 반복 지급·만료 미공개.",
+        "notes": "11월 24일 등록 happyhorse.com과 도메인이 다른 운영 경로. HappyHorse 1.1 무료 제공으로 확대 해석하지 않음. 홈페이지 일반 상업 이용 주장과 유료 플랜 상업 이용 표기가 달라 무료 라이선스 미확정. 2026-11-26 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 21,
+        "sources": [
+          "https://happyhorse.video/",
+          "https://happyhorse.video/pricing",
+          "https://happyhorse.video/happyhorse-1-1"
+        ],
+        "checked": "2026-11-26",
+        "current": true
+      },
+      "observedAt": "2026-11-26"
+    },
+    {
+      "key": "20261126-hailuo-seed48-welcome-three-day-watermark-terms",
+      "kind": "changed",
+      "summary": "기존 Hailuo 공식 seed_48의 미확인 무료 주기를 공식 구독 약관의 신규 계정 1회 환영 크레딧·지급 3일 후 만료·무료 다운로드 워터마크로 보완. MiniMax Design 3000크레딧 및 H3 3회와 일반 웹 가입 혜택은 분리.",
+      "evidence": [
+        "https://hailuoai.video/doc/payment-policy.html",
+        "https://hailuoai.video/tools/ai-video-generator",
+        "https://hailuoai.video/tools/hailuo-2-3-model"
+      ],
+      "site": {
+        "id": "seed_48",
+        "name": "Hailuo AI 공식",
+        "url": "https://hailuoai.video/",
+        "grade": "B",
+        "models": "Hailuo/MiniMax H3 계열. 일반 웹 환영 크레딧으로 접근 가능한 최신 H3 모델·생성 수량은 계정 견적 기준.",
+        "grant": "2025-06-18 이후 신규 계정에 환영 무료 크레딧 1회, 지급량 약관 미명시. 무료 다운로드 워터마크 포함. H3 3회 및 3000c는 MiniMax Design 다운로드 신규 사용자 프로모션 안내로 웹 가입 기본 지급량과 구분.",
+        "cycle": "환영 패키지 1인 1회, 지급 3일 후 만료. 모델 출시 행사에서는 별도 일일 무료 체험이 있을 수 있으나 상시 일일 갱신으로 등록하지 않음.",
+        "notes": "공식 구독 약관 최종 갱신 2025-07-14. 신규 무료 정책 발생으로 주장하지 않고 기존 미확인 기록에 대한 공식 근거 보완. 홈페이지 배너에서 현재 일반 웹 가입 지급량 직접 확인하지 못함. 무료 다운로드 워터마크는 약관 7절, 환영 패키지는 9절 근거. 2026-11-26 운영사 공개 페이지 열람. 실제 가입·로그인·무료 크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 조사일은 정책 시행일이 아님.",
+        "priority": 12,
+        "sources": [
+          "https://hailuoai.video/doc/payment-policy.html",
+          "https://hailuoai.video/tools/ai-video-generator",
+          "https://hailuoai.video/tools/hailuo-2-3-model"
+        ],
+        "checked": "2026-11-26",
+        "current": true
+      },
+      "observedAt": "2026-11-26"
     }
   ]
 }
