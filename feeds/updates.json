@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T01:03:38.079Z",
+  "generatedAt": "2026-11-28T00:37:53.808Z",
   "entries": [
     {
       "key": "20261020-kavel-free",
@@ -4738,6 +4738,113 @@
         "checked": "2026-11-27",
         "current": true
       }
+    },
+    {
+      "key": "20261128-aimakevideo-guest-seedance1-480p4s-welcome10",
+      "kind": "new",
+      "summary": "aiMakeVideo 비회원 7일 이내 Seedance 1 Pro Fast 480p 최대 4초 T2V 1편 및 이미지 2건 체험 안내. 지역별 신규 가입 최대 10크레딧(365일 유효, 카드 불필요), 최저 비용 480p 5초 영상 1편 상당. 무료 다운로드 워터마크 미확인.",
+      "evidence": [
+        "https://aimakevideo.com/",
+        "https://aimakevideo.com/pricing",
+        "https://aimakevideo.com/text-to-video"
+      ],
+      "site": {
+        "name": "aiMakeVideo — 첫 무료 영상 및 가입 크레딧",
+        "url": "https://aimakevideo.com/",
+        "grade": "B",
+        "models": "비회원 Seedance 1 Pro Fast 480p 최대 4초 T2V; 가입 최저 비용 모델 480p 5초 상당. H3 Turbo 480p 5초 기본 화면 견적 40크레딧.",
+        "grant": "비회원 영상 1편 및 이미지 2건(7일 체험), 신규 가입 최대 10크레딧, 카드 불필요. 지역별 상이. 두 혜택의 중복 수령 여부 미공개.",
+        "cycle": "비회원 체험 7일 이내, 가입 보너스 1회(365일 유효), 반복 갱신 미공개.",
+        "notes": "공식 가격표에서 가입 최대 10크레딧을 확인했으나 유료 팩의 영상 편수 환산은 더 높은 단가를 시사하므로 구체 모델 비용은 생성 전 확인. 기본 H3 Turbo 40크레딧은 무료 잔액 초과. 무료 MP4 다운로드 및 워터마크 조건 불명, 상업권은 지정 유료 플랜 혜택. 독립 서비스. 2026-11-28 운영사 공개 웹페이지 및 관련 FAQ/요금표 열람 기준. 실제 가입·로그인·크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 관찰일은 정책 시행일과 다를 수 있음.",
+        "priority": 25,
+        "sources": [
+          "https://aimakevideo.com/",
+          "https://aimakevideo.com/pricing",
+          "https://aimakevideo.com/text-to-video"
+        ],
+        "checked": "2026-11-28",
+        "current": true
+      },
+      "observedAt": "2026-11-28"
+    },
+    {
+      "key": "20261128-arteza-signup10-seedance1lite-conditional",
+      "kind": "new",
+      "summary": "Arteza 자체 공식 4월 가이드에 가입 10크레딧 일회성, 카드 불필요, Seedance 1.0 Lite 저비용 영상 및 무워터마크 안내. 현행 가격표의 무료 FAQ 답변은 노출되지 않아 현재 지급·출력 조건은 조건부로 기록.",
+      "evidence": [
+        "https://arteza.ai/blog/free-ai-video-generator",
+        "https://arteza.ai/pricing"
+      ],
+      "site": {
+        "name": "Arteza — 가입 무료 10크레딧 후보",
+        "url": "https://arteza.ai/",
+        "grade": "U",
+        "models": "Seedance 1.0 Lite I2V 공식 4월 가이드 단가 1.1~9.5크레딧/회; 정확한 무료 길이·해상도와 현재 단가 미확인.",
+        "grant": "공식 2026-04-10 가이드 가입 10크레딧, 카드 불필요 및 자체 워터마크 없음 주장. 당시 단가상 Lite 영상 1편 이상 가능. 현행 무료 지급 여부 미확인.",
+        "cycle": "가이드 기준 일회성, 잔액 만료 없음; 반복 갱신 미공개.",
+        "notes": "현재 가격표는 무료 FAQ 질문만 노출되고 답변은 확인되지 않음. 4월 가이드의 조건을 11월 신규 출시나 확정 정책으로 간주하지 않음. 최신 고급 모델 요금표의 크레딧 수치를 무료 접근 권한으로 해석하지 않음. 무료 MP4 내보내기 제한 미확인. 2026-11-28 운영사 공개 웹페이지 및 관련 FAQ/요금표 열람 기준. 실제 가입·로그인·크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 관찰일은 정책 시행일과 다를 수 있음.",
+        "priority": 35,
+        "sources": [
+          "https://arteza.ai/blog/free-ai-video-generator",
+          "https://arteza.ai/pricing"
+        ],
+        "checked": "2026-11-28",
+        "current": true
+      },
+      "observedAt": "2026-11-28"
+    },
+    {
+      "key": "20261128-freecreate-h3-guest-480p4s-clean-conditional",
+      "kind": "changed",
+      "summary": "FreeCreate 기존 Omni Flash 무료 기록에 MiniMax H3 전용 비회원 480p·4초 무워터마크 경로를 보완. 동일 페이지 생성기 하단 768p 표시와 설명 480p가 상충하므로 무료 768p를 확정하지 않음.",
+      "evidence": [
+        "https://freecreate.app/free-ai-video-generator-no-restrictions",
+        "https://freecreate.app/models/minimax-h3"
+      ],
+      "site": {
+        "name": "FreeCreate — MiniMax H3 무료 무워터마크 경로",
+        "url": "https://freecreate.app/",
+        "grade": "B",
+        "models": "MiniMax H3 T2V/I2V, 전용 페이지 설명 480p 4초; 하단 생성 UI 768p 4초 표시(무료 적용 여부 불명).",
+        "grant": "자격 충족 비회원 무료 생성, 결제정보 불필요, H3 결과 무워터마크 다운로드 안내. 로그인 일일 크레딧 지급량 미공개.",
+        "cycle": "기존 브라우저별 UTC 하루 1건 공유 기록 유지; H3 별도 추가 일일 한도 근거 없음.",
+        "notes": "기존 20261104-freecreate-guest-720p6s-shared-utc-daily의 Omni Flash 경로와 다른 모델별 정보. 전용 페이지 게시·갱신일 2026-10-31로 실제 출시일이 아닌 누락 정보 보완. FAQ는 무제한 생성이 아님을 명시. 제공사 768p/2K 사양은 무료 제공 조건이 아님. 2026-11-28 운영사 공개 웹페이지 및 관련 FAQ/요금표 열람 기준. 실제 가입·로그인·크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 관찰일은 정책 시행일과 다를 수 있음.",
+        "priority": 15,
+        "sources": [
+          "https://freecreate.app/free-ai-video-generator-no-restrictions",
+          "https://freecreate.app/models/minimax-h3"
+        ],
+        "checked": "2026-11-28",
+        "current": true
+      },
+      "observedAt": "2026-11-28"
+    },
+    {
+      "key": "20261128-magichour-seed20-network-shared-video-audio-ltx25",
+      "kind": "changed",
+      "summary": "Magic Hour 기존 일일 3회 공유 한도에 네트워크 단위 공유 및 기타 영상·오디오 도구 합산 조건을 보완. 현행 직접 열람 FAQ는 LTX-2.5 무료 480p·3초·오디오·워터마크를 명시. 검색 색인 일부의 도구별 3회 안내와 달라 합산 3회 유지.",
+      "evidence": [
+        "https://magichour.ai/products/ai-video-generator",
+        "https://magichour.ai/products/image-to-video"
+      ],
+      "site": {
+        "id": "seed_20",
+        "name": "Magic Hour",
+        "url": "https://magichour.ai/products/ai-video-generator",
+        "grade": "A",
+        "models": "무료 I2V LTX-2.5, 480p·3초·오디오, 워터마크 MP4. 고급 Seedance/Kling/Veo는 유료.",
+        "grant": "비회원 영상·오디오 도구 합산 3회/일, 동일 네트워크 사용자끼리도 공유. 기존 계정 가입 400+일일 100 최대 7회 별도 기록은 변경하지 않음.",
+        "cycle": "비회원 일일 공유 3회, 네트워크 단위; 정확한 갱신 시각 미공개.",
+        "notes": "기존 20261021-magichour-free-video-output 및 20261113-magichour-seed20-signup400-seven-daily100-account-credits 대조. 현재 직접 열람한 두 공식 FAQ가 네트워크 공유와 영상·오디오 합산을 명시. 일부 검색 색인의 도구별 3회 문구보다 최신 직접 열람 내용 우선. 실제 정책 변경 시점 불명. 무료 개인 비상업 이용 유지. 2026-11-28 운영사 공개 웹페이지 및 관련 FAQ/요금표 열람 기준. 실제 가입·로그인·크레딧 수령·영상 생성·MP4 다운로드·워터마크 실물 검사는 수행하지 않음. 관찰일은 정책 시행일과 다를 수 있음.",
+        "priority": 14,
+        "sources": [
+          "https://magichour.ai/products/ai-video-generator",
+          "https://magichour.ai/products/image-to-video"
+        ],
+        "checked": "2026-11-28",
+        "current": true
+      },
+      "observedAt": "2026-11-28"
     }
   ]
 }
